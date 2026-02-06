@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+python-dotenv
+
+sqlalchemy
+pymysql
+
+streamlit
+plotly
+
+yfinance
