@@ -154,19 +154,16 @@ else:
 
 
 # Database Connection (GLOBAL)
-    @st.cache_resource
-    def get_engine():
-        password = quote_plus("Sammasal@99")
-        bridge = create_engine(f"mysql+pymysql://root:{password}@localhost:3306/cross_market_analysis")
-        return bridge
+    st.subheader("Database Status")
 
     try:
-        bridge = get_engine()
-        with bridge.connect() as conn:
+        engine = get_engine()
+        with engine.connect():
             st.success("✅ Database Connected Successfully")
     except Exception as e:
         st.error("❌ Database Connection Failed")
         st.exception(e)
+
 
     st.divider()
 
