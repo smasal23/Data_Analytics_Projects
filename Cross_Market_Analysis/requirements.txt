@@ -8,5 +8,6 @@ pymysql
 
 streamlit
 plotly
+matplotlib
 
 yfinance
