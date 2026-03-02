@@ -1,0 +1,1104 @@
+,country,code,year,adult_literacy_rate,youth_literacy_rate_M,youth_literacy_rate_F,continent,invalid_literacy_flag,adult_literacy_rate_outlier_flag,youth_literacy_rate_M_outlier_flag,youth_literacy_rate_F_outlier_flag
+1,Afghanistan,AFG,2011,31.0,62.0,32.0,Asia,False,True,True,True
+2,Afghanistan,AFG,2015,33.75384,57.73505,25.48416,Asia,False,True,True,True
+3,Afghanistan,AFG,2021,37.0,71.0,42.0,Asia,False,False,True,True
+4,Afghanistan,AFG,2022,37.0,83.4,44.17171,Asia,False,False,False,True
+5,Albania,ALB,2001,99.0,99.0,99.0,Europe,False,False,False,False
+6,Albania,ALB,2005,97.5,99.0,99.49,Europe,False,False,False,False
+7,Albania,ALB,2008,96.0,99.0,99.0,Europe,False,False,False,False
+8,Albania,ALB,2009,96.5,94.82,96.61,Europe,False,False,False,False
+9,Albania,ALB,2011,97.0,99.0,99.0,Europe,False,False,False,False
+10,Albania,ALB,2012,97.0,99.0,99.0,Europe,False,False,False,False
+11,Albania,ALB,2017,98.81623,98.58999,99.52556,Europe,False,False,False,False
+13,Algeria,DZA,2002,70.0,94.0,86.0,Africa,False,False,False,False
+14,Algeria,DZA,2006,73.0,94.0,89.0,Africa,False,False,False,False
+15,Algeria,DZA,2008,75.0,96.0,92.0,Africa,False,False,False,False
+16,Algeria,DZA,2019,75.0,64.79,97.9897,Africa,False,False,True,False
+18,Angola,AGO,2001,67.0,84.0,63.0,Africa,False,False,False,True
+19,Angola,AGO,2014,66.0,85.0,71.0,Africa,False,False,False,False
+20,Angola,AGO,2015,66.23586,83.96919,67.4276,Africa,False,False,False,False
+24,Argentina,ARG,1991,96.0,98.0,99.0,South America,False,False,False,False
+25,Argentina,ARG,2001,97.0,99.0,99.0,South America,False,False,False,False
+27,Armenia,ARM,2000,99.0,100.0,100.0,Asia,False,False,False,False
+28,Armenia,ARM,2001,99.0,100.0,100.0,Asia,False,False,False,False
+29,Armenia,ARM,2011,100.0,100.0,100.0,Asia,False,False,False,False
+30,Armenia,ARM,2016,100.0,100.0,100.0,Asia,False,False,False,False
+31,Armenia,ARM,2017,100.0,100.0,100.0,Asia,False,False,False,False
+32,Armenia,ARM,2020,100.0,100.0,100.0,Asia,False,False,False,False
+33,Armenia,ARM,2022,99.825,99.64871,99.91656,Asia,False,False,False,False
+34,Aruba,ABW,2000,97.0,99.0,99.0,North America,False,False,False,False
+35,Aruba,ABW,2010,97.0,99.0,99.0,North America,False,False,False,False
+36,Azerbaijan,AZE,1999,99.0,100.0,100.0,Asia,False,False,False,False
+37,Azerbaijan,AZE,2006,99.5,100.0,100.0,Asia,False,False,False,False
+38,Azerbaijan,AZE,2007,100.0,100.0,100.0,Asia,False,False,False,False
+39,Azerbaijan,AZE,2009,100.0,100.0,100.0,Asia,False,False,False,False
+40,Azerbaijan,AZE,2010,100.0,100.0,100.0,Asia,False,False,False,False
+41,Azerbaijan,AZE,2011,100.0,100.0,100.0,Asia,False,False,False,False
+42,Azerbaijan,AZE,2012,100.0,100.0,100.0,Asia,False,False,False,False
+43,Azerbaijan,AZE,2013,100.0,100.0,100.0,Asia,False,False,False,False
+44,Azerbaijan,AZE,2014,100.0,100.0,100.0,Asia,False,False,False,False
+45,Azerbaijan,AZE,2015,100.0,100.0,100.0,Asia,False,False,False,False
+46,Azerbaijan,AZE,2016,100.0,100.0,100.0,Asia,False,False,False,False
+47,Azerbaijan,AZE,2017,100.0,100.0,100.0,Asia,False,False,False,False
+48,Azerbaijan,AZE,2019,100.0,100.0,100.0,Asia,False,False,False,False
+49,Azerbaijan,AZE,2023,100.0,100.0,100.0,Asia,False,False,False,False
+51,Bahrain,BHR,1991,84.0,97.0,97.0,Asia,False,False,False,False
+52,Bahrain,BHR,2001,87.0,97.0,97.0,Asia,False,False,False,False
+53,Bahrain,BHR,2022,98.0,99.0,99.0,Asia,False,False,False,False
+54,Bahrain,BHR,2023,98.0,99.0,99.0,Asia,False,False,False,False
+56,Bangladesh,BGD,1991,35.0,52.0,38.0,Asia,False,False,True,True
+57,Bangladesh,BGD,2000,41.0,100.0,100.0,Asia,False,False,False,False
+58,Bangladesh,BGD,2001,47.0,67.0,60.0,Asia,False,False,True,True
+59,Bangladesh,BGD,2006,51.0,78.755,87.2,Asia,False,False,False,False
+60,Bangladesh,BGD,2007,55.0,90.51,77.09,Asia,False,False,False,False
+61,Bangladesh,BGD,2011,59.0,76.0,80.0,Asia,False,False,False,False
+62,Bangladesh,BGD,2012,58.0,76.0,79.0,Asia,False,False,False,False
+63,Bangladesh,BGD,2013,61.0,84.0,87.0,Asia,False,False,False,False
+64,Bangladesh,BGD,2014,61.0,85.0,86.0,Asia,False,False,False,False
+65,Bangladesh,BGD,2015,65.0,86.0,90.0,Asia,False,False,False,False
+66,Bangladesh,BGD,2016,73.0,91.0,94.0,Asia,False,False,False,False
+67,Bangladesh,BGD,2017,73.0,92.0,94.0,Asia,False,False,False,False
+68,Bangladesh,BGD,2018,74.0,92.0,95.0,Asia,False,False,False,False
+69,Bangladesh,BGD,2019,75.0,94.0,96.0,Asia,False,False,False,False
+70,Bangladesh,BGD,2020,75.0,93.0,96.0,Asia,False,False,False,False
+71,Bangladesh,BGD,2021,76.0,94.0,96.0,Asia,False,False,False,False
+72,Bangladesh,BGD,2022,79.0,92.0,94.0,Asia,False,False,False,False
+76,Belarus,BLR,1999,100.0,100.0,100.0,Europe,False,False,False,False
+77,Belarus,BLR,2005,100.0,100.0,99.98,Europe,False,False,False,False
+78,Belarus,BLR,2009,100.0,100.0,100.0,Europe,False,False,False,False
+79,Belarus,BLR,2012,100.0,100.0,100.0,Europe,False,False,False,False
+80,Belarus,BLR,2019,100.0,100.0,100.0,Europe,False,False,False,False
+81,Belize,BLZ,1991,70.0,77.0,78.0,North America,False,False,False,False
+82,Belize,BLZ,2006,76.97201333333334,83.94272666666667,95.13,North America,False,False,False,False
+83,Belize,BLZ,2011,83.94402666666666,90.88545333333333,96.6,North America,False,False,False,False
+84,Belize,BLZ,2015,90.91604,97.82818,98.07905,North America,False,False,False,False
+86,Benin,BEN,1992,27.0,55.0,27.0,Africa,False,True,True,True
+87,Benin,BEN,2001,31.0,61.08,31.85,Africa,False,True,True,True
+88,Benin,BEN,2002,35.0,59.0,33.0,Africa,False,False,True,True
+89,Benin,BEN,2006,36.935604999999995,72.07,39.53,Africa,False,False,True,True
+90,Benin,BEN,2017,38.87121,66.79979,50.98536,Africa,False,False,True,True
+91,Benin,BEN,2019,48.99828,76.35444,62.76271,Africa,False,False,False,True
+92,Benin,BEN,2021,43.83417,70.96799,59.18644,Africa,False,False,True,True
+93,Benin,BEN,2022,51.37877,74.60011,67.93813,Africa,False,False,False,False
+94,Bhutan,BTN,2005,53.0,80.0,68.0,Asia,False,False,False,False
+95,Bhutan,BTN,2010,54.0,85.0,63.34,Asia,False,False,False,True
+96,Bhutan,BTN,2012,55.0,90.0,82.0,Asia,False,False,False,False
+97,Bhutan,BTN,2017,67.0,93.0,93.0,Asia,False,False,False,False
+99,Bolivia,BOL,1992,80.0,96.0,92.0,South America,False,False,False,False
+100,Bolivia,BOL,2000,83.5,98.4,96.3,South America,False,False,False,False
+101,Bolivia,BOL,2001,87.0,98.2,96.5,South America,False,False,False,False
+102,Bolivia,BOL,2002,87.66666666666667,99.1,97.1,South America,False,False,False,False
+103,Bolivia,BOL,2003,88.33333333333333,99.47,96.67,South America,False,False,False,False
+104,Bolivia,BOL,2004,89.0,99.6,98.6,South America,False,False,False,False
+105,Bolivia,BOL,2005,89.66666666666667,99.3,98.4,South America,False,False,False,False
+106,Bolivia,BOL,2006,90.33333333333333,99.4,97.4,South America,False,False,False,False
+107,Bolivia,BOL,2007,91.0,99.8,99.1,South America,False,False,False,False
+108,Bolivia,BOL,2008,91.0,99.4,99.0,South America,False,False,False,False
+109,Bolivia,BOL,2009,91.0,99.7,99.1,South America,False,False,False,False
+110,Bolivia,BOL,2011,92.0,99.3,98.8,South America,False,False,False,False
+111,Bolivia,BOL,2012,94.0,99.5,99.2,South America,False,False,False,False
+112,Bolivia,BOL,2013,93.33333333333333,99.5,99.2,South America,False,False,False,False
+113,Bolivia,BOL,2014,92.66666666666667,99.7,99.2,South America,False,False,False,False
+114,Bolivia,BOL,2015,92.0,99.4,99.4,South America,False,False,False,False
+115,Bolivia,BOL,2016,92.4,99.5,99.3,South America,False,False,False,False
+116,Bolivia,BOL,2017,92.8,99.4,99.3,South America,False,False,False,False
+117,Bolivia,BOL,2018,93.2,99.7,99.4,South America,False,False,False,False
+118,Bolivia,BOL,2019,93.6,99.7,99.4,South America,False,False,False,False
+119,Bolivia,BOL,2020,94.0,99.6,99.5,South America,False,False,False,False
+120,Bolivia,BOL,2021,94.0,99.5,99.5,South America,False,False,False,False
+121,Bosnia and Herzegovina,BIH,1991,89.0,99.0,99.0,Europe,False,False,False,False
+122,Bosnia and Herzegovina,BIH,2000,97.0,100.0,100.0,Europe,False,False,False,False
+123,Bosnia and Herzegovina,BIH,2006,97.0,100.0,99.82,Europe,False,False,False,False
+124,Bosnia and Herzegovina,BIH,2013,97.0,100.0,100.0,Europe,False,False,False,False
+125,Botswana,BWA,1991,69.0,86.0,92.0,Africa,False,False,False,False
+126,Botswana,BWA,2003,81.0,92.0,96.0,Africa,False,False,False,False
+128,Brazil,BRA,2000,86.0,93.0,96.0,South America,False,False,False,False
+129,Brazil,BRA,2001,86.75,94.7,96.9,South America,False,False,False,False
+130,Brazil,BRA,2002,87.5,95.1,97.5,South America,False,False,False,False
+131,Brazil,BRA,2003,88.25,95.6,97.7,South America,False,False,False,False
+132,Brazil,BRA,2004,89.0,95.7,97.9,South America,False,False,False,False
+133,Brazil,BRA,2005,89.5,96.1,98.1,South America,False,False,False,False
+134,Brazil,BRA,2006,90.0,96.8,98.3,South America,False,False,False,False
+135,Brazil,BRA,2007,90.0,97.0,98.6,South America,False,False,False,False
+136,Brazil,BRA,2008,90.0,97.2,98.5,South America,False,False,False,False
+137,Brazil,BRA,2009,90.0,97.4,98.7,South America,False,False,False,False
+138,Brazil,BRA,2010,90.0,97.0,98.0,South America,False,False,False,False
+139,Brazil,BRA,2011,91.0,97.9,99.1,South America,False,False,False,False
+140,Brazil,BRA,2012,91.0,98.2,99.0,South America,False,False,False,False
+141,Brazil,BRA,2013,91.0,98.3,99.2,South America,False,False,False,False
+142,Brazil,BRA,2014,92.0,98.4,99.3,South America,False,False,False,False
+143,Brazil,BRA,2015,92.0,98.6,99.3,South America,False,False,False,False
+144,Brazil,BRA,2016,93.0,98.7,99.5,South America,False,False,False,False
+145,Brazil,BRA,2017,93.0,98.8,99.5,South America,False,False,False,False
+146,Brazil,BRA,2018,93.0,98.7,99.4,South America,False,False,False,False
+147,Brazil,BRA,2019,93.0,98.7,99.5,South America,False,False,False,False
+148,Brazil,BRA,2020,93.0,99.0,99.5,South America,False,False,False,False
+149,Brazil,BRA,2021,93.0,99.1,99.5,South America,False,False,False,False
+150,Brazil,BRA,2022,93.0,99.0,99.6,South America,False,False,False,False
+151,Brazil,BRA,2023,93.0,99.0,99.6,South America,False,False,False,False
+153,Brunei,BRN,1991,88.0,98.0,98.0,Asia,False,False,False,False
+154,Brunei,BRN,2001,93.0,99.0,99.0,Asia,False,False,False,False
+155,Brunei,BRN,2011,96.0,99.0,100.0,Asia,False,False,False,False
+156,Bulgaria,BGR,2001,98.0,98.0,98.0,Europe,False,False,False,False
+157,Bulgaria,BGR,2011,98.0,98.0,98.0,Europe,False,False,False,False
+159,Burkina Faso,BFA,1991,14.0,27.0,14.0,Africa,False,True,True,True
+160,Burkina Faso,BFA,1996,13.0,25.0,14.0,Africa,False,True,True,True
+161,Burkina Faso,BFA,2003,22.0,38.0,25.0,Africa,False,True,True,True
+162,Burkina Faso,BFA,2005,24.0,40.0,26.0,Africa,False,True,True,True
+163,Burkina Faso,BFA,2006,22.0,40.0,27.0,Africa,False,True,True,True
+164,Burkina Faso,BFA,2007,28.0,47.0,33.0,Africa,False,True,True,True
+165,Burkina Faso,BFA,2010,31.5,47.04,27.24,Africa,False,True,True,True
+166,Burkina Faso,BFA,2014,35.0,57.0,44.0,Africa,False,False,True,True
+167,Burkina Faso,BFA,2018,39.0,64.0,54.0,Africa,False,False,True,True
+168,Burkina Faso,BFA,2019,30.0,51.0,44.0,Africa,False,True,True,True
+169,Burkina Faso,BFA,2021,36.96738,66.64593,58.758,Africa,False,False,True,True
+170,Burkina Faso,BFA,2022,40.92361,65.47311,60.56925,Africa,False,False,True,True
+172,Burundi,BDI,1990,37.0,59.0,48.0,Africa,False,False,True,True
+173,Burundi,BDI,2000,59.0,77.0,70.0,Africa,False,False,False,False
+174,Burundi,BDI,2005,53.5,72.0,52.83,Africa,False,False,True,True
+175,Burundi,BDI,2008,48.0,67.0,57.0,Africa,False,False,True,True
+176,Burundi,BDI,2010,55.0,82.66,66.51,Africa,False,False,False,False
+177,Burundi,BDI,2014,62.0,85.0,75.0,Africa,False,False,False,False
+178,Burundi,BDI,2016,65.68774,86.7551,82.08605,Africa,False,False,False,False
+179,Burundi,BDI,2017,68.0,91.0,86.0,Africa,False,False,False,False
+180,Cambodia,KHM,1998,67.0,82.0,71.0,Asia,False,False,False,False
+181,Cambodia,KHM,2000,70.5,85.0,54.67,Asia,False,False,False,True
+182,Cambodia,KHM,2004,74.0,88.0,79.0,Asia,False,False,False,False
+183,Cambodia,KHM,2005,75.5,100.0,67.33,Asia,False,False,False,False
+184,Cambodia,KHM,2008,77.0,89.0,86.0,Asia,False,False,False,False
+185,Cambodia,KHM,2009,76.0,88.0,86.0,Asia,False,False,False,False
+186,Cambodia,KHM,2010,77.0,80.6,78.02,Asia,False,False,False,False
+187,Cambodia,KHM,2014,78.0,90.0,90.0,Asia,False,False,False,False
+188,Cambodia,KHM,2015,81.0,92.0,93.0,Asia,False,False,False,False
+189,Cambodia,KHM,2021,71.92725,90.30829,93.50569,Asia,False,False,False,False
+191,Cameroon,CMR,2000,68.0,88.0,78.0,Africa,False,False,False,False
+192,Cameroon,CMR,2004,69.0,81.39,67.65,Africa,False,False,False,False
+193,Cameroon,CMR,2006,70.0,85.195,64.67,Africa,False,False,False,False
+194,Cameroon,CMR,2007,71.0,89.0,77.0,Africa,False,False,False,False
+195,Cameroon,CMR,2010,71.0,85.0,76.0,Africa,False,False,False,False
+196,Cameroon,CMR,2011,71.51571,86.92,73.41,Africa,False,False,False,False
+197,Cameroon,CMR,2014,72.03142,87.25849,100.0,Africa,False,False,False,False
+198,Cameroon,CMR,2018,72.54713,87.59698,76.3945,Africa,False,False,False,False
+199,Cape Verde,CPV,1990,63.0,90.0,86.0,Africa,False,False,False,False
+200,Cape Verde,CPV,2012,85.0,98.0,98.0,Africa,False,False,False,False
+201,Cape Verde,CPV,2015,87.0,98.0,99.0,Africa,False,False,False,False
+202,Cayman Islands,CYM,2007,99.0,99.0,99.0,North America,False,False,False,False
+205,Central African Republic,CAF,2000,51.0,73.0,49.0,Africa,False,False,False,True
+206,Central African Republic,CAF,2006,48.147596666666665,70.30127333333333,21.51,Africa,False,False,True,True
+207,Central African Republic,CAF,2010,45.29519333333334,67.60254666666667,27.63,Africa,False,False,True,True
+208,Central African Republic,CAF,2019,42.44279,64.90382,36.67682,Africa,False,False,True,True
+258,Chad,TCD,1993,11.0,26.0,9.0,Africa,False,True,True,True
+259,Chad,TCD,2000,26.0,56.0,23.0,Africa,False,True,True,True
+260,Chad,TCD,2004,28.0,54.0,31.0,Africa,False,True,True,True
+261,Chad,TCD,2010,25.0,47.5,16.88,Africa,False,True,True,True
+262,Chad,TCD,2016,22.0,41.0,22.0,Africa,False,True,True,True
+263,Chad,TCD,2019,30.62792,56.26247,33.32039,Africa,False,True,True,True
+265,Chile,CHL,1992,94.0,98.0,99.0,South America,False,False,False,False
+266,Chile,CHL,2000,95.0,98.9,99.3,South America,False,False,False,False
+267,Chile,CHL,2002,96.0,99.0,99.0,South America,False,False,False,False
+268,Chile,CHL,2003,96.25,98.9,99.4,South America,False,False,False,False
+269,Chile,CHL,2006,96.5,98.9,99.3,South America,False,False,False,False
+270,Chile,CHL,2009,96.75,99.2,99.5,South America,False,False,False,False
+271,Chile,CHL,2011,97.0,99.2,99.6,South America,False,False,False,False
+272,Chile,CHL,2013,96.0,99.0,99.1,South America,False,False,False,False
+273,Chile,CHL,2015,97.0,99.3,99.4,South America,False,False,False,False
+274,Chile,CHL,2017,96.0,99.0,99.0,South America,False,False,False,False
+275,Chile,CHL,2022,96.0,99.1,99.5,South America,False,False,False,False
+277,China,CHN,1990,78.0,97.0,91.0,Asia,False,False,False,False
+278,China,CHN,2000,91.0,99.0,99.0,Asia,False,False,False,False
+279,China,CHN,2010,95.0,100.0,100.0,Asia,False,False,False,False
+280,China,CHN,2020,97.0,100.0,100.0,Asia,False,False,False,False
+281,Colombia,COL,1993,91.0,95.0,96.0,South America,False,False,False,False
+282,Colombia,COL,1996,91.0,96.0,98.0,South America,False,False,False,False
+283,Colombia,COL,2000,91.5,96.45,100.0,South America,False,False,False,False
+284,Colombia,COL,2002,92.0,96.9,98.0,South America,False,False,False,False
+285,Colombia,COL,2003,92.5,96.7,98.3,South America,False,False,False,False
+286,Colombia,COL,2004,93.0,97.5,98.4,South America,False,False,False,False
+287,Colombia,COL,2005,93.0,97.6,98.4,South America,False,False,False,False
+288,Colombia,COL,2006,92.0,98.0,98.0,South America,False,False,False,False
+289,Colombia,COL,2007,93.0,97.0,98.0,South America,False,False,False,False
+290,Colombia,COL,2008,93.0,97.5,98.4,South America,False,False,False,False
+291,Colombia,COL,2009,93.0,97.4,98.4,South America,False,False,False,False
+292,Colombia,COL,2010,93.0,97.8,98.6,South America,False,False,False,False
+293,Colombia,COL,2011,94.0,97.8,98.8,South America,False,False,False,False
+294,Colombia,COL,2012,94.0,97.8,98.7,South America,False,False,False,False
+295,Colombia,COL,2013,94.0,97.8,98.8,South America,False,False,False,False
+296,Colombia,COL,2014,94.0,98.1,98.9,South America,False,False,False,False
+297,Colombia,COL,2015,94.0,98.2,98.9,South America,False,False,False,False
+298,Colombia,COL,2016,95.0,98.3,99.0,South America,False,False,False,False
+299,Colombia,COL,2017,95.0,98.3,99.0,South America,False,False,False,False
+300,Colombia,COL,2018,95.0,98.7,99.1,South America,False,False,False,False
+301,Colombia,COL,2019,95.0,98.5,99.2,South America,False,False,False,False
+302,Colombia,COL,2020,96.0,98.7,99.3,South America,False,False,False,False
+303,Colombia,COL,2021,96.0,98.8,99.4,South America,False,False,False,False
+304,Colombia,COL,2022,96.0,98.6,99.2,South America,False,False,False,False
+305,Colombia,COL,2023,96.0,98.7,99.2,South America,False,False,False,False
+307,Comoros,COM,2000,68.0,84.0,78.0,Africa,False,False,False,False
+308,Comoros,COM,2012,68.0,85.0,78.59,Africa,False,False,False,False
+310,Congo,COG,2005,76.0,88.0,71.0,Africa,False,False,False,False
+312,Costa Rica,CRI,2000,95.0,97.0,98.0,North America,False,False,False,False
+313,Costa Rica,CRI,2011,97.0,99.0,99.0,North America,False,False,False,False
+314,Costa Rica,CRI,2018,97.0,74.78,99.63372,North America,False,False,False,False
+316,Cote d'Ivoire,CIV,1998,36.0,54.0,40.0,Africa,False,False,True,True
+317,Cote d'Ivoire,CIV,2000,49.0,71.0,52.0,Africa,False,False,True,True
+318,Cote d'Ivoire,CIV,2006,46.5,65.0,38.57,Africa,False,False,True,True
+319,Cote d'Ivoire,CIV,2014,44.0,59.0,47.0,Africa,False,False,True,True
+320,Cote d'Ivoire,CIV,2016,50.03968,71.98823,54.73764,Africa,False,False,True,True
+321,Cote d'Ivoire,CIV,2019,90.0,93.0,76.0,Africa,False,False,False,False
+322,Cote d'Ivoire,CIV,2021,50.00064,76.16145,58.31827,Africa,False,False,False,True
+323,Croatia,HRV,1991,97.0,100.0,100.0,Europe,False,False,False,False
+324,Croatia,HRV,2001,98.0,100.0,100.0,Europe,False,False,False,False
+326,Cuba,CUB,2002,100.0,100.0,100.0,North America,False,False,False,False
+327,Cuba,CUB,2012,100.0,100.0,100.0,North America,False,False,False,False
+328,Cuba,CUB,2019,97.65491,99.53119,99.70794,North America,False,False,False,False
+329,Cyprus,CYP,1992,94.0,100.0,100.0,Europe,False,False,False,False
+330,Cyprus,CYP,2001,97.0,100.0,100.0,Europe,False,False,False,False
+331,Cyprus,CYP,2011,99.0,100.0,100.0,Europe,False,False,False,False
+332,Democratic Republic of Congo,COD,2001,67.0,78.0,63.0,Africa,False,False,False,True
+333,Democratic Republic of Congo,COD,2007,69.66666666666667,87.36,62.97,Africa,False,False,False,True
+334,Democratic Republic of Congo,COD,2010,72.33333333333333,89.18,64.32,Africa,False,False,False,False
+335,Democratic Republic of Congo,COD,2012,75.0,91.0,77.0,Africa,False,False,False,False
+336,Democratic Republic of Congo,COD,2013,76.0,92.56,76.58,Africa,False,False,False,False
+337,Democratic Republic of Congo,COD,2016,77.0,91.0,80.0,Africa,False,False,False,False
+338,Democratic Republic of Congo,COD,2018,73.55303,90.81754,77.53746,Africa,False,False,False,False
+341,Dominican Republic,DOM,2000,87.0,93.2,96.5,North America,False,False,False,False
+342,Dominican Republic,DOM,2001,87.0,94.3,96.6,North America,False,False,False,False
+343,Dominican Republic,DOM,2002,87.0,93.8,96.5,North America,False,False,False,False
+344,Dominican Republic,DOM,2003,87.2,94.7,96.9,North America,False,False,False,False
+345,Dominican Republic,DOM,2004,87.4,95.2,96.7,North America,False,False,False,False
+346,Dominican Republic,DOM,2005,87.6,96.2,97.3,North America,False,False,False,False
+347,Dominican Republic,DOM,2006,87.8,95.3,97.9,North America,False,False,False,False
+348,Dominican Republic,DOM,2007,88.0,97.2,97.8,North America,False,False,False,False
+349,Dominican Republic,DOM,2008,88.66666666666667,95.6,97.4,North America,False,False,False,False
+350,Dominican Republic,DOM,2009,89.33333333333333,96.2,98.4,North America,False,False,False,False
+351,Dominican Republic,DOM,2010,90.0,96.2,97.9,North America,False,False,False,False
+352,Dominican Republic,DOM,2011,90.0,96.5,98.6,North America,False,False,False,False
+353,Dominican Republic,DOM,2012,90.0,96.7,98.0,North America,False,False,False,False
+354,Dominican Republic,DOM,2013,91.0,97.6,98.3,North America,False,False,False,False
+355,Dominican Republic,DOM,2014,92.0,98.0,98.2,North America,False,False,False,False
+356,Dominican Republic,DOM,2015,92.0,98.1,98.1,North America,False,False,False,False
+357,Dominican Republic,DOM,2016,94.0,98.1,98.8,North America,False,False,False,False
+358,Dominican Republic,DOM,2017,94.0,97.8,98.4,North America,False,False,False,False
+359,Dominican Republic,DOM,2018,94.0,98.0,99.1,North America,False,False,False,False
+360,Dominican Republic,DOM,2019,94.0,98.3,99.1,North America,False,False,False,False
+361,Dominican Republic,DOM,2020,94.0,98.6,99.1,North America,False,False,False,False
+362,Dominican Republic,DOM,2021,94.0,98.7,99.0,North America,False,False,False,False
+363,Dominican Republic,DOM,2022,94.0,98.1,98.9,North America,False,False,False,False
+364,Dominican Republic,DOM,2023,94.0,98.3,98.8,North America,False,False,False,False
+413,East Timor,TLS,2001,38.0,87.25,83.71,Asia,False,False,False,False
+414,East Timor,TLS,2007,51.0,87.25,83.71,Asia,False,False,False,False
+415,East Timor,TLS,2009,54.5,87.25,83.71,Asia,False,False,False,False
+416,East Timor,TLS,2010,58.0,80.0,79.0,Asia,False,False,False,False
+417,East Timor,TLS,2016,65.77913,89.55101,88.72531,Asia,False,False,False,False
+467,Ecuador,ECU,1990,88.0,97.0,96.0,South America,False,False,False,False
+468,Ecuador,ECU,2001,91.0,97.6,97.3,South America,False,False,False,False
+469,Ecuador,ECU,2003,91.25,96.5,97.4,South America,False,False,False,False
+470,Ecuador,ECU,2005,91.5,98.3,98.2,South America,False,False,False,False
+471,Ecuador,ECU,2006,91.75,98.3,98.1,South America,False,False,False,False
+472,Ecuador,ECU,2007,92.0,98.2,98.6,South America,False,False,False,False
+473,Ecuador,ECU,2008,92.0,98.4,98.5,South America,False,False,False,False
+474,Ecuador,ECU,2009,92.0,98.7,98.9,South America,False,False,False,False
+475,Ecuador,ECU,2010,92.0,98.5,98.9,South America,False,False,False,False
+476,Ecuador,ECU,2011,92.0,98.6,98.8,South America,False,False,False,False
+477,Ecuador,ECU,2012,92.0,98.8,98.9,South America,False,False,False,False
+478,Ecuador,ECU,2013,93.0,98.6,98.6,South America,False,False,False,False
+479,Ecuador,ECU,2014,94.0,99.0,99.2,South America,False,False,False,False
+480,Ecuador,ECU,2015,94.0,99.3,98.9,South America,False,False,False,False
+481,Ecuador,ECU,2016,94.0,99.0,99.1,South America,False,False,False,False
+482,Ecuador,ECU,2017,93.0,99.1,99.4,South America,False,False,False,False
+483,Ecuador,ECU,2018,93.33333333333333,98.9,99.1,South America,False,False,False,False
+484,Ecuador,ECU,2019,93.66666666666667,98.2,98.8,South America,False,False,False,False
+485,Ecuador,ECU,2020,94.0,98.5,99.1,South America,False,False,False,False
+486,Ecuador,ECU,2021,94.0,99.0,99.2,South America,False,False,False,False
+487,Ecuador,ECU,2022,94.0,99.0,99.2,South America,False,False,False,False
+488,Ecuador,ECU,2023,94.0,99.0,99.3,South America,False,False,False,False
+491,Egypt,EGY,1996,56.0,79.0,67.0,Africa,False,False,False,False
+492,Egypt,EGY,2000,61.5,84.5,77.19,Africa,False,False,False,False
+493,Egypt,EGY,2005,67.0,90.0,79.0,Africa,False,False,False,False
+494,Egypt,EGY,2006,66.0,88.0,82.0,Africa,False,False,False,False
+495,Egypt,EGY,2010,72.0,91.0,84.0,Africa,False,False,False,False
+496,Egypt,EGY,2012,74.0,92.0,86.0,Africa,False,False,False,False
+497,Egypt,EGY,2013,72.0,94.0,90.0,Africa,False,False,False,False
+498,Egypt,EGY,2014,71.5,91.5,94.08,Africa,False,False,False,False
+499,Egypt,EGY,2017,71.0,89.0,87.0,Africa,False,False,False,False
+500,Egypt,EGY,2022,71.0,95.51,94.82,Africa,False,False,False,False
+501,El Salvador,SLV,1992,74.0,85.0,85.0,North America,False,False,False,False
+502,El Salvador,SLV,2000,75.42857142857143,92.2,92.6,North America,False,False,False,False
+503,El Salvador,SLV,2001,76.85714285714286,93.5,93.6,North America,False,False,False,False
+504,El Salvador,SLV,2002,78.28571428571429,92.9,93.6,North America,False,False,False,False
+505,El Salvador,SLV,2003,79.71428571428571,93.3,93.4,North America,False,False,False,False
+506,El Salvador,SLV,2004,81.14285714285714,93.7,94.0,North America,False,False,False,False
+507,El Salvador,SLV,2005,82.57142857142857,94.9,94.9,North America,False,False,False,False
+508,El Salvador,SLV,2006,84.0,94.4,95.5,North America,False,False,False,False
+509,El Salvador,SLV,2007,82.0,95.2,95.8,North America,False,False,False,False
+510,El Salvador,SLV,2008,84.0,95.0,96.0,North America,False,False,False,False
+511,El Salvador,SLV,2009,84.0,95.1,96.1,North America,False,False,False,False
+512,El Salvador,SLV,2010,84.0,95.7,96.4,North America,False,False,False,False
+513,El Salvador,SLV,2011,85.0,96.0,97.0,North America,False,False,False,False
+514,El Salvador,SLV,2012,86.0,96.7,97.6,North America,False,False,False,False
+515,El Salvador,SLV,2013,87.0,96.9,97.5,North America,False,False,False,False
+516,El Salvador,SLV,2014,87.5,97.3,98.2,North America,False,False,False,False
+517,El Salvador,SLV,2015,88.0,97.5,98.4,North America,False,False,False,False
+518,El Salvador,SLV,2016,88.0,97.7,98.3,North America,False,False,False,False
+519,El Salvador,SLV,2017,88.0,97.8,98.1,North America,False,False,False,False
+520,El Salvador,SLV,2018,89.0,97.7,98.2,North America,False,False,False,False
+521,El Salvador,SLV,2019,89.0,98.0,98.7,North America,False,False,False,False
+522,El Salvador,SLV,2020,90.0,98.3,98.7,North America,False,False,False,False
+523,El Salvador,SLV,2021,90.0,97.8,98.3,North America,False,False,False,False
+524,El Salvador,SLV,2022,90.0,98.0,98.6,North America,False,False,False,False
+525,El Salvador,SLV,2023,90.0,97.6,98.5,North America,False,False,False,False
+526,Equatorial Guinea,GNQ,2000,88.0,98.0,97.0,Africa,False,False,False,False
+527,Eritrea,ERI,2002,53.0,86.0,69.0,Africa,False,False,False,False
+528,Eritrea,ERI,2008,65.0,91.0,83.0,Africa,False,False,False,False
+530,Estonia,EST,2000,100.0,100.0,100.0,Europe,False,False,False,False
+531,Estonia,EST,2011,100.0,100.0,100.0,Europe,False,False,False,False
+534,Eswatini,SWZ,2000,82.0,91.0,93.0,Africa,False,False,False,False
+535,Eswatini,SWZ,2006,84.186755,88.81,93.58,Africa,False,False,False,False
+536,Eswatini,SWZ,2010,86.37351000000001,92.05771666666666,96.32,Africa,False,False,False,False
+537,Eswatini,SWZ,2014,88.560265,95.30543333333334,100.0,Africa,False,False,False,False
+538,Eswatini,SWZ,2022,90.74702,98.55315,98.77755,Africa,False,False,False,False
+539,Ethiopia,ETH,1994,27.0,39.0,28.0,Africa,False,True,True,True
+540,Ethiopia,ETH,2000,31.5,49.47,27.02,Africa,False,True,True,True
+541,Ethiopia,ETH,2004,36.0,62.0,39.0,Africa,False,False,True,True
+542,Ethiopia,ETH,2005,37.5,60.07,34.06,Africa,False,False,True,True
+543,Ethiopia,ETH,2007,39.0,63.0,47.0,Africa,False,False,True,True
+544,Ethiopia,ETH,2011,43.245795,65.08,43.65,Africa,False,False,True,True
+545,Ethiopia,ETH,2016,47.49159,79.13417,64.5676,Africa,False,False,False,False
+546,Ethiopia,ETH,2019,47.49159,79.13417,70.29423,Africa,False,False,False,False
+594,Gabon,GAB,1993,72.0,94.0,92.0,Africa,False,False,False,False
+595,Gabon,GAB,2012,80.42917,94.88,93.77,Africa,False,False,False,False
+596,Gabon,GAB,2021,88.85834,94.95532,93.04062,Africa,False,False,False,False
+597,Gambia,GMB,2000,37.0,64.0,41.0,Africa,False,False,True,True
+598,Gambia,GMB,2006,41.666666666666664,71.195,48.15,Africa,False,False,True,True
+599,Gambia,GMB,2013,46.333333333333336,78.39,65.85,Africa,False,False,False,False
+600,Gambia,GMB,2015,51.0,71.0,64.0,Africa,False,False,True,False
+601,Gambia,GMB,2018,53.1602,74.97817,67.01137,Africa,False,False,False,False
+602,Gambia,GMB,2021,51.6374,72.01779,62.55218,Africa,False,False,True,True
+603,Georgia,GEO,2002,100.0,100.0,100.0,Asia,False,False,False,False
+604,Georgia,GEO,2005,100.0,100.0,99.9,Asia,False,False,False,False
+605,Georgia,GEO,2014,100.0,100.0,100.0,Asia,False,False,False,False
+606,Georgia,GEO,2017,99.0,100.0,99.0,Asia,False,False,False,False
+607,Georgia,GEO,2018,99.65366,99.9046,99.94143,Asia,False,False,False,False
+608,Georgia,GEO,2022,100.0,100.0,100.0,Asia,False,False,False,False
+609,Georgia,GEO,2023,99.55547,98.88482,99.8423,Asia,False,False,False,False
+610,Ghana,GHA,2000,58.0,76.0,65.0,Africa,False,False,False,False
+611,Ghana,GHA,2003,62.333333333333336,84.77,73.05,Africa,False,False,False,False
+612,Ghana,GHA,2006,66.66666666666667,86.38499999999999,76.92,Africa,False,False,False,False
+613,Ghana,GHA,2010,71.0,88.0,83.0,Africa,False,False,False,False
+614,Ghana,GHA,2011,68.83079666666667,89.58500000000001,84.6,Africa,False,False,False,False
+615,Ghana,GHA,2014,66.66159333333333,91.17,83.65,Africa,False,False,False,False
+616,Ghana,GHA,2017,64.49239,89.77029,85.2477,Africa,False,False,False,False
+617,Ghana,GHA,2021,76.48568,91.73803,91.30476,Africa,False,False,False,False
+619,Greece,GRC,1991,93.0,99.0,99.0,Europe,False,False,False,False
+620,Greece,GRC,2001,96.0,99.0,99.0,Europe,False,False,False,False
+621,Greece,GRC,2009,94.0,100.0,99.0,Europe,False,False,False,False
+625,Guam,GUM,1990,99.0,100.0,100.0,Oceania,False,False,False,False
+626,Guatemala,GTM,1994,64.0,82.0,71.0,North America,False,False,False,False
+627,Guatemala,GTM,2000,66.5,87.7,76.3,North America,False,False,False,False
+628,Guatemala,GTM,2002,69.0,86.0,78.0,North America,False,False,False,False
+629,Guatemala,GTM,2006,73.5,91.4,84.8,North America,False,False,False,False
+630,Guatemala,GTM,2012,78.0,95.0,92.0,North America,False,False,False,False
+631,Guatemala,GTM,2013,77.0,94.0,90.0,North America,False,False,False,False
+632,Guatemala,GTM,2014,81.0,94.9,91.9,North America,False,False,False,False
+633,Guatemala,GTM,2015,80.19509,96.67467,93.61574,North America,False,False,False,False
+634,Guatemala,GTM,2018,81.0,95.0,94.0,North America,False,False,False,False
+635,Guatemala,GTM,2022,83.03117,95.85535,94.21057,North America,False,False,False,False
+636,Guatemala,GTM,2023,83.03117,97.3,96.7,North America,False,False,False,False
+637,Guinea,GIN,1996,21.0,44.0,13.0,Africa,False,True,True,True
+638,Guinea,GIN,2003,30.0,59.0,34.0,Africa,False,True,True,True
+639,Guinea,GIN,2005,27.5,64.19,24.12,Africa,False,True,True,True
+640,Guinea,GIN,2010,25.0,38.0,22.0,Africa,False,True,True,True
+641,Guinea,GIN,2012,28.5,71.69,37.24,Africa,False,True,True,True
+642,Guinea,GIN,2014,32.0,57.0,37.0,Africa,False,True,True,True
+643,Guinea,GIN,2016,36.0,63.5,46.62764,Africa,False,False,True,True
+644,Guinea,GIN,2018,40.0,70.0,43.0,Africa,False,False,True,True
+646,Guinea-Bissau,GNB,2000,41.0,75.0,46.0,Africa,False,False,False,True
+647,Guinea-Bissau,GNB,2006,45.62744,77.27786333333333,35.78,Africa,False,False,False,True
+648,Guinea-Bissau,GNB,2014,50.25488,79.55572666666667,100.0,Africa,False,False,False,False
+649,Guinea-Bissau,GNB,2019,54.88232,81.83359,68.58931,Africa,False,False,False,False
+650,Guinea-Bissau,GNB,2022,63.93413,86.19711,78.26567,Africa,False,False,False,False
+651,Guyana,GUY,2006,85.63835,95.71,100.0,South America,False,False,False,False
+652,Guyana,GUY,2009,85.63835,95.71,95.91,South America,False,False,False,False
+653,Guyana,GUY,2014,85.63835,97.48754,100.0,South America,False,False,False,False
+654,Guyana,GUY,2020,85.63835,99.26508,99.02955,South America,False,False,False,False
+656,Haiti,HTI,2003,59.0,83.0,81.0,North America,False,False,False,False
+657,Haiti,HTI,2012,63.50493,86.55,84.3,North America,False,False,False,False
+658,Haiti,HTI,2017,68.00986,88.38471,89.32992,North America,False,False,False,False
+663,Honduras,HND,2001,80.0,89.7,92.7,North America,False,False,False,False
+664,Honduras,HND,2004,81.33333333333333,90.2,91.5,North America,False,False,False,False
+665,Honduras,HND,2005,82.66666666666667,89.9,93.6,North America,False,False,False,False
+666,Honduras,HND,2007,84.0,93.0,95.0,North America,False,False,False,False
+667,Honduras,HND,2009,84.5,92.6,95.2,North America,False,False,False,False
+668,Honduras,HND,2010,85.0,94.4,95.9,North America,False,False,False,False
+669,Honduras,HND,2011,85.0,94.9,96.9,North America,False,False,False,False
+670,Honduras,HND,2012,85.0,94.0,96.0,North America,False,False,False,False
+671,Honduras,HND,2013,85.0,93.9,96.3,North America,False,False,False,False
+672,Honduras,HND,2014,87.0,95.0,96.3,North America,False,False,False,False
+673,Honduras,HND,2015,88.0,95.0,97.0,North America,False,False,False,False
+674,Honduras,HND,2016,89.0,94.9,97.2,North America,False,False,False,False
+675,Honduras,HND,2018,87.0,94.9,98.2,North America,False,False,False,False
+676,Honduras,HND,2019,89.0,94.8,97.3,North America,False,False,False,False
+677,Honduras,HND,2023,89.0,94.6,96.5,North America,False,False,False,False
+680,India,IND,1991,48.0,74.0,49.0,Asia,False,False,False,True
+681,India,IND,2001,61.0,84.0,68.0,Asia,False,False,False,False
+682,India,IND,2006,63.0,88.0,74.0,Asia,False,False,False,False
+683,India,IND,2011,69.0,90.0,82.0,Asia,False,False,False,False
+684,India,IND,2016,71.33333333333333,93.55494,86.73757,Asia,False,False,False,False
+685,India,IND,2020,73.66666666666667,99.07,90.95,Asia,False,False,False,False
+686,India,IND,2022,76.0,97.0,96.0,Asia,False,False,False,False
+687,India,IND,2023,82.0,98.0,96.0,Asia,False,False,False,False
+689,Indonesia,IDN,1990,82.0,97.0,95.0,Asia,False,False,False,False
+690,Indonesia,IDN,2004,90.0,99.0,99.0,Asia,False,False,False,False
+691,Indonesia,IDN,2006,92.0,97.0,96.0,Asia,False,False,False,False
+692,Indonesia,IDN,2008,92.0,100.0,99.0,Asia,False,False,False,False
+693,Indonesia,IDN,2009,93.0,100.0,99.0,Asia,False,False,False,False
+694,Indonesia,IDN,2011,93.0,99.0,99.0,Asia,False,False,False,False
+695,Indonesia,IDN,2014,95.0,100.0,100.0,Asia,False,False,False,False
+696,Indonesia,IDN,2015,95.0,100.0,100.0,Asia,False,False,False,False
+697,Indonesia,IDN,2016,95.0,100.0,100.0,Asia,False,False,False,False
+698,Indonesia,IDN,2017,95.5,99.93,99.29,Asia,False,False,False,False
+699,Indonesia,IDN,2018,96.0,100.0,100.0,Asia,False,False,False,False
+700,Indonesia,IDN,2020,96.0,100.0,100.0,Asia,False,False,False,False
+701,Indonesia,IDN,2022,96.0,92.91,94.72,Asia,False,False,False,False
+704,Iran,IRN,1991,66.0,92.0,81.0,Asia,False,False,False,False
+705,Iran,IRN,1996,73.0,96.0,91.0,Asia,False,False,False,False
+706,Iran,IRN,2002,77.0,97.0,94.0,Asia,False,False,False,False
+707,Iran,IRN,2005,82.0,98.0,97.0,Asia,False,False,False,False
+708,Iran,IRN,2006,82.0,97.0,96.0,Asia,False,False,False,False
+709,Iran,IRN,2008,83.0,98.0,97.0,Asia,False,False,False,False
+710,Iran,IRN,2012,84.0,98.0,98.0,Asia,False,False,False,False
+711,Iran,IRN,2013,85.0,98.0,97.0,Asia,False,False,False,False
+712,Iran,IRN,2014,85.0,98.0,98.0,Asia,False,False,False,False
+713,Iran,IRN,2016,86.0,98.0,98.0,Asia,False,False,False,False
+714,Iraq,IRQ,2000,74.0,89.0,80.0,Asia,False,False,False,False
+715,Iraq,IRQ,2006,75.0,88.33333333333333,72.85,Asia,False,False,False,False
+716,Iraq,IRQ,2011,76.0,87.66666666666667,71.93,Asia,False,False,False,False
+717,Iraq,IRQ,2012,77.0,87.0,79.0,Asia,False,False,False,False
+718,Iraq,IRQ,2014,82.0,92.0,86.0,Asia,False,False,False,False
+719,Iraq,IRQ,2016,83.0,93.0,88.0,Asia,False,False,False,False
+720,Iraq,IRQ,2017,86.0,95.0,92.0,Asia,False,False,False,False
+721,Iraq,IRQ,2018,86.0,95.0,87.38115,Asia,False,False,False,False
+724,Italy,ITA,2001,98.0,100.0,100.0,Europe,False,False,False,False
+725,Italy,ITA,2011,99.0,100.0,100.0,Europe,False,False,False,False
+726,Italy,ITA,2019,99.0,100.0,100.0,Europe,False,False,False,False
+727,Jamaica,JAM,1999,80.0,87.0,96.0,North America,False,False,False,False
+728,Jamaica,JAM,2005,80.0,87.41,99.77,North America,False,False,False,False
+729,Jamaica,JAM,2011,80.0,87.82000000000001,99.72,North America,False,False,False,False
+730,Jamaica,JAM,2022,80.0,88.23,99.29619,North America,False,False,False,False
+732,Jordan,JOR,2003,90.0,99.0,99.0,Asia,False,False,False,False
+733,Jordan,JOR,2005,91.0,99.0,99.0,Asia,False,False,False,False
+734,Jordan,JOR,2007,92.0,99.0,99.0,Asia,False,False,False,False
+735,Jordan,JOR,2010,93.0,99.0,99.0,Asia,False,False,False,False
+736,Jordan,JOR,2011,96.0,99.0,99.0,Asia,False,False,False,False
+737,Jordan,JOR,2012,98.0,99.0,99.0,Asia,False,False,False,False
+738,Jordan,JOR,2018,95.43145,97.42178,95.90284,Asia,False,False,False,False
+739,Jordan,JOR,2023,95.0,99.0,99.0,Asia,False,False,False,False
+741,Kazakhstan,KAZ,1999,100.0,100.0,100.0,Asia,False,False,False,False
+742,Kazakhstan,KAZ,2006,100.0,100.0,100.0,Asia,False,False,False,False
+743,Kazakhstan,KAZ,2009,100.0,100.0,100.0,Asia,False,False,False,False
+744,Kazakhstan,KAZ,2015,100.0,100.0,100.0,Asia,False,False,False,False
+745,Kenya,KEN,2000,82.0,93.0,92.0,Africa,False,False,False,False
+746,Kenya,KEN,2014,82.0,94.02,92.31,Africa,False,False,False,False
+747,Kenya,KEN,2022,82.0,96.14752,95.28072,Africa,False,False,False,False
+748,Kiribati,KIR,2018,97.95971,95.83073,98.50159,Oceania,False,False,False,False
+752,Kuwait,KWT,1995,78.0,94.0,90.0,Asia,False,False,False,False
+753,Kuwait,KWT,2005,93.0,100.0,100.0,Asia,False,False,False,False
+754,Kuwait,KWT,2006,93.0,99.0,98.0,Asia,False,False,False,False
+755,Kuwait,KWT,2007,94.0,98.0,99.0,Asia,False,False,False,False
+756,Kuwait,KWT,2008,94.0,99.0,99.0,Asia,False,False,False,False
+757,Kuwait,KWT,2010,94.0,99.0,99.0,Asia,False,False,False,False
+758,Kuwait,KWT,2012,96.0,99.0,99.0,Asia,False,False,False,False
+759,Kuwait,KWT,2013,96.0,99.0,99.0,Asia,False,False,False,False
+760,Kuwait,KWT,2015,96.0,99.0,99.0,Asia,False,False,False,False
+761,Kuwait,KWT,2017,96.0,99.0,99.0,Asia,False,False,False,False
+762,Kuwait,KWT,2018,96.0,99.0,100.0,Asia,False,False,False,False
+763,Kuwait,KWT,2020,96.0,99.0,100.0,Asia,False,False,False,False
+764,Kyrgyzstan,KGZ,1999,99.0,100.0,100.0,Asia,False,False,False,False
+765,Kyrgyzstan,KGZ,2009,99.0,100.0,100.0,Asia,False,False,False,False
+766,Kyrgyzstan,KGZ,2014,99.0,100.0,99.79,Asia,False,False,False,False
+767,Laos,LAO,1995,60.0,79.0,64.0,Asia,False,False,False,False
+768,Laos,LAO,2000,70.0,88.0,74.0,Asia,False,False,False,False
+769,Laos,LAO,2001,69.0,83.0,75.0,Asia,False,False,False,False
+770,Laos,LAO,2005,73.0,89.0,79.0,Asia,False,False,False,False
+771,Laos,LAO,2006,79.0,91.5,67.08,Asia,False,False,False,False
+772,Laos,LAO,2015,85.0,94.0,91.0,Asia,False,False,False,False
+773,Laos,LAO,2017,85.0,91.20028,84.4665,Asia,False,False,False,False
+875,Latvia,LVA,2000,100.0,100.0,100.0,Europe,False,False,False,False
+876,Latvia,LVA,2011,100.0,100.0,100.0,Europe,False,False,False,False
+877,Lebanon,LBN,2007,90.0,98.0,99.0,Asia,False,False,False,False
+878,Lebanon,LBN,2009,91.0,99.0,99.0,Asia,False,False,False,False
+879,Lebanon,LBN,2018,93.0,98.0,96.0,Asia,False,False,False,False
+880,Lesotho,LSO,2000,86.0,85.0,97.0,Africa,False,False,False,False
+881,Lesotho,LSO,2006,66.0,66.0,85.0,Africa,False,False,True,False
+882,Lesotho,LSO,2009,76.33333333333333,82.23,94.25,Africa,False,False,False,False
+883,Lesotho,LSO,2014,86.66666666666667,87.37,96.52,Africa,False,False,False,False
+884,Lesotho,LSO,2016,97.0,97.0,100.0,Africa,False,False,False,False
+885,Lesotho,LSO,2018,86.24087,92.35318,98.26914,Africa,False,False,False,False
+891,Lithuania,LTU,2001,100.0,100.0,100.0,Europe,False,False,False,False
+892,Lithuania,LTU,2011,100.0,100.0,100.0,Europe,False,False,False,False
+979,Macao,MAC,2001,91.0,99.0,100.0,Asia,False,False,False,False
+980,Macao,MAC,2006,93.0,100.0,100.0,Asia,False,False,False,False
+981,Macao,MAC,2011,96.0,100.0,100.0,Asia,False,False,False,False
+982,Macao,MAC,2016,97.0,100.0,100.0,Asia,False,False,False,False
+983,Madagascar,MDG,2000,71.0,73.0,68.0,Africa,False,False,False,False
+984,Madagascar,MDG,2005,59.0,59.0,56.0,Africa,False,False,True,True
+985,Madagascar,MDG,2012,72.0,78.0,75.0,Africa,False,False,False,False
+986,Madagascar,MDG,2018,77.0,81.0,79.0,Africa,False,False,False,False
+987,Madagascar,MDG,2021,74.68614,82.52617,82.23735,Africa,False,False,False,False
+989,Malawi,MWI,1998,64.0,82.0,71.0,Africa,False,False,False,False
+990,Malawi,MWI,2006,66.05075666666667,81.76711,72.23,Africa,False,False,False,False
+991,Malawi,MWI,2014,68.10151333333333,81.53421999999999,75.73,Africa,False,False,False,False
+992,Malawi,MWI,2020,70.15227,81.30133,80.14176,Africa,False,False,False,False
+994,Malaysia,MYS,1991,83.0,96.0,95.0,Asia,False,False,False,False
+995,Malaysia,MYS,2000,89.0,97.0,97.0,Asia,False,False,False,False
+996,Malaysia,MYS,2010,93.0,98.0,98.0,Asia,False,False,False,False
+997,Malaysia,MYS,2016,95.0,97.0,98.0,Asia,False,False,False,False
+998,Malaysia,MYS,2017,95.0,97.0,97.0,Asia,False,False,False,False
+999,Malaysia,MYS,2018,95.0,97.0,97.0,Asia,False,False,False,False
+1000,Malaysia,MYS,2019,95.0,97.0,97.0,Asia,False,False,False,False
+1001,Malaysia,MYS,2022,96.0,99.0,98.0,Asia,False,False,False,False
+1004,Maldives,MDV,1990,96.0,98.0,98.0,Asia,False,False,False,False
+1005,Maldives,MDV,1995,96.0,98.0,98.0,Asia,False,False,False,False
+1006,Maldives,MDV,2000,96.0,98.0,98.0,Asia,False,False,False,False
+1007,Maldives,MDV,2006,98.0,99.0,99.0,Asia,False,False,False,False
+1008,Maldives,MDV,2014,99.0,99.0,99.0,Asia,False,False,False,False
+1009,Maldives,MDV,2016,98.0,98.0,99.0,Asia,False,False,False,False
+1010,Maldives,MDV,2017,94.50551,97.31116,99.67299,Asia,False,False,False,False
+1011,Maldives,MDV,2019,98.21186,98.62147,98.86908,Asia,False,False,False,False
+1013,Mali,MLI,1998,19.0,32.0,17.0,Africa,False,True,True,True
+1014,Mali,MLI,2003,24.0,39.5,24.0,Africa,False,True,True,True
+1015,Mali,MLI,2006,26.0,47.0,31.0,Africa,False,True,True,True
+1016,Mali,MLI,2010,31.0,56.0,34.0,Africa,False,True,True,True
+1017,Mali,MLI,2011,31.0,56.0,30.0,Africa,False,True,True,True
+1018,Mali,MLI,2015,33.0,61.0,39.0,Africa,False,True,True,True
+1019,Mali,MLI,2018,35.0,58.0,43.0,Africa,False,False,True,True
+1020,Mali,MLI,2020,35.0,44.16,60.92,Africa,False,False,True,True
+1022,Malta,MLT,1995,88.0,94.0,98.0,Europe,False,False,False,False
+1023,Malta,MLT,2005,92.0,97.0,99.0,Europe,False,False,False,False
+1024,Malta,MLT,2011,93.0,98.0,99.0,Europe,False,False,False,False
+1025,Marshall Islands,MHL,2011,98.0,98.0,99.0,Oceania,False,False,False,False
+1027,Mauritania,MRT,2000,51.0,68.0,55.0,Africa,False,False,True,True
+1028,Mauritania,MRT,2007,54.666666666666664,70.0,47.94,Africa,False,False,True,True
+1029,Mauritania,MRT,2011,58.333333333333336,72.0,57.65,Africa,False,False,True,True
+1030,Mauritania,MRT,2013,62.0,74.0,68.0,Africa,False,False,False,False
+1031,Mauritania,MRT,2015,65.11202,86.73236,75.69968,Africa,False,False,False,False
+1032,Mauritania,MRT,2020,59.52966,75.25897,66.98027,Africa,False,False,False,False
+1033,Mauritius,MUS,1990,80.0,91.0,92.0,Africa,False,False,False,False
+1034,Mauritius,MUS,2000,84.0,94.0,95.0,Africa,False,False,False,False
+1035,Mauritius,MUS,2011,89.0,98.0,99.0,Africa,False,False,False,False
+1036,Mauritius,MUS,2012,92.0,98.0,99.0,Africa,False,False,False,False
+1037,Mauritius,MUS,2013,91.0,98.0,99.0,Africa,False,False,False,False
+1038,Mauritius,MUS,2014,92.0,98.0,99.0,Africa,False,False,False,False
+1039,Mauritius,MUS,2015,93.0,98.0,99.0,Africa,False,False,False,False
+1040,Mauritius,MUS,2016,93.0,98.0,99.0,Africa,False,False,False,False
+1042,Mexico,MEX,1990,88.0,96.0,95.0,North America,False,False,False,False
+1043,Mexico,MEX,2000,91.0,97.2,97.4,North America,False,False,False,False
+1044,Mexico,MEX,2002,90.0,97.8,97.2,North America,False,False,False,False
+1045,Mexico,MEX,2004,91.0,97.1,97.5,North America,False,False,False,False
+1046,Mexico,MEX,2005,92.0,98.0,98.0,North America,False,False,False,False
+1047,Mexico,MEX,2006,92.0,98.1,97.7,North America,False,False,False,False
+1048,Mexico,MEX,2007,93.0,98.0,98.0,North America,False,False,False,False
+1049,Mexico,MEX,2008,93.0,98.2,98.3,North America,False,False,False,False
+1050,Mexico,MEX,2009,93.0,99.0,98.0,North America,False,False,False,False
+1051,Mexico,MEX,2010,93.0,98.2,98.6,North America,False,False,False,False
+1052,Mexico,MEX,2011,94.0,98.0,99.0,North America,False,False,False,False
+1053,Mexico,MEX,2012,94.0,98.6,98.9,North America,False,False,False,False
+1054,Mexico,MEX,2013,94.0,99.0,99.0,North America,False,False,False,False
+1055,Mexico,MEX,2014,95.0,98.4,98.9,North America,False,False,False,False
+1056,Mexico,MEX,2015,94.0,99.0,99.0,North America,False,False,False,False
+1057,Mexico,MEX,2016,95.0,98.5,98.7,North America,False,False,False,False
+1058,Mexico,MEX,2017,95.0,99.0,99.0,North America,False,False,False,False
+1059,Mexico,MEX,2018,95.0,98.4,98.8,North America,False,False,False,False
+1060,Mexico,MEX,2020,95.0,98.8,99.1,North America,False,False,False,False
+1061,Mexico,MEX,2022,95.0,98.7,99.2,North America,False,False,False,False
+1163,Moldova,MDA,2000,97.0,99.0,100.0,Europe,False,False,False,False
+1164,Moldova,MDA,2005,97.66666666666667,99.87,99.95,Europe,False,False,False,False
+1165,Moldova,MDA,2012,98.33333333333333,100.0,99.84,Europe,False,False,False,False
+1166,Moldova,MDA,2014,99.0,100.0,100.0,Europe,False,False,False,False
+1167,Mongolia,MNG,2000,98.0,97.0,98.0,Asia,False,False,False,False
+1168,Mongolia,MNG,2010,98.0,98.0,99.0,Asia,False,False,False,False
+1169,Mongolia,MNG,2018,96.89635,99.6363,99.42351,Asia,False,False,False,False
+1170,Mongolia,MNG,2020,99.0,99.0,99.0,Asia,False,False,False,False
+1171,Mongolia,MNG,2022,98.72622,99.61688,99.77098,Asia,False,False,False,False
+1173,Montenegro,MNE,1991,93.0,99.0,99.0,Europe,False,False,False,False
+1174,Montenegro,MNE,2003,98.0,99.0,99.0,Europe,False,False,False,False
+1175,Montenegro,MNE,2005,98.0,99.0,99.21,Europe,False,False,False,False
+1176,Montenegro,MNE,2011,98.0,99.0,99.0,Europe,False,False,False,False
+1177,Montenegro,MNE,2013,98.2672,97.61549500000001,99.76,Europe,False,False,False,False
+1178,Montenegro,MNE,2018,98.5344,96.23099,98.95459,Europe,False,False,False,False
+1180,Morocco,MAR,1994,42.0,71.0,46.0,Africa,False,False,True,True
+1181,Morocco,MAR,2004,52.0,81.0,60.0,Africa,False,False,False,True
+1182,Morocco,MAR,2008,55.0,86.0,70.0,Africa,False,False,False,False
+1183,Morocco,MAR,2009,56.0,87.0,72.0,Africa,False,False,False,False
+1184,Morocco,MAR,2011,67.0,89.0,74.0,Africa,False,False,False,False
+1185,Morocco,MAR,2012,69.0,94.0,88.0,Africa,False,False,False,False
+1186,Morocco,MAR,2014,76.0,94.0,88.0,Africa,False,False,False,False
+1188,Mozambique,MOZ,1997,39.0,59.0,37.0,Africa,False,False,True,True
+1189,Mozambique,MOZ,2003,48.0,74.0,50.0,Africa,False,False,False,True
+1190,Mozambique,MOZ,2008,49.5,77.0,39.45,Africa,False,False,False,True
+1191,Mozambique,MOZ,2009,51.0,80.0,57.0,Africa,False,False,False,True
+1192,Mozambique,MOZ,2015,56.0,79.0,63.0,Africa,False,False,False,True
+1193,Mozambique,MOZ,2017,61.0,77.0,65.0,Africa,False,False,False,False
+1194,Mozambique,MOZ,2020,60.0,76.0,65.0,Africa,False,False,False,False
+1196,Myanmar,MMR,2000,90.0,96.0,93.0,Asia,False,False,False,False
+1197,Myanmar,MMR,2014,90.0,94.0,94.0,Asia,False,False,False,False
+1198,Myanmar,MMR,2016,89.5,91.15811,89.64611,Asia,False,False,False,False
+1199,Myanmar,MMR,2019,89.0,95.0,96.0,Asia,False,False,False,False
+1200,Namibia,NAM,1991,76.0,86.0,90.0,Africa,False,False,False,False
+1201,Namibia,NAM,2000,80.5,88.26,90.65,Africa,False,False,False,False
+1202,Namibia,NAM,2001,85.0,91.0,94.0,Africa,False,False,False,False
+1203,Namibia,NAM,2007,86.5,88.77,93.54,Africa,False,False,False,False
+1204,Namibia,NAM,2011,88.0,93.0,95.0,Africa,False,False,False,False
+1205,Namibia,NAM,2013,88.0,92.08,96.09,Africa,False,False,False,False
+1208,Nepal,NPL,1991,33.0,68.0,33.0,Asia,False,True,True,True
+1209,Nepal,NPL,2001,49.0,81.0,60.0,Asia,False,False,False,True
+1210,Nepal,NPL,2006,54.5,94.24,75.51,Asia,False,False,False,False
+1211,Nepal,NPL,2011,60.0,90.0,80.0,Asia,False,False,False,False
+1212,Nepal,NPL,2016,65.50101,94.43616,84.58498,Asia,False,False,False,False
+1213,Nepal,NPL,2019,68.7125,96.80686,92.07302,Asia,False,False,False,False
+1214,Nepal,NPL,2022,68.7125,97.16,89.2,Asia,False,False,False,False
+1217,New Caledonia,NCL,1996,96.0,99.0,99.0,Oceania,False,False,False,False
+1218,Nicaragua,NIC,2001,77.0,85.3,89.4,North America,False,False,False,False
+1219,Nicaragua,NIC,2005,78.0,89.4,92.7,North America,False,False,False,False
+1220,Nicaragua,NIC,2009,78.0,92.6,94.8,North America,False,False,False,False
+1221,Nicaragua,NIC,2014,78.0,94.1,96.6,North America,False,False,False,False
+1222,Niger,NER,2001,14.0,26.0,14.0,Africa,False,True,True,True
+1223,Niger,NER,2005,29.0,52.0,23.0,Africa,False,True,True,True
+1224,Niger,NER,2006,30.0,33.02,11.17,Africa,False,True,True,True
+1225,Niger,NER,2012,31.0,49.0,32.0,Africa,False,True,True,True
+1226,Niger,NER,2018,33.04745,56.88975,36.36699,Africa,False,True,True,True
+1227,Niger,NER,2022,35.60971,63.96316,44.7403,Africa,False,False,True,True
+1228,Nigeria,NGA,1991,55.0,81.0,62.0,Africa,False,False,False,True
+1229,Nigeria,NGA,2003,55.0,78.0,61.0,Africa,False,False,False,True
+1230,Nigeria,NGA,2006,70.0,83.0,75.0,Africa,False,False,False,False
+1231,Nigeria,NGA,2007,67.644268,80.75,70.18,Africa,False,False,False,False
+1232,Nigeria,NGA,2008,65.288536,78.5,51.6,Africa,False,False,False,True
+1233,Nigeria,NGA,2011,62.932804,82.33500000000001,79.84,Africa,False,False,False,False
+1234,Nigeria,NGA,2013,60.577072,86.17,70.75,Africa,False,False,False,False
+1235,Nigeria,NGA,2016,58.22134,78.43424,67.12351,Africa,False,False,False,False
+1236,Nigeria,NGA,2018,60.68844,71.80612,60.39587,Africa,False,False,True,True
+1237,Nigeria,NGA,2021,63.15554,77.77638,69.04957,Africa,False,False,False,False
+1250,North Korea,PRK,2008,100.0,100.0,100.0,Asia,False,False,False,False
+1251,North Macedonia,MKD,1994,94.0,99.0,99.0,Europe,False,False,False,False
+1252,North Macedonia,MKD,2002,96.0,99.0,98.0,Europe,False,False,False,False
+1253,North Macedonia,MKD,2005,96.0,99.0,98.69,Europe,False,False,False,False
+1254,North Macedonia,MKD,2011,96.0,99.0,99.36,Europe,False,False,False,False
+1255,North Macedonia,MKD,2018,96.0,99.0,98.74764,Europe,False,False,False,False
+1331,Oman,OMN,2003,66.0,66.0,85.0,Asia,False,False,True,False
+1332,Oman,OMN,2008,87.0,98.0,98.0,Asia,False,False,False,False
+1333,Oman,OMN,2010,87.0,97.0,98.0,Asia,False,False,False,False
+1334,Oman,OMN,2015,93.0,99.0,99.0,Asia,False,False,False,False
+1335,Oman,OMN,2017,96.0,98.0,99.0,Asia,False,False,False,False
+1336,Oman,OMN,2018,96.0,98.0,99.0,Asia,False,False,False,False
+1337,Oman,OMN,2020,97.0,100.0,100.0,Asia,False,False,False,False
+1338,Oman,OMN,2022,97.0,100.0,100.0,Asia,False,False,False,False
+1340,Pakistan,PAK,1998,43.0,67.0,43.0,Asia,False,False,True,True
+1341,Pakistan,PAK,2005,50.0,77.0,53.0,Asia,False,False,False,True
+1342,Pakistan,PAK,2006,54.0,79.0,58.0,Asia,False,False,False,True
+1343,Pakistan,PAK,2007,52.0,75.0,57.0,Asia,False,False,False,True
+1344,Pakistan,PAK,2008,56.0,79.0,61.0,Asia,False,False,False,True
+1345,Pakistan,PAK,2009,55.0,79.0,61.0,Asia,False,False,False,True
+1346,Pakistan,PAK,2010,55.0,80.0,62.0,Asia,False,False,False,True
+1347,Pakistan,PAK,2011,55.0,78.0,63.0,Asia,False,False,False,True
+1348,Pakistan,PAK,2012,57.0,80.0,64.0,Asia,False,False,False,False
+1349,Pakistan,PAK,2013,56.0,79.0,63.0,Asia,False,False,False,True
+1350,Pakistan,PAK,2014,57.0,80.0,66.0,Asia,False,False,False,False
+1351,Pakistan,PAK,2017,59.0,81.0,68.0,Asia,False,False,False,False
+1352,Pakistan,PAK,2018,57.0,80.0,64.0,Asia,False,False,False,False
+1353,Pakistan,PAK,2019,58.0,80.0,65.0,Asia,False,False,False,False
+1354,Pakistan,PAK,2021,58.8561,79.45763,66.52292,Asia,False,False,False,False
+1356,Palau,PLW,2013,100.0,100.0,100.0,Oceania,False,False,False,False
+1357,Palau,PLW,2015,97.0,98.0,99.0,Oceania,False,False,False,False
+1358,Palestine,PSE,1997,86.0,97.0,97.0,Asia,False,False,False,False
+1359,Palestine,PSE,2004,92.0,99.0,99.0,Asia,False,False,False,False
+1360,Palestine,PSE,2006,93.0,99.0,99.0,Asia,False,False,False,False
+1361,Palestine,PSE,2007,94.0,99.0,99.0,Asia,False,False,False,False
+1362,Palestine,PSE,2008,94.0,99.0,99.0,Asia,False,False,False,False
+1363,Palestine,PSE,2009,94.0,99.0,99.0,Asia,False,False,False,False
+1364,Palestine,PSE,2010,95.0,99.0,99.0,Asia,False,False,False,False
+1365,Palestine,PSE,2011,95.0,99.0,99.0,Asia,False,False,False,False
+1366,Palestine,PSE,2012,96.0,99.0,99.0,Asia,False,False,False,False
+1367,Palestine,PSE,2013,96.0,99.0,99.0,Asia,False,False,False,False
+1368,Palestine,PSE,2014,96.0,99.0,99.0,Asia,False,False,False,False
+1369,Palestine,PSE,2015,96.0,99.0,99.0,Asia,False,False,False,False
+1370,Palestine,PSE,2016,97.0,99.0,99.0,Asia,False,False,False,False
+1371,Palestine,PSE,2017,97.0,99.0,99.0,Asia,False,False,False,False
+1372,Palestine,PSE,2018,97.0,99.0,99.0,Asia,False,False,False,False
+1373,Palestine,PSE,2019,97.0,99.0,99.0,Asia,False,False,False,False
+1374,Palestine,PSE,2020,98.0,99.0,99.0,Asia,False,False,False,False
+1375,Palestine,PSE,2022,98.0,99.0,99.0,Asia,False,False,False,False
+1377,Panama,PAN,1990,89.0,95.0,95.0,North America,False,False,False,False
+1378,Panama,PAN,2000,92.0,97.0,96.0,North America,False,False,False,False
+1379,Panama,PAN,2010,94.0,98.0,97.0,North America,False,False,False,False
+1380,Panama,PAN,2014,94.2,98.4,97.6,North America,False,False,False,False
+1381,Panama,PAN,2015,94.4,98.4,98.1,North America,False,False,False,False
+1382,Panama,PAN,2016,94.6,99.1,98.4,North America,False,False,False,False
+1383,Panama,PAN,2017,94.8,99.3,98.8,North America,False,False,False,False
+1384,Panama,PAN,2018,95.0,99.3,98.9,North America,False,False,False,False
+1385,Panama,PAN,2019,96.0,98.9,98.9,North America,False,False,False,False
+1386,Panama,PAN,2021,96.0,99.3,99.2,North America,False,False,False,False
+1387,Panama,PAN,2022,96.0,99.4,99.3,North America,False,False,False,False
+1388,Panama,PAN,2023,96.0,98.8,98.9,North America,False,False,False,False
+1389,Papua New Guinea,PNG,2000,57.0,69.0,64.0,Oceania,False,False,True,False
+1390,Papua New Guinea,PNG,2017,70.06368,87.25939,78.08662,Oceania,False,False,False,False
+1392,Paraguay,PRY,1992,90.0,96.0,95.0,South America,False,False,False,False
+1393,Paraguay,PRY,2001,90.71428571428571,95.7,95.6,South America,False,False,False,False
+1394,Paraguay,PRY,2002,91.42857142857143,97.6,97.3,South America,False,False,False,False
+1395,Paraguay,PRY,2003,92.14285714285714,97.3,97.5,South America,False,False,False,False
+1396,Paraguay,PRY,2004,92.85714285714286,97.3,97.2,South America,False,False,False,False
+1397,Paraguay,PRY,2005,93.57142857142857,97.6,98.1,South America,False,False,False,False
+1398,Paraguay,PRY,2006,94.28571428571429,98.4,97.9,South America,False,False,False,False
+1399,Paraguay,PRY,2007,95.0,98.6,98.8,South America,False,False,False,False
+1400,Paraguay,PRY,2008,93.0,97.6,98.2,South America,False,False,False,False
+1401,Paraguay,PRY,2009,94.0,98.0,99.0,South America,False,False,False,False
+1402,Paraguay,PRY,2010,94.0,98.5,98.6,South America,False,False,False,False
+1403,Paraguay,PRY,2011,94.0,98.3,98.7,South America,False,False,False,False
+1404,Paraguay,PRY,2012,94.0,98.3,98.1,South America,False,False,False,False
+1405,Paraguay,PRY,2013,95.0,98.6,99.2,South America,False,False,False,False
+1406,Paraguay,PRY,2014,95.0,99.0,98.5,South America,False,False,False,False
+1407,Paraguay,PRY,2015,96.0,98.4,99.0,South America,False,False,False,False
+1408,Paraguay,PRY,2016,95.0,98.2,98.7,South America,False,False,False,False
+1409,Paraguay,PRY,2017,94.5,97.7,98.9,South America,False,False,False,False
+1410,Paraguay,PRY,2018,94.0,97.7,98.9,South America,False,False,False,False
+1411,Paraguay,PRY,2019,93.0,98.0,98.7,South America,False,False,False,False
+1412,Paraguay,PRY,2020,95.0,98.6,98.7,South America,False,False,False,False
+1413,Paraguay,PRY,2021,95.0,98.1,99.2,South America,False,False,False,False
+1414,Paraguay,PRY,2022,95.0,98.5,98.8,South America,False,False,False,False
+1415,Paraguay,PRY,2023,95.0,98.8,99.0,South America,False,False,False,False
+1417,Peru,PER,1993,87.0,97.0,94.0,South America,False,False,False,False
+1418,Peru,PER,2000,87.2,99.1,96.1,South America,False,False,False,False
+1419,Peru,PER,2001,87.4,98.2,96.1,South America,False,False,False,False
+1420,Peru,PER,2002,87.6,97.6,95.9,South America,False,False,False,False
+1421,Peru,PER,2003,87.8,97.6,96.0,South America,False,False,False,False
+1422,Peru,PER,2004,88.0,98.4,96.3,South America,False,False,False,False
+1423,Peru,PER,2005,88.0,98.1,96.8,South America,False,False,False,False
+1424,Peru,PER,2006,89.0,98.6,97.3,South America,False,False,False,False
+1425,Peru,PER,2007,90.0,98.1,97.0,South America,False,False,False,False
+1426,Peru,PER,2008,90.8,98.2,97.5,South America,False,False,False,False
+1427,Peru,PER,2009,91.6,98.7,97.9,South America,False,False,False,False
+1428,Peru,PER,2010,92.4,98.6,98.0,South America,False,False,False,False
+1429,Peru,PER,2011,93.2,98.6,98.3,South America,False,False,False,False
+1430,Peru,PER,2012,94.0,98.7,98.7,South America,False,False,False,False
+1431,Peru,PER,2013,94.0,98.9,98.9,South America,False,False,False,False
+1432,Peru,PER,2014,94.0,99.2,98.8,South America,False,False,False,False
+1433,Peru,PER,2015,94.0,99.3,98.8,South America,False,False,False,False
+1434,Peru,PER,2016,94.0,99.1,98.8,South America,False,False,False,False
+1435,Peru,PER,2017,94.0,99.3,98.9,South America,False,False,False,False
+1436,Peru,PER,2018,94.0,99.1,99.0,South America,False,False,False,False
+1437,Peru,PER,2019,94.0,99.1,99.1,South America,False,False,False,False
+1438,Peru,PER,2020,94.0,99.6,99.4,South America,False,False,False,False
+1439,Peru,PER,2021,94.0,99.1,99.2,South America,False,False,False,False
+1440,Peru,PER,2022,94.0,99.3,99.3,South America,False,False,False,False
+1441,Peru,PER,2023,94.0,99.3,99.4,South America,False,False,False,False
+1443,Philippines,PHL,1990,94.0,96.0,97.0,Asia,False,False,False,False
+1444,Philippines,PHL,1994,94.0,96.0,96.0,Asia,False,False,False,False
+1445,Philippines,PHL,2000,93.0,94.0,96.0,Asia,False,False,False,False
+1446,Philippines,PHL,2003,93.0,94.0,97.0,Asia,False,False,False,False
+1447,Philippines,PHL,2008,95.0,97.0,98.0,Asia,False,False,False,False
+1448,Philippines,PHL,2013,96.0,97.0,99.0,Asia,False,False,False,False
+1449,Philippines,PHL,2015,98.0,99.0,99.0,Asia,False,False,False,False
+1450,Philippines,PHL,2017,97.0,100.0,100.0,Asia,False,False,False,False
+1451,Philippines,PHL,2019,96.0,98.0,99.0,Asia,False,False,False,False
+1452,Philippines,PHL,2020,98.0,99.0,99.0,Asia,False,False,False,False
+1453,Philippines,PHL,2022,98.0,100.0,99.51506,Asia,False,False,False,False
+1456,Portugal,PRT,1991,88.0,99.0,99.0,Europe,False,False,False,False
+1457,Portugal,PRT,2011,94.0,99.0,99.0,Europe,False,False,False,False
+1459,Puerto Rico,PRI,1990,90.0,92.0,94.0,North America,False,False,False,False
+1460,Puerto Rico,PRI,2010,92.0,99.0,99.0,North America,False,False,False,False
+1461,Puerto Rico,PRI,2017,92.0,92.0,92.0,North America,False,False,False,False
+1463,Qatar,QAT,1997,83.0,94.0,96.0,Asia,False,False,False,False
+1464,Qatar,QAT,2004,89.0,95.0,98.0,Asia,False,False,False,False
+1465,Qatar,QAT,2007,93.0,99.0,99.0,Asia,False,False,False,False
+1466,Qatar,QAT,2008,94.0,95.0,97.0,Asia,False,False,False,False
+1467,Qatar,QAT,2009,95.0,98.0,98.0,Asia,False,False,False,False
+1468,Qatar,QAT,2010,96.0,96.0,98.0,Asia,False,False,False,False
+1469,Qatar,QAT,2011,96.0,98.0,99.0,Asia,False,False,False,False
+1470,Qatar,QAT,2012,97.0,99.0,100.0,Asia,False,False,False,False
+1471,Qatar,QAT,2013,97.0,99.0,99.0,Asia,False,False,False,False
+1472,Qatar,QAT,2014,98.0,98.0,100.0,Asia,False,False,False,False
+1474,Romania,ROU,1992,97.0,99.0,99.0,Europe,False,False,False,False
+1475,Romania,ROU,2002,97.0,98.0,98.0,Europe,False,False,False,False
+1476,Romania,ROU,2011,99.0,99.0,99.0,Europe,False,False,False,False
+1477,Romania,ROU,2021,99.0,100.0,100.0,Europe,False,False,False,False
+1479,Russia,RUS,2002,99.0,100.0,100.0,Europe,False,False,False,False
+1480,Russia,RUS,2010,100.0,100.0,100.0,Europe,False,False,False,False
+1481,Russia,RUS,2021,100.0,100.0,100.0,Europe,False,False,False,False
+1483,Rwanda,RWA,1991,58.0,79.0,77.0,Africa,False,False,False,False
+1484,Rwanda,RWA,2000,65.0,79.0,77.0,Africa,False,False,False,False
+1485,Rwanda,RWA,2005,66.0,72.72,68.21,Africa,False,False,True,False
+1486,Rwanda,RWA,2010,67.0,80.31,80.06,Africa,False,False,False,False
+1487,Rwanda,RWA,2012,68.0,81.0,83.0,Africa,False,False,False,False
+1488,Rwanda,RWA,2014,71.0,84.0,86.0,Africa,False,False,False,False
+1489,Rwanda,RWA,2015,72.0,87.92002,89.17011,Africa,False,False,False,False
+1490,Rwanda,RWA,2018,73.0,84.0,89.0,Africa,False,False,False,False
+1491,Rwanda,RWA,2020,80.05086,90.36046,92.69652,Africa,False,False,False,False
+1492,Rwanda,RWA,2022,79.0,88.0,92.0,Africa,False,False,False,False
+1493,Saint Helena,SHN,1998,97.0,99.0,100.0,Africa,False,False,False,False
+1497,Samoa,WSM,1991,98.0,99.0,99.0,Oceania,False,False,False,False
+1498,Samoa,WSM,2011,99.0,99.0,99.0,Oceania,False,False,False,False
+1499,Samoa,WSM,2016,99.0,100.0,100.0,Oceania,False,False,False,False
+1500,Samoa,WSM,2019,97.99026,98.54096,99.55731,Oceania,False,False,False,False
+1501,San Marino,SMR,2022,100.0,100.0,100.0,Europe,False,False,False,False
+1503,Sao Tome and Principe,STP,1991,73.0,96.0,92.0,Africa,False,False,False,False
+1504,Sao Tome and Principe,STP,2001,85.0,96.0,95.0,Africa,False,False,False,False
+1505,Sao Tome and Principe,STP,2012,90.0,97.0,96.0,Africa,False,False,False,False
+1506,Sao Tome and Principe,STP,2014,88.71923000000001,96.42510999999999,100.0,Africa,False,False,False,False
+1507,Sao Tome and Principe,STP,2019,87.43846,95.85022,95.07206,Africa,False,False,False,False
+1508,Saudi Arabia,SAU,1992,71.0,94.0,81.0,Asia,False,False,False,False
+1509,Saudi Arabia,SAU,2000,79.0,98.0,94.0,Asia,False,False,False,False
+1510,Saudi Arabia,SAU,2004,83.0,97.0,95.0,Asia,False,False,False,False
+1511,Saudi Arabia,SAU,2013,94.0,99.0,99.0,Asia,False,False,False,False
+1512,Saudi Arabia,SAU,2017,95.0,99.0,99.0,Asia,False,False,False,False
+1513,Saudi Arabia,SAU,2020,98.0,100.0,99.0,Asia,False,False,False,False
+1515,Senegal,SEN,2002,39.0,58.0,41.0,Africa,False,False,True,True
+1516,Senegal,SEN,2005,40.5,57.43,34.01,Africa,False,False,True,True
+1517,Senegal,SEN,2006,42.0,58.0,45.0,Africa,False,False,True,True
+1518,Senegal,SEN,2009,48.0,72.0,55.0,Africa,False,False,True,True
+1519,Senegal,SEN,2011,52.0,74.0,59.0,Africa,False,False,False,True
+1520,Senegal,SEN,2013,44.0,63.0,51.0,Africa,False,False,True,True
+1521,Senegal,SEN,2014,43.796365,63.45,51.06,Africa,False,False,True,True
+1522,Senegal,SEN,2015,43.59273,65.78748,56.87536,Africa,False,False,True,True
+1523,Senegal,SEN,2016,46.09964,69.407,59.88586,Africa,False,False,True,True
+1524,Senegal,SEN,2017,52.0,76.0,64.0,Africa,False,False,False,False
+1525,Senegal,SEN,2018,46.60591,66.22319,65.68582,Africa,False,False,True,False
+1526,Senegal,SEN,2019,46.83367,68.82227,64.02553,Africa,False,False,True,False
+1527,Senegal,SEN,2023,50.35582,69.2685,65.59709,Africa,False,False,True,False
+1528,Serbia,SRB,2003,96.0,99.0,99.0,Europe,False,False,False,False
+1529,Serbia,SRB,2005,97.0,99.0,99.63,Europe,False,False,False,False
+1530,Serbia,SRB,2011,98.0,99.0,99.0,Europe,False,False,False,False
+1531,Serbia,SRB,2014,98.5,99.5,99.83,Europe,False,False,False,False
+1532,Serbia,SRB,2016,99.0,100.0,100.0,Europe,False,False,False,False
+1533,Serbia,SRB,2019,99.0,100.0,100.0,Europe,False,False,False,False
+1535,Seychelles,SYC,1994,88.0,98.0,99.0,Africa,False,False,False,False
+1536,Seychelles,SYC,2002,92.0,99.0,99.0,Africa,False,False,False,False
+1537,Seychelles,SYC,2010,94.0,99.0,99.0,Africa,False,False,False,False
+1538,Sierra Leone,SLE,2004,35.0,60.0,37.0,Africa,False,False,True,True
+1539,Sierra Leone,SLE,2005,36.966636,66.78999999999999,37.15,Africa,False,False,True,True
+1540,Sierra Leone,SLE,2008,38.933272,73.58,41.3,Africa,False,False,False,True
+1541,Sierra Leone,SLE,2010,40.899907999999996,76.63499999999999,49.46,Africa,False,False,False,True
+1542,Sierra Leone,SLE,2013,42.866544,79.69,57.34,Africa,False,False,False,True
+1543,Sierra Leone,SLE,2017,44.83318,78.74271,68.66314,Africa,False,False,False,False
+1544,Sierra Leone,SLE,2019,43.57778,78.1976,67.86192,Africa,False,False,False,False
+1546,Singapore,SGP,1990,89.0,99.0,99.0,Asia,False,False,False,False
+1547,Singapore,SGP,2000,93.0,99.0,100.0,Asia,False,False,False,False
+1548,Singapore,SGP,2010,96.0,100.0,100.0,Asia,False,False,False,False
+1549,Singapore,SGP,2011,96.0,100.0,100.0,Asia,False,False,False,False
+1550,Singapore,SGP,2012,96.0,100.0,100.0,Asia,False,False,False,False
+1551,Singapore,SGP,2013,97.0,100.0,100.0,Asia,False,False,False,False
+1552,Singapore,SGP,2014,97.0,100.0,100.0,Asia,False,False,False,False
+1553,Singapore,SGP,2015,97.0,100.0,100.0,Asia,False,False,False,False
+1554,Singapore,SGP,2016,97.0,100.0,100.0,Asia,False,False,False,False
+1555,Singapore,SGP,2017,97.0,100.0,100.0,Asia,False,False,False,False
+1556,Singapore,SGP,2018,97.0,100.0,100.0,Asia,False,False,False,False
+1557,Singapore,SGP,2019,97.0,100.0,100.0,Asia,False,False,False,False
+1558,Singapore,SGP,2020,97.0,100.0,100.0,Asia,False,False,False,False
+1559,Singapore,SGP,2021,98.0,100.0,100.0,Asia,False,False,False,False
+1560,Slovenia,SVN,1991,100.0,100.0,100.0,Europe,False,False,False,False
+1562,Somalia,SOM,2006,54.0,76.0,23.79,Africa,False,False,False,True
+1563,Somalia,SOM,2022,54.0,76.0,65.0,Africa,False,False,False,False
+1565,South Africa,ZAF,1996,82.0,93.0,94.0,Africa,False,False,False,False
+1566,South Africa,ZAF,2007,89.0,97.0,98.0,Africa,False,False,False,False
+1567,South Africa,ZAF,2009,93.0,98.0,99.0,Africa,False,False,False,False
+1568,South Africa,ZAF,2010,93.0,98.0,99.0,Africa,False,False,False,False
+1569,South Africa,ZAF,2011,93.0,98.0,99.0,Africa,False,False,False,False
+1570,South Africa,ZAF,2012,94.0,98.0,99.0,Africa,False,False,False,False
+1571,South Africa,ZAF,2014,94.0,99.0,99.0,Africa,False,False,False,False
+1572,South Africa,ZAF,2015,94.0,99.0,99.0,Africa,False,False,False,False
+1573,South Africa,ZAF,2016,91.73724,95.83106,97.71958,Africa,False,False,False,False
+1574,South Africa,ZAF,2017,87.0,94.0,97.0,Africa,False,False,False,False
+1575,South Africa,ZAF,2019,95.0,98.0,99.0,Africa,False,False,False,False
+1576,South Africa,ZAF,2021,90.0,96.0,97.0,Africa,False,False,False,False
+1626,South Korea,KOR,2008,98.0,100.0,100.0,Asia,False,False,False,False
+1627,South Sudan,SSD,2008,27.0,44.0,30.0,Africa,False,True,True,True
+1628,South Sudan,SSD,2010,27.0,44.0,24.87,Africa,False,True,True,True
+1630,Spain,ESP,1991,96.0,100.0,100.0,Europe,False,False,False,False
+1631,Spain,ESP,2004,97.0,100.0,100.0,Europe,False,False,False,False
+1632,Spain,ESP,2005,98.0,100.0,100.0,Europe,False,False,False,False
+1633,Spain,ESP,2006,98.0,100.0,99.0,Europe,False,False,False,False
+1634,Spain,ESP,2007,98.0,100.0,100.0,Europe,False,False,False,False
+1635,Spain,ESP,2008,98.0,100.0,100.0,Europe,False,False,False,False
+1636,Spain,ESP,2009,98.0,100.0,100.0,Europe,False,False,False,False
+1637,Spain,ESP,2010,98.0,100.0,100.0,Europe,False,False,False,False
+1638,Spain,ESP,2011,98.0,100.0,100.0,Europe,False,False,False,False
+1639,Spain,ESP,2012,98.0,100.0,100.0,Europe,False,False,False,False
+1640,Spain,ESP,2013,98.0,100.0,100.0,Europe,False,False,False,False
+1641,Spain,ESP,2014,98.0,100.0,100.0,Europe,False,False,False,False
+1642,Spain,ESP,2015,98.0,100.0,100.0,Europe,False,False,False,False
+1643,Spain,ESP,2016,98.0,100.0,100.0,Europe,False,False,False,False
+1644,Spain,ESP,2018,98.0,100.0,100.0,Europe,False,False,False,False
+1645,Spain,ESP,2020,99.0,99.0,100.0,Europe,False,False,False,False
+1646,Spain,ESP,2021,100.0,100.0,100.0,Europe,False,False,False,False
+1648,Sri Lanka,LKA,2001,91.0,95.0,96.0,Asia,False,False,False,False
+1649,Sri Lanka,LKA,2006,91.0,97.0,98.0,Asia,False,False,False,False
+1650,Sri Lanka,LKA,2008,91.0,97.0,99.0,Asia,False,False,False,False
+1651,Sri Lanka,LKA,2010,91.0,98.0,99.0,Asia,False,False,False,False
+1652,Sri Lanka,LKA,2016,92.0,98.0,99.0,Asia,False,False,False,False
+1653,Sri Lanka,LKA,2017,92.0,99.0,99.0,Asia,False,False,False,False
+1654,Sri Lanka,LKA,2018,92.0,99.0,99.0,Asia,False,False,False,False
+1655,Sri Lanka,LKA,2019,92.0,99.0,99.0,Asia,False,False,False,False
+1656,Sri Lanka,LKA,2020,92.0,99.0,99.0,Asia,False,False,False,False
+1657,Sri Lanka,LKA,2021,92.0,99.0,99.0,Asia,False,False,False,False
+1658,Sri Lanka,LKA,2022,92.0,98.0,99.0,Asia,False,False,False,False
+1659,Sri Lanka,LKA,2023,93.0,99.0,99.0,Asia,False,False,False,False
+1739,Sudan,SDN,2000,61.0,86.0,72.0,Africa,False,False,False,False
+1740,Sudan,SDN,2008,54.0,69.0,63.0,Africa,False,False,True,True
+1741,Sudan,SDN,2010,54.0,69.0,64.81,Africa,False,False,True,False
+1742,Sudan,SDN,2014,54.0,69.0,100.0,Africa,False,False,True,False
+1743,Suriname,SUR,2004,90.0,96.0,94.0,South America,False,False,False,False
+1744,Suriname,SUR,2006,92.5,97.5,94.92,South America,False,False,False,False
+1745,Suriname,SUR,2008,95.0,99.0,99.0,South America,False,False,False,False
+1746,Suriname,SUR,2010,95.0,98.0,99.0,South America,False,False,False,False
+1747,Suriname,SUR,2012,93.0,98.0,97.0,South America,False,False,False,False
+1748,Suriname,SUR,2018,93.0,97.44166,97.9577,South America,False,False,False,False
+1750,Syria,SYR,2002,83.0,97.0,93.0,Asia,False,False,False,False
+1751,Syria,SYR,2004,81.0,95.0,90.0,Asia,False,False,False,False
+1752,Syria,SYR,2006,87.5,96.5,89.05,Asia,False,False,False,False
+1753,Syria,SYR,2021,94.0,98.0,98.0,Asia,False,False,False,False
+1755,Tajikistan,TJK,2000,99.0,100.0,100.0,Asia,False,False,False,False
+1756,Tajikistan,TJK,2012,99.0,100.0,100.0,Asia,False,False,False,False
+1757,Tajikistan,TJK,2017,99.0,100.0,96.42241,Asia,False,False,False,False
+1759,Tanzania,TZA,2002,69.0,81.0,76.0,Africa,False,False,False,False
+1760,Tanzania,TZA,2012,78.0,87.0,85.0,Africa,False,False,False,False
+1761,Tanzania,TZA,2015,78.0,87.0,85.0,Africa,False,False,False,False
+1762,Tanzania,TZA,2022,78.0,88.81121,85.12921,Africa,False,False,False,False
+1764,Thailand,THA,2000,93.0,98.0,98.0,Asia,False,False,False,False
+1765,Thailand,THA,2005,94.0,98.0,98.0,Asia,False,False,False,False
+1766,Thailand,THA,2010,96.0,97.0,97.0,Asia,False,False,False,False
+1767,Thailand,THA,2013,94.0,98.0,99.0,Asia,False,False,False,False
+1768,Thailand,THA,2015,93.0,98.0,98.0,Asia,False,False,False,False
+1769,Thailand,THA,2016,91.9814,97.36126,97.63726,Asia,False,False,False,False
+1770,Thailand,THA,2018,94.0,98.0,99.0,Asia,False,False,False,False
+1771,Thailand,THA,2019,91.26915,98.46694,98.57724,Asia,False,False,False,False
+1772,Thailand,THA,2022,91.09987,97.94499,98.42796,Asia,False,False,False,False
+1773,Togo,TGO,2000,53.0,84.0,64.0,Africa,False,False,False,False
+1774,Togo,TGO,2006,57.0,85.0,68.0,Africa,False,False,False,False
+1775,Togo,TGO,2009,57.0,88.0,75.0,Africa,False,False,False,False
+1776,Togo,TGO,2010,58.5,87.5,51.42,Africa,False,False,False,True
+1777,Togo,TGO,2011,60.0,87.0,73.0,Africa,False,False,False,False
+1778,Togo,TGO,2014,62.0,88.61,67.68,Africa,False,False,False,False
+1779,Togo,TGO,2015,64.0,90.0,78.0,Africa,False,False,False,False
+1780,Togo,TGO,2017,65.5,89.43568,74.7365,Africa,False,False,False,False
+1781,Togo,TGO,2019,67.0,92.0,84.0,Africa,False,False,False,False
+1782,Togo,TGO,2022,72.59589,93.32553,87.65002,Africa,False,False,False,False
+1784,Tonga,TON,1996,99.0,99.0,99.0,Oceania,False,False,False,False
+1785,Tonga,TON,2006,99.0,99.0,100.0,Oceania,False,False,False,False
+1786,Tonga,TON,2011,99.0,99.0,100.0,Oceania,False,False,False,False
+1787,Tonga,TON,2016,97.0,98.0,98.0,Oceania,False,False,False,False
+1788,Tonga,TON,2019,91.05162,99.91556,99.87335,Oceania,False,False,False,False
+1790,Trinidad and Tobago,TTO,1990,97.0,99.0,99.0,North America,False,False,False,False
+1791,Trinidad and Tobago,TTO,2006,97.0,94.025,99.18,North America,False,False,False,False
+1792,Trinidad and Tobago,TTO,2022,97.0,89.05,99.7281,North America,False,False,False,False
+1794,Tunisia,TUN,2004,74.0,96.0,92.0,Africa,False,False,False,False
+1795,Tunisia,TUN,2007,77.0,98.0,95.0,Africa,False,False,False,False
+1796,Tunisia,TUN,2008,78.0,98.0,95.0,Africa,False,False,False,False
+1797,Tunisia,TUN,2010,79.0,98.0,96.0,Africa,False,False,False,False
+1798,Tunisia,TUN,2011,80.0,98.0,96.0,Africa,False,False,False,False
+1799,Tunisia,TUN,2012,80.0,98.0,96.0,Africa,False,False,False,False
+1800,Tunisia,TUN,2014,79.0,97.0,96.0,Africa,False,False,False,False
+1801,Tunisia,TUN,2018,79.47511,98.38471,97.53666,Africa,False,False,False,False
+1802,Tunisia,TUN,2019,81.0,97.0,97.0,Africa,False,False,False,False
+1803,Tunisia,TUN,2021,83.68263,98.83691,99.05225,Africa,False,False,False,False
+1804,Tunisia,TUN,2023,86.24682,98.1943,98.12705,Africa,False,False,False,False
+1808,Turkey,TUR,1990,79.0,97.0,88.0,Asia,False,False,False,False
+1809,Turkey,TUR,2004,87.0,98.0,93.0,Asia,False,False,False,False
+1810,Turkey,TUR,2005,88.0,98.0,94.0,Asia,False,False,False,False
+1811,Turkey,TUR,2006,88.0,98.0,94.0,Asia,False,False,False,False
+1812,Turkey,TUR,2007,89.0,99.0,94.0,Asia,False,False,False,False
+1813,Turkey,TUR,2009,91.0,99.0,97.0,Asia,False,False,False,False
+1814,Turkey,TUR,2010,93.0,99.0,97.0,Asia,False,False,False,False
+1815,Turkey,TUR,2011,94.0,99.0,98.0,Asia,False,False,False,False
+1816,Turkey,TUR,2012,95.0,100.0,98.0,Asia,False,False,False,False
+1817,Turkey,TUR,2013,95.0,100.0,99.0,Asia,False,False,False,False
+1818,Turkey,TUR,2014,95.0,100.0,99.0,Asia,False,False,False,False
+1819,Turkey,TUR,2015,96.0,100.0,99.0,Asia,False,False,False,False
+1820,Turkey,TUR,2016,96.0,100.0,99.0,Asia,False,False,False,False
+1821,Turkey,TUR,2017,96.0,100.0,100.0,Asia,False,False,False,False
+1822,Turkey,TUR,2018,96.5,100.0,98.8,Asia,False,False,False,False
+1823,Turkey,TUR,2019,97.0,100.0,100.0,Asia,False,False,False,False
+1824,Turkey,TUR,2021,97.0,100.0,100.0,Asia,False,False,False,False
+1825,Turkey,TUR,2022,97.0,92.57,91.87,Asia,False,False,False,False
+1826,Turkmenistan,TKM,1995,99.0,100.0,100.0,Asia,False,False,False,False
+1827,Turkmenistan,TKM,2015,99.0,100.0,99.83259,Asia,False,False,False,False
+1828,Turkmenistan,TKM,2019,99.0,100.0,99.98405,Asia,False,False,False,False
+1831,Uganda,UGA,1991,56.0,77.0,63.0,Africa,False,False,False,True
+1832,Uganda,UGA,2002,68.0,86.0,76.0,Africa,False,False,False,False
+1833,Uganda,UGA,2006,71.0,87.0,81.0,Africa,False,False,False,False
+1834,Uganda,UGA,2010,73.0,90.0,85.0,Africa,False,False,False,False
+1835,Uganda,UGA,2012,70.0,86.0,82.0,Africa,False,False,False,False
+1836,Uganda,UGA,2016,69.10132,81.41776,78.18981,Africa,False,False,False,False
+1837,Ukraine,UKR,2001,99.0,100.0,100.0,Europe,False,False,False,False
+1838,Ukraine,UKR,2005,99.0,100.0,100.0,Europe,False,False,False,False
+1841,United Arab Emirates,ARE,2005,90.0,94.0,97.0,Asia,False,False,False,False
+1842,United Arab Emirates,ARE,2019,98.0,98.0,99.0,Asia,False,False,False,False
+1843,United Arab Emirates,ARE,2021,98.0,100.0,100.0,Asia,False,False,False,False
+1844,United Arab Emirates,ARE,2022,98.0,100.0,100.0,Asia,False,False,False,False
+1845,United Arab Emirates,ARE,2023,98.0,100.0,100.0,Asia,False,False,False,False
+1896,Uruguay,URY,1996,97.0,98.0,99.0,South America,False,False,False,False
+1897,Uruguay,URY,2006,98.0,98.0,99.0,South America,False,False,False,False
+1898,Uruguay,URY,2007,98.0,98.0,99.0,South America,False,False,False,False
+1899,Uruguay,URY,2008,98.0,98.6,99.2,South America,False,False,False,False
+1900,Uruguay,URY,2009,98.0,98.6,99.3,South America,False,False,False,False
+1901,Uruguay,URY,2010,98.0,98.4,99.2,South America,False,False,False,False
+1902,Uruguay,URY,2011,98.0,98.6,99.1,South America,False,False,False,False
+1903,Uruguay,URY,2012,98.0,98.6,99.3,South America,False,False,False,False
+1904,Uruguay,URY,2013,98.0,98.6,99.3,South America,False,False,False,False
+1905,Uruguay,URY,2014,98.0,98.3,99.4,South America,False,False,False,False
+1906,Uruguay,URY,2015,99.0,98.6,99.2,South America,False,False,False,False
+1907,Uruguay,URY,2016,99.0,98.9,99.4,South America,False,False,False,False
+1908,Uruguay,URY,2017,99.0,98.6,99.3,South America,False,False,False,False
+1909,Uruguay,URY,2018,99.0,98.6,99.2,South America,False,False,False,False
+1910,Uruguay,URY,2019,99.0,98.7,99.3,South America,False,False,False,False
+1911,Uruguay,URY,2021,99.0,99.1,99.2,South America,False,False,False,False
+1912,Uruguay,URY,2022,99.0,98.9,99.4,South America,False,False,False,False
+1913,Uruguay,URY,2023,99.0,98.7,99.4,South America,False,False,False,False
+1914,Uzbekistan,UZB,2000,99.0,100.0,100.0,Asia,False,False,False,False
+1915,Uzbekistan,UZB,2006,99.5,100.0,100.0,Asia,False,False,False,False
+1916,Uzbekistan,UZB,2013,100.0,100.0,100.0,Asia,False,False,False,False
+1917,Uzbekistan,UZB,2014,100.0,100.0,100.0,Asia,False,False,False,False
+1918,Uzbekistan,UZB,2015,100.0,100.0,100.0,Asia,False,False,False,False
+1919,Uzbekistan,UZB,2016,100.0,100.0,100.0,Asia,False,False,False,False
+1920,Uzbekistan,UZB,2018,100.0,100.0,100.0,Asia,False,False,False,False
+1921,Uzbekistan,UZB,2019,100.0,100.0,100.0,Asia,False,False,False,False
+1922,Uzbekistan,UZB,2021,100.0,100.0,100.0,Asia,False,False,False,False
+1923,Uzbekistan,UZB,2022,100.0,100.0,100.0,Asia,False,False,False,False
+1925,Vanuatu,VUT,1999,74.0,93.36447,94.51224,Oceania,False,False,False,False
+1926,Vanuatu,VUT,2023,87.96032,93.36447,94.51224,Oceania,False,False,False,False
+1928,Venezuela,VEN,1990,90.0,95.0,96.0,South America,False,False,False,False
+1929,Venezuela,VEN,2000,91.5,96.9,98.2,South America,False,False,False,False
+1930,Venezuela,VEN,2001,93.0,97.0,98.3,South America,False,False,False,False
+1931,Venezuela,VEN,2002,93.33333333333333,97.2,98.4,South America,False,False,False,False
+1932,Venezuela,VEN,2003,93.66666666666667,97.2,98.5,South America,False,False,False,False
+1933,Venezuela,VEN,2004,94.0,97.7,98.6,South America,False,False,False,False
+1934,Venezuela,VEN,2005,94.33333333333333,97.6,98.5,South America,False,False,False,False
+1935,Venezuela,VEN,2006,94.66666666666667,97.8,98.8,South America,False,False,False,False
+1936,Venezuela,VEN,2007,95.0,98.0,98.8,South America,False,False,False,False
+1937,Venezuela,VEN,2008,95.5,98.1,98.9,South America,False,False,False,False
+1938,Venezuela,VEN,2009,96.0,98.3,98.8,South America,False,False,False,False
+1939,Venezuela,VEN,2010,95.5,98.1,98.8,South America,False,False,False,False
+1940,Venezuela,VEN,2011,95.0,98.3,99.0,South America,False,False,False,False
+1941,Venezuela,VEN,2012,95.5,98.6,99.1,South America,False,False,False,False
+1942,Venezuela,VEN,2013,96.0,98.5,98.9,South America,False,False,False,False
+1943,Venezuela,VEN,2014,96.5,98.6,99.2,South America,False,False,False,False
+1944,Venezuela,VEN,2015,97.0,99.0,99.0,South America,False,False,False,False
+1945,Venezuela,VEN,2016,97.0,98.0,99.0,South America,False,False,False,False
+1948,Vietnam,VNM,1999,90.0,95.0,94.0,Asia,False,False,False,False
+1949,Vietnam,VNM,2000,90.0,96.0,94.0,Asia,False,False,False,False
+1950,Vietnam,VNM,2006,92.0,96.5,100.0,Asia,False,False,False,False
+1951,Vietnam,VNM,2009,94.0,97.0,97.0,Asia,False,False,False,False
+1952,Vietnam,VNM,2014,95.0,98.0,98.81,Asia,False,False,False,False
+1953,Vietnam,VNM,2019,96.0,99.0,99.0,Asia,False,False,False,False
+1954,Vietnam,VNM,2020,96.0,97.48152,98.96916,Asia,False,False,False,False
+1955,Vietnam,VNM,2022,96.0,99.0,99.0,Asia,False,False,False,False
+2005,Yemen,YEM,1994,37.0,83.0,35.0,Asia,False,False,False,True
+2006,Yemen,YEM,2006,37.0,75.92,65.66,Asia,False,False,False,False
+2007,Yemen,YEM,2013,37.0,68.84,64.08,Asia,False,False,True,False
+2008,Yemen,YEM,2023,37.0,61.76,76.91698,Asia,False,False,True,False
+2009,Zambia,ZMB,1990,65.0,67.0,66.0,Africa,False,False,True,False
+2010,Zambia,ZMB,1999,68.0,73.0,66.0,Africa,False,False,False,False
+2011,Zambia,ZMB,2002,69.0,78.0,66.0,Africa,False,False,False,False
+2012,Zambia,ZMB,2010,83.0,91.0,87.0,Africa,False,False,False,False
+2013,Zambia,ZMB,2018,71.1323,82.44786,72.90992,Africa,False,False,False,False
+2015,Zimbabwe,ZWE,1992,84.0,97.0,94.0,Africa,False,False,False,False
+2016,Zimbabwe,ZWE,2009,87.07585,94.92461,95.65,Africa,False,False,False,False
+2017,Zimbabwe,ZWE,2014,90.15169999999999,92.84922,96.31,Africa,False,False,False,False
+2018,Zimbabwe,ZWE,2019,93.22755,90.77383,94.2159,Africa,False,False,False,False

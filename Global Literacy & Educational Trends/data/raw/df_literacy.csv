@@ -1,0 +1,2020 @@
+,entity,code,year,adult_literacy_rate__population_15plus_years__both_sexes__pct__lr_ag15t99,youth_literacy_rate__population_15_24_years__male__pct__lr_ag15t24_m,youth_literacy_rate__population_15_24_years__female__pct__lr_ag15t24_f,owid_region
+0,Afghanistan,AFG,1979,18.0,46.0,11.0,Asia
+1,Afghanistan,AFG,2011,31.0,62.0,32.0,Asia
+2,Afghanistan,AFG,2015,33.75384,57.73505,25.48416,Asia
+3,Afghanistan,AFG,2021,37.0,71.0,42.0,Asia
+4,Afghanistan,AFG,2022,,83.4,44.17171,Asia
+5,Albania,ALB,2001,99.0,99.0,99.0,Europe
+6,Albania,ALB,2005,,,99.49,Europe
+7,Albania,ALB,2008,96.0,99.0,99.0,Europe
+8,Albania,ALB,2009,,94.82,96.61,Europe
+9,Albania,ALB,2011,97.0,99.0,99.0,Europe
+10,Albania,ALB,2012,97.0,99.0,99.0,Europe
+11,Albania,ALB,2017,98.81623,98.58999,99.52556,Europe
+12,Algeria,DZA,1987,50.0,86.0,62.0,Africa
+13,Algeria,DZA,2002,70.0,94.0,86.0,Africa
+14,Algeria,DZA,2006,73.0,94.0,89.0,Africa
+15,Algeria,DZA,2008,75.0,96.0,92.0,Africa
+16,Algeria,DZA,2019,,64.79,97.9897,Africa
+17,American Samoa,ASM,1980,97.0,98.0,97.0,Oceania
+18,Angola,AGO,2001,67.0,84.0,63.0,Africa
+19,Angola,AGO,2014,66.0,85.0,71.0,Africa
+20,Angola,AGO,2015,66.23586,83.96919,67.4276,Africa
+21,Anguilla,AIA,1984,95.0,99.0,99.0,North America
+22,Antigua and Barbuda,ATG,2001,99.0,,,
+23,Argentina,ARG,1980,94.0,96.0,97.0,South America
+24,Argentina,ARG,1991,96.0,98.0,99.0,South America
+25,Argentina,ARG,2001,97.0,99.0,99.0,South America
+26,Armenia,ARM,1989,99.0,100.0,100.0,Asia
+27,Armenia,ARM,2000,,100.0,100.0,Asia
+28,Armenia,ARM,2001,99.0,100.0,100.0,Asia
+29,Armenia,ARM,2011,100.0,100.0,100.0,Asia
+30,Armenia,ARM,2016,100.0,100.0,100.0,Asia
+31,Armenia,ARM,2017,100.0,100.0,100.0,Asia
+32,Armenia,ARM,2020,100.0,100.0,100.0,Asia
+33,Armenia,ARM,2022,99.825,99.64871,99.91656,Asia
+34,Aruba,ABW,2000,97.0,99.0,99.0,North America
+35,Aruba,ABW,2010,97.0,99.0,99.0,North America
+36,Azerbaijan,AZE,1999,99.0,100.0,100.0,Asia
+37,Azerbaijan,AZE,2006,,100.0,100.0,Asia
+38,Azerbaijan,AZE,2007,100.0,100.0,100.0,Asia
+39,Azerbaijan,AZE,2009,100.0,100.0,100.0,Asia
+40,Azerbaijan,AZE,2010,100.0,100.0,100.0,Asia
+41,Azerbaijan,AZE,2011,100.0,100.0,100.0,Asia
+42,Azerbaijan,AZE,2012,100.0,100.0,100.0,Asia
+43,Azerbaijan,AZE,2013,100.0,100.0,100.0,Asia
+44,Azerbaijan,AZE,2014,100.0,100.0,100.0,Asia
+45,Azerbaijan,AZE,2015,100.0,100.0,100.0,Asia
+46,Azerbaijan,AZE,2016,100.0,100.0,100.0,Asia
+47,Azerbaijan,AZE,2017,100.0,100.0,100.0,Asia
+48,Azerbaijan,AZE,2019,100.0,100.0,100.0,Asia
+49,Azerbaijan,AZE,2023,100.0,100.0,100.0,Asia
+50,Bahrain,BHR,1981,70.0,90.0,82.0,Asia
+51,Bahrain,BHR,1991,84.0,97.0,97.0,Asia
+52,Bahrain,BHR,2001,87.0,97.0,97.0,Asia
+53,Bahrain,BHR,2022,98.0,99.0,99.0,Asia
+54,Bahrain,BHR,2023,98.0,99.0,99.0,Asia
+55,Bangladesh,BGD,1981,29.0,44.0,27.0,Asia
+56,Bangladesh,BGD,1991,35.0,52.0,38.0,Asia
+57,Bangladesh,BGD,2000,,100.0,100.0,Asia
+58,Bangladesh,BGD,2001,47.0,67.0,60.0,Asia
+59,Bangladesh,BGD,2006,,,87.2,Asia
+60,Bangladesh,BGD,2007,,90.51,77.09,Asia
+61,Bangladesh,BGD,2011,59.0,76.0,80.0,Asia
+62,Bangladesh,BGD,2012,58.0,76.0,79.0,Asia
+63,Bangladesh,BGD,2013,61.0,84.0,87.0,Asia
+64,Bangladesh,BGD,2014,61.0,85.0,86.0,Asia
+65,Bangladesh,BGD,2015,65.0,86.0,90.0,Asia
+66,Bangladesh,BGD,2016,73.0,91.0,94.0,Asia
+67,Bangladesh,BGD,2017,73.0,92.0,94.0,Asia
+68,Bangladesh,BGD,2018,74.0,92.0,95.0,Asia
+69,Bangladesh,BGD,2019,75.0,94.0,96.0,Asia
+70,Bangladesh,BGD,2020,75.0,93.0,96.0,Asia
+71,Bangladesh,BGD,2021,76.0,94.0,96.0,Asia
+72,Bangladesh,BGD,2022,79.0,92.0,94.0,Asia
+73,Barbados,BRB,1970,99.0,100.0,100.0,North America
+74,Barbados,BRB,2012,,100.0,100.0,North America
+75,Belarus,BLR,1989,98.0,100.0,100.0,Europe
+76,Belarus,BLR,1999,100.0,100.0,100.0,Europe
+77,Belarus,BLR,2005,,,99.98,Europe
+78,Belarus,BLR,2009,100.0,100.0,100.0,Europe
+79,Belarus,BLR,2012,,100.0,100.0,Europe
+80,Belarus,BLR,2019,100.0,100.0,100.0,Europe
+81,Belize,BLZ,1991,70.0,77.0,78.0,North America
+82,Belize,BLZ,2006,,,95.13,North America
+83,Belize,BLZ,2011,,,96.6,North America
+84,Belize,BLZ,2015,90.91604,97.82818,98.07905,North America
+85,Benin,BEN,1979,16.0,46.0,18.0,Africa
+86,Benin,BEN,1992,27.0,55.0,27.0,Africa
+87,Benin,BEN,2001,,61.08,31.85,Africa
+88,Benin,BEN,2002,35.0,59.0,33.0,Africa
+89,Benin,BEN,2006,,72.07,39.53,Africa
+90,Benin,BEN,2017,38.87121,66.79979,50.98536,Africa
+91,Benin,BEN,2019,48.99828,76.35444,62.76271,Africa
+92,Benin,BEN,2021,43.83417,70.96799,59.18644,Africa
+93,Benin,BEN,2022,51.37877,74.60011,67.93813,Africa
+94,Bhutan,BTN,2005,53.0,80.0,68.0,Asia
+95,Bhutan,BTN,2010,,,63.34,Asia
+96,Bhutan,BTN,2012,55.0,90.0,82.0,Asia
+97,Bhutan,BTN,2017,67.0,93.0,93.0,Asia
+98,Bolivia,BOL,1976,63.0,91.0,76.0,South America
+99,Bolivia,BOL,1992,80.0,96.0,92.0,South America
+100,Bolivia,BOL,2000,,98.4,96.3,South America
+101,Bolivia,BOL,2001,87.0,98.2,96.5,South America
+102,Bolivia,BOL,2002,,99.1,97.1,South America
+103,Bolivia,BOL,2003,,99.47,96.67,South America
+104,Bolivia,BOL,2004,,99.6,98.6,South America
+105,Bolivia,BOL,2005,,99.3,98.4,South America
+106,Bolivia,BOL,2006,,99.4,97.4,South America
+107,Bolivia,BOL,2007,91.0,99.8,99.1,South America
+108,Bolivia,BOL,2008,91.0,99.4,99.0,South America
+109,Bolivia,BOL,2009,91.0,99.7,99.1,South America
+110,Bolivia,BOL,2011,92.0,99.3,98.8,South America
+111,Bolivia,BOL,2012,94.0,99.5,99.2,South America
+112,Bolivia,BOL,2013,,99.5,99.2,South America
+113,Bolivia,BOL,2014,,99.7,99.2,South America
+114,Bolivia,BOL,2015,92.0,99.4,99.4,South America
+115,Bolivia,BOL,2016,,99.5,99.3,South America
+116,Bolivia,BOL,2017,,99.4,99.3,South America
+117,Bolivia,BOL,2018,,99.7,99.4,South America
+118,Bolivia,BOL,2019,,99.7,99.4,South America
+119,Bolivia,BOL,2020,94.0,99.6,99.5,South America
+120,Bolivia,BOL,2021,,99.5,99.5,South America
+121,Bosnia and Herzegovina,BIH,1991,89.0,99.0,99.0,Europe
+122,Bosnia and Herzegovina,BIH,2000,97.0,100.0,100.0,Europe
+123,Bosnia and Herzegovina,BIH,2006,,,99.82,Europe
+124,Bosnia and Herzegovina,BIH,2013,97.0,100.0,100.0,Europe
+125,Botswana,BWA,1991,69.0,86.0,92.0,Africa
+126,Botswana,BWA,2003,81.0,92.0,96.0,Africa
+127,Brazil,BRA,1980,75.0,83.0,85.0,South America
+128,Brazil,BRA,2000,86.0,93.0,96.0,South America
+129,Brazil,BRA,2001,,94.7,96.9,South America
+130,Brazil,BRA,2002,,95.1,97.5,South America
+131,Brazil,BRA,2003,,95.6,97.7,South America
+132,Brazil,BRA,2004,89.0,95.7,97.9,South America
+133,Brazil,BRA,2005,,96.1,98.1,South America
+134,Brazil,BRA,2006,90.0,96.8,98.3,South America
+135,Brazil,BRA,2007,90.0,97.0,98.6,South America
+136,Brazil,BRA,2008,90.0,97.2,98.5,South America
+137,Brazil,BRA,2009,90.0,97.4,98.7,South America
+138,Brazil,BRA,2010,90.0,97.0,98.0,South America
+139,Brazil,BRA,2011,91.0,97.9,99.1,South America
+140,Brazil,BRA,2012,91.0,98.2,99.0,South America
+141,Brazil,BRA,2013,91.0,98.3,99.2,South America
+142,Brazil,BRA,2014,92.0,98.4,99.3,South America
+143,Brazil,BRA,2015,92.0,98.6,99.3,South America
+144,Brazil,BRA,2016,93.0,98.7,99.5,South America
+145,Brazil,BRA,2017,93.0,98.8,99.5,South America
+146,Brazil,BRA,2018,93.0,98.7,99.4,South America
+147,Brazil,BRA,2019,,98.7,99.5,South America
+148,Brazil,BRA,2020,,99.0,99.5,South America
+149,Brazil,BRA,2021,,99.1,99.5,South America
+150,Brazil,BRA,2022,,99.0,99.6,South America
+151,Brazil,BRA,2023,,99.0,99.6,South America
+152,Brunei,BRN,1981,78.0,94.0,93.0,Asia
+153,Brunei,BRN,1991,88.0,98.0,98.0,Asia
+154,Brunei,BRN,2001,93.0,99.0,99.0,Asia
+155,Brunei,BRN,2011,96.0,99.0,100.0,Asia
+156,Bulgaria,BGR,2001,98.0,98.0,98.0,Europe
+157,Bulgaria,BGR,2011,98.0,98.0,98.0,Europe
+158,Burkina Faso,BFA,1975,9.0,22.0,7.0,Africa
+159,Burkina Faso,BFA,1991,14.0,27.0,14.0,Africa
+160,Burkina Faso,BFA,1996,13.0,25.0,14.0,Africa
+161,Burkina Faso,BFA,2003,22.0,38.0,25.0,Africa
+162,Burkina Faso,BFA,2005,24.0,40.0,26.0,Africa
+163,Burkina Faso,BFA,2006,22.0,40.0,27.0,Africa
+164,Burkina Faso,BFA,2007,28.0,47.0,33.0,Africa
+165,Burkina Faso,BFA,2010,,47.04,27.24,Africa
+166,Burkina Faso,BFA,2014,35.0,57.0,44.0,Africa
+167,Burkina Faso,BFA,2018,39.0,64.0,54.0,Africa
+168,Burkina Faso,BFA,2019,30.0,51.0,44.0,Africa
+169,Burkina Faso,BFA,2021,36.96738,66.64593,58.758,Africa
+170,Burkina Faso,BFA,2022,40.92361,65.47311,60.56925,Africa
+171,Burundi,BDI,1979,23.0,41.0,21.0,Africa
+172,Burundi,BDI,1990,37.0,59.0,48.0,Africa
+173,Burundi,BDI,2000,59.0,77.0,70.0,Africa
+174,Burundi,BDI,2005,,,52.83,Africa
+175,Burundi,BDI,2008,48.0,67.0,57.0,Africa
+176,Burundi,BDI,2010,,82.66,66.51,Africa
+177,Burundi,BDI,2014,62.0,85.0,75.0,Africa
+178,Burundi,BDI,2016,65.68774,86.7551,82.08605,Africa
+179,Burundi,BDI,2017,68.0,91.0,86.0,Africa
+180,Cambodia,KHM,1998,67.0,82.0,71.0,Asia
+181,Cambodia,KHM,2000,,,54.67,Asia
+182,Cambodia,KHM,2004,74.0,88.0,79.0,Asia
+183,Cambodia,KHM,2005,,100.0,67.33,Asia
+184,Cambodia,KHM,2008,77.0,89.0,86.0,Asia
+185,Cambodia,KHM,2009,76.0,88.0,86.0,Asia
+186,Cambodia,KHM,2010,,80.6,78.02,Asia
+187,Cambodia,KHM,2014,78.0,90.0,90.0,Asia
+188,Cambodia,KHM,2015,81.0,92.0,93.0,Asia
+189,Cambodia,KHM,2021,71.92725,90.30829,93.50569,Asia
+190,Cameroon,CMR,1976,41.0,80.0,59.0,Africa
+191,Cameroon,CMR,2000,68.0,88.0,78.0,Africa
+192,Cameroon,CMR,2004,,81.39,67.65,Africa
+193,Cameroon,CMR,2006,,,64.67,Africa
+194,Cameroon,CMR,2007,71.0,89.0,77.0,Africa
+195,Cameroon,CMR,2010,71.0,85.0,76.0,Africa
+196,Cameroon,CMR,2011,,86.92,73.41,Africa
+197,Cameroon,CMR,2014,,,100.0,Africa
+198,Cameroon,CMR,2018,72.54713,87.59698,76.3945,Africa
+199,Cape Verde,CPV,1990,63.0,90.0,86.0,Africa
+200,Cape Verde,CPV,2012,85.0,98.0,98.0,Africa
+201,Cape Verde,CPV,2015,87.0,98.0,99.0,Africa
+202,Cayman Islands,CYM,2007,99.0,99.0,99.0,North America
+203,Central African Republic,CAF,1975,18.0,56.0,20.0,Africa
+204,Central African Republic,CAF,1988,34.0,63.0,35.0,Africa
+205,Central African Republic,CAF,2000,51.0,73.0,49.0,Africa
+206,Central African Republic,CAF,2006,,,21.51,Africa
+207,Central African Republic,CAF,2010,,,27.63,Africa
+208,Central African Republic,CAF,2019,42.44279,64.90382,36.67682,Africa
+209,Central and Southern Asia (SDG),,1975,38.60951,63.08979,35.88069,
+210,Central and Southern Asia (SDG),,1976,38.67103,63.16943,35.99637,
+211,Central and Southern Asia (SDG),,1977,39.32173,63.65826,37.11797,
+212,Central and Southern Asia (SDG),,1978,39.97063,64.04982,38.23392,
+213,Central and Southern Asia (SDG),,1979,40.614,64.35557,39.34306,
+214,Central and Southern Asia (SDG),,1980,41.22859,64.54994,40.34363,
+215,Central and Southern Asia (SDG),,1981,41.8161,64.62395,41.23879,
+216,Central and Southern Asia (SDG),,1982,42.48007,64.87071,42.33691,
+217,Central and Southern Asia (SDG),,1983,43.19952,65.06471,43.46367,
+218,Central and Southern Asia (SDG),,1984,43.8527,65.18798,44.54084,
+219,Central and Southern Asia (SDG),,1985,44.50827,65.35568,45.61228,
+220,Central and Southern Asia (SDG),,1986,45.16565,65.54987,46.6844,
+221,Central and Southern Asia (SDG),,1987,45.82521,65.81714,47.70883,
+222,Central and Southern Asia (SDG),,1988,46.56606,68.65796,45.84002,
+223,Central and Southern Asia (SDG),,1989,47.32452,69.49879,47.43975,
+224,Central and Southern Asia (SDG),,1990,48.32116,70.41392,49.24991,
+225,Central and Southern Asia (SDG),,1991,49.05992,71.12513,50.83163,
+226,Central and Southern Asia (SDG),,1992,50.02463,72.52291,52.2682,
+227,Central and Southern Asia (SDG),,1993,50.96456,73.86445,53.6906,
+228,Central and Southern Asia (SDG),,1994,51.65748,74.50486,55.22097,
+229,Central and Southern Asia (SDG),,1995,52.48868,75.20815,56.90365,
+230,Central and Southern Asia (SDG),,1996,53.27746,75.8941,58.44146,
+231,Central and Southern Asia (SDG),,1997,54.06332,76.53233,59.79875,
+232,Central and Southern Asia (SDG),,1998,58.53805,80.47533,62.4221,
+233,Central and Southern Asia (SDG),,1999,59.31843,81.09931,64.21235,
+234,Central and Southern Asia (SDG),,2000,60.08303,81.62344,65.90239,
+235,Central and Southern Asia (SDG),,2001,60.84338,82.06134,67.50308,
+236,Central and Southern Asia (SDG),,2002,61.62705,82.56851,69.10661,
+237,Central and Southern Asia (SDG),,2003,62.51307,83.6186,70.32368,
+238,Central and Southern Asia (SDG),,2004,63.28101,84.02438,71.84613,
+239,Central and Southern Asia (SDG),,2005,63.14516,85.62037,72.0607,
+240,Central and Southern Asia (SDG),,2006,63.28799,84.61482,73.06606,
+241,Central and Southern Asia (SDG),,2007,64.09655,84.8928,74.62511,
+242,Central and Southern Asia (SDG),,2008,65.15713,85.80285,76.26355,
+243,Central and Southern Asia (SDG),,2009,65.98215,86.28822,77.79943,
+244,Central and Southern Asia (SDG),,2010,68.35281,87.72251,79.15094,
+245,Central and Southern Asia (SDG),,2011,68.73041,87.85644,80.23454,
+246,Central and Southern Asia (SDG),,2012,68.78113,88.13688,81.02616,
+247,Central and Southern Asia (SDG),,2013,69.72007,89.19475,82.70196,
+248,Central and Southern Asia (SDG),,2014,70.40182,89.51995,83.84325,
+249,Central and Southern Asia (SDG),,2015,71.63145,90.11613,85.22724,
+250,Central and Southern Asia (SDG),,2016,72.85133,90.8607,86.58227,
+251,Central and Southern Asia (SDG),,2017,73.37587,91.27249,87.15818,
+252,Central and Southern Asia (SDG),,2018,73.86521,91.21208,86.94566,
+253,Central and Southern Asia (SDG),,2019,73.66493,93.88992,89.33263,
+254,Central and Southern Asia (SDG),,2020,74.33241,94.12073,89.98798,
+255,Central and Southern Asia (SDG),,2021,75.07198,94.41743,90.64738,
+256,Central and Southern Asia (SDG),,2022,75.81275,94.68063,91.34677,
+257,Central and Southern Asia (SDG),,2023,76.51431,94.92773,91.97111,
+258,Chad,TCD,1993,11.0,26.0,9.0,Africa
+259,Chad,TCD,2000,26.0,56.0,23.0,Africa
+260,Chad,TCD,2004,28.0,54.0,31.0,Africa
+261,Chad,TCD,2010,,,16.88,Africa
+262,Chad,TCD,2016,22.0,41.0,22.0,Africa
+263,Chad,TCD,2019,30.62792,56.26247,33.32039,Africa
+264,Chile,CHL,1982,91.0,96.0,97.0,South America
+265,Chile,CHL,1992,94.0,98.0,99.0,South America
+266,Chile,CHL,2000,,98.9,99.3,South America
+267,Chile,CHL,2002,96.0,99.0,99.0,South America
+268,Chile,CHL,2003,,98.9,99.4,South America
+269,Chile,CHL,2006,,98.9,99.3,South America
+270,Chile,CHL,2009,,99.2,99.5,South America
+271,Chile,CHL,2011,97.0,99.2,99.6,South America
+272,Chile,CHL,2013,96.0,99.0,99.1,South America
+273,Chile,CHL,2015,97.0,99.3,99.4,South America
+274,Chile,CHL,2017,96.0,99.0,99.0,South America
+275,Chile,CHL,2022,,99.1,99.5,South America
+276,China,CHN,1982,66.0,95.0,82.0,Asia
+277,China,CHN,1990,78.0,97.0,91.0,Asia
+278,China,CHN,2000,91.0,99.0,99.0,Asia
+279,China,CHN,2010,95.0,100.0,100.0,Asia
+280,China,CHN,2020,97.0,100.0,100.0,Asia
+281,Colombia,COL,1993,91.0,95.0,96.0,South America
+282,Colombia,COL,1996,91.0,96.0,98.0,South America
+283,Colombia,COL,2000,,,100.0,South America
+284,Colombia,COL,2002,,96.9,98.0,South America
+285,Colombia,COL,2003,,96.7,98.3,South America
+286,Colombia,COL,2004,93.0,97.5,98.4,South America
+287,Colombia,COL,2005,93.0,97.6,98.4,South America
+288,Colombia,COL,2006,92.0,98.0,98.0,South America
+289,Colombia,COL,2007,93.0,97.0,98.0,South America
+290,Colombia,COL,2008,93.0,97.5,98.4,South America
+291,Colombia,COL,2009,93.0,97.4,98.4,South America
+292,Colombia,COL,2010,93.0,97.8,98.6,South America
+293,Colombia,COL,2011,94.0,97.8,98.8,South America
+294,Colombia,COL,2012,,97.8,98.7,South America
+295,Colombia,COL,2013,,97.8,98.8,South America
+296,Colombia,COL,2014,94.0,98.1,98.9,South America
+297,Colombia,COL,2015,94.0,98.2,98.9,South America
+298,Colombia,COL,2016,95.0,98.3,99.0,South America
+299,Colombia,COL,2017,,98.3,99.0,South America
+300,Colombia,COL,2018,95.0,98.7,99.1,South America
+301,Colombia,COL,2019,95.0,98.5,99.2,South America
+302,Colombia,COL,2020,96.0,98.7,99.3,South America
+303,Colombia,COL,2021,,98.8,99.4,South America
+304,Colombia,COL,2022,,98.6,99.2,South America
+305,Colombia,COL,2023,,98.7,99.2,South America
+306,Comoros,COM,1980,48.0,69.0,55.0,Africa
+307,Comoros,COM,2000,68.0,84.0,78.0,Africa
+308,Comoros,COM,2012,,85.0,78.59,Africa
+309,Congo,COG,1984,60.0,92.0,83.0,Africa
+310,Congo,COG,2005,76.0,88.0,71.0,Africa
+311,Costa Rica,CRI,1984,93.0,97.0,98.0,North America
+312,Costa Rica,CRI,2000,95.0,97.0,98.0,North America
+313,Costa Rica,CRI,2011,97.0,99.0,99.0,North America
+314,Costa Rica,CRI,2018,,74.78,99.63372,North America
+315,Cote d'Ivoire,CIV,1988,34.0,60.0,38.0,Africa
+316,Cote d'Ivoire,CIV,1998,36.0,54.0,40.0,Africa
+317,Cote d'Ivoire,CIV,2000,49.0,71.0,52.0,Africa
+318,Cote d'Ivoire,CIV,2006,,,38.57,Africa
+319,Cote d'Ivoire,CIV,2014,44.0,59.0,47.0,Africa
+320,Cote d'Ivoire,CIV,2016,50.03968,71.98823,54.73764,Africa
+321,Cote d'Ivoire,CIV,2019,90.0,93.0,76.0,Africa
+322,Cote d'Ivoire,CIV,2021,50.00064,76.16145,58.31827,Africa
+323,Croatia,HRV,1991,97.0,100.0,100.0,Europe
+324,Croatia,HRV,2001,98.0,100.0,100.0,Europe
+325,Cuba,CUB,1981,98.0,,,
+326,Cuba,CUB,2002,100.0,100.0,100.0,North America
+327,Cuba,CUB,2012,100.0,100.0,100.0,North America
+328,Cuba,CUB,2019,97.65491,99.53119,99.70794,North America
+329,Cyprus,CYP,1992,94.0,100.0,100.0,Europe
+330,Cyprus,CYP,2001,97.0,100.0,100.0,Europe
+331,Cyprus,CYP,2011,99.0,100.0,100.0,Europe
+332,Democratic Republic of Congo,COD,2001,67.0,78.0,63.0,Africa
+333,Democratic Republic of Congo,COD,2007,,87.36,62.97,Africa
+334,Democratic Republic of Congo,COD,2010,,,64.32,Africa
+335,Democratic Republic of Congo,COD,2012,75.0,91.0,77.0,Africa
+336,Democratic Republic of Congo,COD,2013,,92.56,76.58,Africa
+337,Democratic Republic of Congo,COD,2016,77.0,91.0,80.0,Africa
+338,Democratic Republic of Congo,COD,2018,73.55303,90.81754,77.53746,Africa
+339,Djibouti,DJI,2006,,,51.81,Africa
+340,Dominican Republic,DOM,1981,73.0,81.0,84.0,North America
+341,Dominican Republic,DOM,2000,,93.2,96.5,North America
+342,Dominican Republic,DOM,2001,,94.3,96.6,North America
+343,Dominican Republic,DOM,2002,87.0,93.8,96.5,North America
+344,Dominican Republic,DOM,2003,,94.7,96.9,North America
+345,Dominican Republic,DOM,2004,,95.2,96.7,North America
+346,Dominican Republic,DOM,2005,,96.2,97.3,North America
+347,Dominican Republic,DOM,2006,,95.3,97.9,North America
+348,Dominican Republic,DOM,2007,88.0,97.2,97.8,North America
+349,Dominican Republic,DOM,2008,,95.6,97.4,North America
+350,Dominican Republic,DOM,2009,,96.2,98.4,North America
+351,Dominican Republic,DOM,2010,90.0,96.2,97.9,North America
+352,Dominican Republic,DOM,2011,90.0,96.5,98.6,North America
+353,Dominican Republic,DOM,2012,90.0,96.7,98.0,North America
+354,Dominican Republic,DOM,2013,91.0,97.6,98.3,North America
+355,Dominican Republic,DOM,2014,92.0,98.0,98.2,North America
+356,Dominican Republic,DOM,2015,92.0,98.1,98.1,North America
+357,Dominican Republic,DOM,2016,94.0,98.1,98.8,North America
+358,Dominican Republic,DOM,2017,,97.8,98.4,North America
+359,Dominican Republic,DOM,2018,,98.0,99.1,North America
+360,Dominican Republic,DOM,2019,,98.3,99.1,North America
+361,Dominican Republic,DOM,2020,,98.6,99.1,North America
+362,Dominican Republic,DOM,2021,,98.7,99.0,North America
+363,Dominican Republic,DOM,2022,,98.1,98.9,North America
+364,Dominican Republic,DOM,2023,,98.3,98.8,North America
+365,East Asia and Pacific (WB),,1976,65.691,92.06965,75.64997,
+366,East Asia and Pacific (WB),,1977,65.87666,92.13786,75.98357,
+367,East Asia and Pacific (WB),,1978,66.96806,92.69134,77.81567,
+368,East Asia and Pacific (WB),,1979,68.20414,93.21935,79.69596,
+369,East Asia and Pacific (WB),,1980,69.30146,93.65328,81.52722,
+370,East Asia and Pacific (WB),,1981,70.34557,94.01275,83.11595,
+371,East Asia and Pacific (WB),,1982,71.3144,94.27296,84.40361,
+372,East Asia and Pacific (WB),,1983,72.2447,94.54431,85.61921,
+373,East Asia and Pacific (WB),,1984,73.23163,94.79929,86.65315,
+374,East Asia and Pacific (WB),,1985,74.16798,95.01331,87.46774,
+375,East Asia and Pacific (WB),,1986,75.00072,95.17848,88.14246,
+376,East Asia and Pacific (WB),,1987,76.17425,95.9976,89.43954,
+377,East Asia and Pacific (WB),,1988,79.95977,96.41761,91.42354,
+378,East Asia and Pacific (WB),,1989,80.58923,96.40825,91.76531,
+379,East Asia and Pacific (WB),,1990,81.17076,96.40288,92.07513,
+380,East Asia and Pacific (WB),,1991,81.71117,96.42215,92.39921,
+381,East Asia and Pacific (WB),,1992,82.22357,96.44241,92.70293,
+382,East Asia and Pacific (WB),,1993,82.68984,96.4574,92.95647,
+383,East Asia and Pacific (WB),,1994,83.24469,96.56721,93.35312,
+384,East Asia and Pacific (WB),,1995,83.8043,96.69341,93.7574,
+385,East Asia and Pacific (WB),,1996,84.29005,96.79782,94.08663,
+386,East Asia and Pacific (WB),,1997,89.27749,98.02458,96.96976,
+387,East Asia and Pacific (WB),,1998,89.64291,98.0536,97.10172,
+388,East Asia and Pacific (WB),,1999,89.96028,98.07207,97.24602,
+389,East Asia and Pacific (WB),,2000,90.32185,98.10066,97.24828,
+390,East Asia and Pacific (WB),,2001,90.63564,98.10212,97.37758,
+391,East Asia and Pacific (WB),,2002,90.98982,98.14776,97.50698,
+392,East Asia and Pacific (WB),,2003,91.36144,98.21947,97.72554,
+393,East Asia and Pacific (WB),,2004,91.69448,98.30039,97.84924,
+394,East Asia and Pacific (WB),,2005,92.02961,98.35316,97.97492,
+395,East Asia and Pacific (WB),,2006,92.37919,98.18339,97.8041,
+396,East Asia and Pacific (WB),,2007,93.5125,98.50984,98.20255,
+397,East Asia and Pacific (WB),,2008,93.81618,98.81036,98.61238,
+398,East Asia and Pacific (WB),,2009,94.08518,98.74872,98.60713,
+399,East Asia and Pacific (WB),,2010,94.20017,98.69274,98.5755,
+400,East Asia and Pacific (WB),,2011,93.8646,98.28942,98.15948,
+401,East Asia and Pacific (WB),,2012,94.09502,98.32583,98.21486,
+402,East Asia and Pacific (WB),,2013,94.20693,98.33456,98.28557,
+403,East Asia and Pacific (WB),,2014,94.71124,98.53776,98.5517,
+404,East Asia and Pacific (WB),,2015,94.92792,98.60747,98.5754,
+405,East Asia and Pacific (WB),,2016,95.13196,98.6197,98.60907,
+406,East Asia and Pacific (WB),,2017,95.32305,98.61173,98.6212,
+407,East Asia and Pacific (WB),,2018,95.36943,98.50946,98.59121,
+408,East Asia and Pacific (WB),,2019,95.80688,98.83422,98.96828,
+409,East Asia and Pacific (WB),,2020,96.0287,98.93899,99.04304,
+410,East Asia and Pacific (WB),,2021,96.16493,98.96167,99.0817,
+411,East Asia and Pacific (WB),,2022,96.30093,98.98314,99.13032,
+412,East Asia and Pacific (WB),,2023,96.43049,99.0027,99.16245,
+413,East Timor,TLS,2001,38.0,,,
+414,East Timor,TLS,2007,51.0,,,
+415,East Timor,TLS,2009,,87.25,83.71,Asia
+416,East Timor,TLS,2010,58.0,80.0,79.0,Asia
+417,East Timor,TLS,2016,65.77913,89.55101,88.72531,Asia
+418,Eastern and South-Eastern Asia (SDG),,1976,65.50171,92.1425,75.54955,
+419,Eastern and South-Eastern Asia (SDG),,1977,65.68772,92.21163,75.88257,
+420,Eastern and South-Eastern Asia (SDG),,1978,66.79352,92.77227,77.73867,
+421,Eastern and South-Eastern Asia (SDG),,1979,68.04645,93.30574,79.64592,
+422,Eastern and South-Eastern Asia (SDG),,1980,69.1582,93.74401,81.50134,
+423,Eastern and South-Eastern Asia (SDG),,1981,70.21553,94.10611,83.11022,
+424,Eastern and South-Eastern Asia (SDG),,1982,71.19647,94.36729,84.41362,
+425,Eastern and South-Eastern Asia (SDG),,1983,72.1383,94.64047,85.64386,
+426,Eastern and South-Eastern Asia (SDG),,1984,73.13766,94.89497,86.68919,
+427,Eastern and South-Eastern Asia (SDG),,1985,74.08572,95.10735,87.51172,
+428,Eastern and South-Eastern Asia (SDG),,1986,74.92859,95.27004,88.19202,
+429,Eastern and South-Eastern Asia (SDG),,1987,76.1177,96.09497,89.50169,
+430,Eastern and South-Eastern Asia (SDG),,1988,79.95864,96.51806,91.50705,
+431,Eastern and South-Eastern Asia (SDG),,1989,80.59546,96.508,91.852,
+432,Eastern and South-Eastern Asia (SDG),,1990,81.18364,96.50264,92.16502,
+433,Eastern and South-Eastern Asia (SDG),,1991,81.73081,96.52341,92.49314,
+434,Eastern and South-Eastern Asia (SDG),,1992,82.24957,96.54519,92.80164,
+435,Eastern and South-Eastern Asia (SDG),,1993,82.72173,96.56196,93.06,
+436,Eastern and South-Eastern Asia (SDG),,1994,83.28386,96.6759,93.46461,
+437,Eastern and South-Eastern Asia (SDG),,1995,83.85079,96.80654,93.87752,
+438,Eastern and South-Eastern Asia (SDG),,1996,84.34014,96.91575,94.21008,
+439,Eastern and South-Eastern Asia (SDG),,1997,89.39987,98.16245,97.13049,
+440,Eastern and South-Eastern Asia (SDG),,1998,89.76716,98.19519,97.26268,
+441,Eastern and South-Eastern Asia (SDG),,1999,90.08641,98.22033,97.41061,
+442,Eastern and South-Eastern Asia (SDG),,2000,90.45192,98.25711,97.41581,
+443,Eastern and South-Eastern Asia (SDG),,2001,90.76801,98.26271,97.5457,
+444,Eastern and South-Eastern Asia (SDG),,2002,91.12475,98.31304,97.67487,
+445,Eastern and South-Eastern Asia (SDG),,2003,91.49954,98.38914,97.89353,
+446,Eastern and South-Eastern Asia (SDG),,2004,91.83497,98.47451,98.01609,
+447,Eastern and South-Eastern Asia (SDG),,2005,92.17309,98.53169,98.14126,
+448,Eastern and South-Eastern Asia (SDG),,2006,92.52596,98.36356,97.96613,
+449,Eastern and South-Eastern Asia (SDG),,2007,93.67552,98.70143,98.37064,
+450,Eastern and South-Eastern Asia (SDG),,2008,93.98298,99.01506,98.78818,
+451,Eastern and South-Eastern Asia (SDG),,2009,94.25554,98.95905,98.78162,
+452,Eastern and South-Eastern Asia (SDG),,2010,94.37094,98.90729,98.74636,
+453,Eastern and South-Eastern Asia (SDG),,2011,94.03088,98.50358,98.32828,
+454,Eastern and South-Eastern Asia (SDG),,2012,94.26621,98.54806,98.39026,
+455,Eastern and South-Eastern Asia (SDG),,2013,94.38122,98.566,98.46905,
+456,Eastern and South-Eastern Asia (SDG),,2014,94.89836,98.78386,98.74792,
+457,Eastern and South-Eastern Asia (SDG),,2015,95.12345,98.86771,98.78167,
+458,Eastern and South-Eastern Asia (SDG),,2016,95.33295,98.89226,98.82578,
+459,Eastern and South-Eastern Asia (SDG),,2017,95.52963,98.89327,98.84568,
+460,Eastern and South-Eastern Asia (SDG),,2018,95.57909,98.79708,98.82176,
+461,Eastern and South-Eastern Asia (SDG),,2019,96.02655,99.1361,99.213,
+462,Eastern and South-Eastern Asia (SDG),,2020,96.25462,99.24863,99.2941,
+463,Eastern and South-Eastern Asia (SDG),,2021,96.39394,99.2751,99.33651,
+464,Eastern and South-Eastern Asia (SDG),,2022,96.53545,99.30309,99.39149,
+465,Eastern and South-Eastern Asia (SDG),,2023,96.6705,99.32656,99.42854,
+466,Ecuador,ECU,1982,84.0,95.0,92.0,South America
+467,Ecuador,ECU,1990,88.0,97.0,96.0,South America
+468,Ecuador,ECU,2001,91.0,97.6,97.3,South America
+469,Ecuador,ECU,2003,,96.5,97.4,South America
+470,Ecuador,ECU,2005,,98.3,98.2,South America
+471,Ecuador,ECU,2006,,98.3,98.1,South America
+472,Ecuador,ECU,2007,92.0,98.2,98.6,South America
+473,Ecuador,ECU,2008,92.0,98.4,98.5,South America
+474,Ecuador,ECU,2009,92.0,98.7,98.9,South America
+475,Ecuador,ECU,2010,92.0,98.5,98.9,South America
+476,Ecuador,ECU,2011,92.0,98.6,98.8,South America
+477,Ecuador,ECU,2012,92.0,98.8,98.9,South America
+478,Ecuador,ECU,2013,93.0,98.6,98.6,South America
+479,Ecuador,ECU,2014,94.0,99.0,99.2,South America
+480,Ecuador,ECU,2015,94.0,99.3,98.9,South America
+481,Ecuador,ECU,2016,94.0,99.0,99.1,South America
+482,Ecuador,ECU,2017,93.0,99.1,99.4,South America
+483,Ecuador,ECU,2018,,98.9,99.1,South America
+484,Ecuador,ECU,2019,,98.2,98.8,South America
+485,Ecuador,ECU,2020,94.0,98.5,99.1,South America
+486,Ecuador,ECU,2021,94.0,99.0,99.2,South America
+487,Ecuador,ECU,2022,94.0,99.0,99.2,South America
+488,Ecuador,ECU,2023,,99.0,99.3,South America
+489,Egypt,EGY,1976,38.0,63.0,38.0,Africa
+490,Egypt,EGY,1986,44.0,71.0,54.0,Africa
+491,Egypt,EGY,1996,56.0,79.0,67.0,Africa
+492,Egypt,EGY,2000,,,77.19,Africa
+493,Egypt,EGY,2005,67.0,90.0,79.0,Africa
+494,Egypt,EGY,2006,66.0,88.0,82.0,Africa
+495,Egypt,EGY,2010,72.0,91.0,84.0,Africa
+496,Egypt,EGY,2012,74.0,92.0,86.0,Africa
+497,Egypt,EGY,2013,72.0,94.0,90.0,Africa
+498,Egypt,EGY,2014,,,94.08,Africa
+499,Egypt,EGY,2017,71.0,89.0,87.0,Africa
+500,Egypt,EGY,2022,,95.51,94.82,Africa
+501,El Salvador,SLV,1992,74.0,85.0,85.0,North America
+502,El Salvador,SLV,2000,,92.2,92.6,North America
+503,El Salvador,SLV,2001,,93.5,93.6,North America
+504,El Salvador,SLV,2002,,92.9,93.6,North America
+505,El Salvador,SLV,2003,,93.3,93.4,North America
+506,El Salvador,SLV,2004,,93.7,94.0,North America
+507,El Salvador,SLV,2005,,94.9,94.9,North America
+508,El Salvador,SLV,2006,84.0,94.4,95.5,North America
+509,El Salvador,SLV,2007,82.0,95.2,95.8,North America
+510,El Salvador,SLV,2008,84.0,95.0,96.0,North America
+511,El Salvador,SLV,2009,84.0,95.1,96.1,North America
+512,El Salvador,SLV,2010,84.0,95.7,96.4,North America
+513,El Salvador,SLV,2011,85.0,96.0,97.0,North America
+514,El Salvador,SLV,2012,,96.7,97.6,North America
+515,El Salvador,SLV,2013,87.0,96.9,97.5,North America
+516,El Salvador,SLV,2014,,97.3,98.2,North America
+517,El Salvador,SLV,2015,88.0,97.5,98.4,North America
+518,El Salvador,SLV,2016,88.0,97.7,98.3,North America
+519,El Salvador,SLV,2017,88.0,97.8,98.1,North America
+520,El Salvador,SLV,2018,89.0,97.7,98.2,North America
+521,El Salvador,SLV,2019,89.0,98.0,98.7,North America
+522,El Salvador,SLV,2020,90.0,98.3,98.7,North America
+523,El Salvador,SLV,2021,,97.8,98.3,North America
+524,El Salvador,SLV,2022,,98.0,98.6,North America
+525,El Salvador,SLV,2023,90.0,97.6,98.5,North America
+526,Equatorial Guinea,GNQ,2000,88.0,98.0,97.0,Africa
+527,Eritrea,ERI,2002,53.0,86.0,69.0,Africa
+528,Eritrea,ERI,2008,65.0,91.0,83.0,Africa
+529,Estonia,EST,1989,100.0,100.0,100.0,Europe
+530,Estonia,EST,2000,100.0,100.0,100.0,Europe
+531,Estonia,EST,2011,100.0,100.0,100.0,Europe
+532,Eswatini,SWZ,1976,55.0,76.0,75.0,Africa
+533,Eswatini,SWZ,1986,67.0,83.0,84.0,Africa
+534,Eswatini,SWZ,2000,82.0,91.0,93.0,Africa
+535,Eswatini,SWZ,2006,,88.81,93.58,Africa
+536,Eswatini,SWZ,2010,,,96.32,Africa
+537,Eswatini,SWZ,2014,,,100.0,Africa
+538,Eswatini,SWZ,2022,90.74702,98.55315,98.77755,Africa
+539,Ethiopia,ETH,1994,27.0,39.0,28.0,Africa
+540,Ethiopia,ETH,2000,,49.47,27.02,Africa
+541,Ethiopia,ETH,2004,36.0,62.0,39.0,Africa
+542,Ethiopia,ETH,2005,,60.07,34.06,Africa
+543,Ethiopia,ETH,2007,39.0,63.0,47.0,Africa
+544,Ethiopia,ETH,2011,,65.08,43.65,Africa
+545,Ethiopia,ETH,2016,47.49159,79.13417,64.5676,Africa
+546,Ethiopia,ETH,2019,,,70.29423,Africa
+547,Europe and Central Asia (WB),,1990,,99.29788,98.59226,
+548,Europe and Central Asia (WB),,1991,,99.30632,98.63546,
+549,Europe and Central Asia (WB),,1992,,99.14109,98.60188,
+550,Europe and Central Asia (WB),,1993,,99.14551,98.64055,
+551,Europe and Central Asia (WB),,1994,95.93806,99.15435,98.69671,
+552,Europe and Central Asia (WB),,1995,96.06758,99.15745,98.73289,
+553,Europe and Central Asia (WB),,1996,96.22135,99.16376,98.77194,
+554,Europe and Central Asia (WB),,1997,96.3414,99.16921,98.8102,
+555,Europe and Central Asia (WB),,1998,96.48624,99.14203,98.83175,
+556,Europe and Central Asia (WB),,1999,96.59245,99.12084,98.84616,
+557,Europe and Central Asia (WB),,2000,96.65252,99.27405,98.82764,
+558,Europe and Central Asia (WB),,2001,96.7528,99.28998,98.86257,
+559,Europe and Central Asia (WB),,2002,96.91116,99.34685,98.91292,
+560,Europe and Central Asia (WB),,2003,97.00517,99.34642,98.93462,
+561,Europe and Central Asia (WB),,2004,97.09123,99.32986,98.9432,
+562,Europe and Central Asia (WB),,2005,97.21017,99.37011,99.01076,
+563,Europe and Central Asia (WB),,2006,97.27016,99.38467,99.02952,
+564,Europe and Central Asia (WB),,2007,97.35178,99.40214,99.0562,
+565,Europe and Central Asia (WB),,2008,97.47324,99.41971,99.08809,
+566,Europe and Central Asia (WB),,2009,97.73077,99.5298,99.31396,
+567,Europe and Central Asia (WB),,2010,97.89465,99.559,99.38538,
+568,Europe and Central Asia (WB),,2011,98.03516,99.59864,99.46198,
+569,Europe and Central Asia (WB),,2012,98.13266,99.62316,99.51233,
+570,Europe and Central Asia (WB),,2013,98.19623,99.64314,99.5471,
+571,Europe and Central Asia (WB),,2014,98.23871,99.66125,99.57678,
+572,Europe and Central Asia (WB),,2015,98.28185,99.66372,99.6026,
+573,Europe and Central Asia (WB),,2016,98.33891,99.67653,99.6327,
+574,Europe and Central Asia (WB),,2017,98.41798,99.68803,99.67333,
+575,Europe and Central Asia (WB),,2018,98.50179,99.73709,99.71808,
+576,Europe and Central Asia (WB),,2019,98.56401,99.74954,99.74016,
+577,Europe and Central Asia (WB),,2020,98.60383,99.73968,99.75049,
+578,Europe and Central Asia (WB),,2021,98.64628,99.75074,99.75854,
+579,Europe and Central Asia (WB),,2022,98.66442,99.75511,99.76337,
+580,Europe and Central Asia (WB),,2023,98.68871,99.75977,99.76482,
+581,Europe and Northern America (SDG),,2002,,99.47237,99.50273,
+582,Europe and Northern America (SDG),,2003,97.8978,99.48047,99.5103,
+583,Europe and Northern America (SDG),,2004,97.95613,99.4866,99.51708,
+584,Europe and Northern America (SDG),,2005,98.00925,99.49365,99.51734,
+585,Europe and Northern America (SDG),,2006,98.077,99.50642,99.51924,
+586,Europe and Northern America (SDG),,2007,,99.5034,99.52847,
+587,Europe and Northern America (SDG),,2018,98.61607,99.66694,99.63965,
+588,Europe and Northern America (SDG),,2019,98.64308,99.67549,99.64386,
+589,Europe and Northern America (SDG),,2020,98.66912,99.66568,99.64667,
+590,Europe and Northern America (SDG),,2021,98.69566,99.67509,99.64984,
+591,Europe and Northern America (SDG),,2022,98.70273,99.67989,99.65033,
+592,Fiji,FJI,2021,,96.11,99.41343,Oceania
+593,French Guiana,GUF,1982,83.0,,,
+594,Gabon,GAB,1993,72.0,94.0,92.0,Africa
+595,Gabon,GAB,2012,,94.88,93.77,Africa
+596,Gabon,GAB,2021,88.85834,94.95532,93.04062,Africa
+597,Gambia,GMB,2000,37.0,64.0,41.0,Africa
+598,Gambia,GMB,2006,,,48.15,Africa
+599,Gambia,GMB,2013,,78.39,65.85,Africa
+600,Gambia,GMB,2015,51.0,71.0,64.0,Africa
+601,Gambia,GMB,2018,53.1602,74.97817,67.01137,Africa
+602,Gambia,GMB,2021,51.6374,72.01779,62.55218,Africa
+603,Georgia,GEO,2002,100.0,100.0,100.0,Asia
+604,Georgia,GEO,2005,,,99.9,Asia
+605,Georgia,GEO,2014,100.0,100.0,100.0,Asia
+606,Georgia,GEO,2017,99.0,100.0,99.0,Asia
+607,Georgia,GEO,2018,99.65366,99.9046,99.94143,Asia
+608,Georgia,GEO,2022,100.0,100.0,100.0,Asia
+609,Georgia,GEO,2023,99.55547,98.88482,99.8423,Asia
+610,Ghana,GHA,2000,58.0,76.0,65.0,Africa
+611,Ghana,GHA,2003,,84.77,73.05,Africa
+612,Ghana,GHA,2006,,,76.92,Africa
+613,Ghana,GHA,2010,71.0,88.0,83.0,Africa
+614,Ghana,GHA,2011,,,84.6,Africa
+615,Ghana,GHA,2014,,91.17,83.65,Africa
+616,Ghana,GHA,2017,64.49239,89.77029,85.2477,Africa
+617,Ghana,GHA,2021,76.48568,91.73803,91.30476,Africa
+618,Greece,GRC,1981,91.0,99.0,99.0,Europe
+619,Greece,GRC,1991,93.0,99.0,99.0,Europe
+620,Greece,GRC,2001,96.0,99.0,99.0,Europe
+621,Greece,GRC,2009,94.0,100.0,99.0,Europe
+622,Grenada,GRD,1970,98.0,99.0,99.0,North America
+623,Guadeloupe,GLP,1982,90.0,98.0,99.0,North America
+624,Guam,GUM,1980,96.0,95.0,96.0,Oceania
+625,Guam,GUM,1990,99.0,100.0,100.0,Oceania
+626,Guatemala,GTM,1994,64.0,82.0,71.0,North America
+627,Guatemala,GTM,2000,,87.7,76.3,North America
+628,Guatemala,GTM,2002,69.0,86.0,78.0,North America
+629,Guatemala,GTM,2006,,91.4,84.8,North America
+630,Guatemala,GTM,2012,78.0,95.0,92.0,North America
+631,Guatemala,GTM,2013,77.0,94.0,90.0,North America
+632,Guatemala,GTM,2014,81.0,94.9,91.9,North America
+633,Guatemala,GTM,2015,80.19509,96.67467,93.61574,North America
+634,Guatemala,GTM,2018,81.0,95.0,94.0,North America
+635,Guatemala,GTM,2022,83.03117,95.85535,94.21057,North America
+636,Guatemala,GTM,2023,,97.3,96.7,North America
+637,Guinea,GIN,1996,21.0,44.0,13.0,Africa
+638,Guinea,GIN,2003,30.0,59.0,34.0,Africa
+639,Guinea,GIN,2005,,64.19,24.12,Africa
+640,Guinea,GIN,2010,25.0,38.0,22.0,Africa
+641,Guinea,GIN,2012,,71.69,37.24,Africa
+642,Guinea,GIN,2014,32.0,57.0,37.0,Africa
+643,Guinea,GIN,2016,,,46.62764,Africa
+644,Guinea,GIN,2018,40.0,70.0,43.0,Africa
+645,Guinea-Bissau,GNB,1979,20.0,60.0,18.0,Africa
+646,Guinea-Bissau,GNB,2000,41.0,75.0,46.0,Africa
+647,Guinea-Bissau,GNB,2006,,,35.78,Africa
+648,Guinea-Bissau,GNB,2014,,,100.0,Africa
+649,Guinea-Bissau,GNB,2019,54.88232,81.83359,68.58931,Africa
+650,Guinea-Bissau,GNB,2022,63.93413,86.19711,78.26567,Africa
+651,Guyana,GUY,2006,,,100.0,South America
+652,Guyana,GUY,2009,,95.71,95.91,South America
+653,Guyana,GUY,2014,,,100.0,South America
+654,Guyana,GUY,2020,85.63835,99.26508,99.02955,South America
+655,Haiti,HTI,1982,35.0,51.0,51.0,North America
+656,Haiti,HTI,2003,59.0,83.0,81.0,North America
+657,Haiti,HTI,2012,,86.55,84.3,North America
+658,Haiti,HTI,2017,68.00986,88.38471,89.32992,North America
+659,High-income countries,,2004,,98.8447,98.70911,
+660,High-income countries,,2005,,98.89156,98.75847,
+661,High-income countries,,2020,,99.22166,99.28018,
+662,High-income countries,,2021,,99.27138,99.30231,
+663,Honduras,HND,2001,80.0,89.7,92.7,North America
+664,Honduras,HND,2004,,90.2,91.5,North America
+665,Honduras,HND,2005,,89.9,93.6,North America
+666,Honduras,HND,2007,84.0,93.0,95.0,North America
+667,Honduras,HND,2009,,92.6,95.2,North America
+668,Honduras,HND,2010,85.0,94.4,95.9,North America
+669,Honduras,HND,2011,85.0,94.9,96.9,North America
+670,Honduras,HND,2012,85.0,94.0,96.0,North America
+671,Honduras,HND,2013,85.0,93.9,96.3,North America
+672,Honduras,HND,2014,87.0,95.0,96.3,North America
+673,Honduras,HND,2015,88.0,95.0,97.0,North America
+674,Honduras,HND,2016,89.0,94.9,97.2,North America
+675,Honduras,HND,2018,87.0,94.9,98.2,North America
+676,Honduras,HND,2019,89.0,94.8,97.3,North America
+677,Honduras,HND,2023,,94.6,96.5,North America
+678,Hungary,HUN,1980,99.0,99.0,99.0,Europe
+679,India,IND,1981,41.0,66.0,40.0,Asia
+680,India,IND,1991,48.0,74.0,49.0,Asia
+681,India,IND,2001,61.0,84.0,68.0,Asia
+682,India,IND,2006,63.0,88.0,74.0,Asia
+683,India,IND,2011,69.0,90.0,82.0,Asia
+684,India,IND,2016,,93.55494,86.73757,Asia
+685,India,IND,2020,,99.07,90.95,Asia
+686,India,IND,2022,76.0,97.0,96.0,Asia
+687,India,IND,2023,82.0,98.0,96.0,Asia
+688,Indonesia,IDN,1980,67.0,90.0,82.0,Asia
+689,Indonesia,IDN,1990,82.0,97.0,95.0,Asia
+690,Indonesia,IDN,2004,90.0,99.0,99.0,Asia
+691,Indonesia,IDN,2006,92.0,97.0,96.0,Asia
+692,Indonesia,IDN,2008,92.0,100.0,99.0,Asia
+693,Indonesia,IDN,2009,93.0,100.0,99.0,Asia
+694,Indonesia,IDN,2011,93.0,99.0,99.0,Asia
+695,Indonesia,IDN,2014,95.0,100.0,100.0,Asia
+696,Indonesia,IDN,2015,95.0,100.0,100.0,Asia
+697,Indonesia,IDN,2016,95.0,100.0,100.0,Asia
+698,Indonesia,IDN,2017,,99.93,99.29,Asia
+699,Indonesia,IDN,2018,96.0,100.0,100.0,Asia
+700,Indonesia,IDN,2020,96.0,100.0,100.0,Asia
+701,Indonesia,IDN,2022,,92.91,94.72,Asia
+702,Iran,IRN,1976,37.0,71.0,42.0,Asia
+703,Iran,IRN,1986,52.0,85.0,66.0,Asia
+704,Iran,IRN,1991,66.0,92.0,81.0,Asia
+705,Iran,IRN,1996,73.0,96.0,91.0,Asia
+706,Iran,IRN,2002,77.0,,,
+707,Iran,IRN,2005,82.0,98.0,97.0,Asia
+708,Iran,IRN,2006,82.0,97.0,96.0,Asia
+709,Iran,IRN,2008,83.0,98.0,97.0,Asia
+710,Iran,IRN,2012,84.0,98.0,98.0,Asia
+711,Iran,IRN,2013,85.0,98.0,97.0,Asia
+712,Iran,IRN,2014,85.0,98.0,98.0,Asia
+713,Iran,IRN,2016,86.0,98.0,98.0,Asia
+714,Iraq,IRQ,2000,74.0,89.0,80.0,Asia
+715,Iraq,IRQ,2006,,,72.85,Asia
+716,Iraq,IRQ,2011,,,71.93,Asia
+717,Iraq,IRQ,2012,77.0,87.0,79.0,Asia
+718,Iraq,IRQ,2014,82.0,92.0,86.0,Asia
+719,Iraq,IRQ,2016,83.0,93.0,88.0,Asia
+720,Iraq,IRQ,2017,86.0,95.0,92.0,Asia
+721,Iraq,IRQ,2018,,,87.38115,Asia
+722,Israel,ISR,1983,92.0,99.0,98.0,Asia
+723,Italy,ITA,1981,96.0,100.0,100.0,Europe
+724,Italy,ITA,2001,98.0,100.0,100.0,Europe
+725,Italy,ITA,2011,99.0,100.0,100.0,Europe
+726,Italy,ITA,2019,99.0,100.0,100.0,Europe
+727,Jamaica,JAM,1999,80.0,87.0,96.0,North America
+728,Jamaica,JAM,2005,,,99.77,North America
+729,Jamaica,JAM,2011,,,99.72,North America
+730,Jamaica,JAM,2022,,88.23,99.29619,North America
+731,Jordan,JOR,1979,67.0,96.0,85.0,Asia
+732,Jordan,JOR,2003,90.0,99.0,99.0,Asia
+733,Jordan,JOR,2005,91.0,99.0,99.0,Asia
+734,Jordan,JOR,2007,92.0,99.0,99.0,Asia
+735,Jordan,JOR,2010,93.0,99.0,99.0,Asia
+736,Jordan,JOR,2011,96.0,99.0,99.0,Asia
+737,Jordan,JOR,2012,98.0,99.0,99.0,Asia
+738,Jordan,JOR,2018,95.43145,97.42178,95.90284,Asia
+739,Jordan,JOR,2023,95.0,99.0,99.0,Asia
+740,Kazakhstan,KAZ,1989,98.0,100.0,99.0,Asia
+741,Kazakhstan,KAZ,1999,100.0,100.0,100.0,Asia
+742,Kazakhstan,KAZ,2006,,,100.0,Asia
+743,Kazakhstan,KAZ,2009,100.0,100.0,100.0,Asia
+744,Kazakhstan,KAZ,2015,,,100.0,Asia
+745,Kenya,KEN,2000,82.0,93.0,92.0,Africa
+746,Kenya,KEN,2014,,94.02,92.31,Africa
+747,Kenya,KEN,2022,,96.14752,95.28072,Africa
+748,Kiribati,KIR,2018,97.95971,95.83073,98.50159,Oceania
+749,Kuwait,KWT,1975,60.0,78.0,66.0,Asia
+750,Kuwait,KWT,1980,68.0,81.0,76.0,Asia
+751,Kuwait,KWT,1985,74.0,91.0,84.0,Asia
+752,Kuwait,KWT,1995,78.0,94.0,90.0,Asia
+753,Kuwait,KWT,2005,93.0,100.0,100.0,Asia
+754,Kuwait,KWT,2006,93.0,99.0,98.0,Asia
+755,Kuwait,KWT,2007,94.0,98.0,99.0,Asia
+756,Kuwait,KWT,2008,94.0,99.0,99.0,Asia
+757,Kuwait,KWT,2010,94.0,99.0,99.0,Asia
+758,Kuwait,KWT,2012,96.0,99.0,99.0,Asia
+759,Kuwait,KWT,2013,96.0,99.0,99.0,Asia
+760,Kuwait,KWT,2015,96.0,99.0,99.0,Asia
+761,Kuwait,KWT,2017,96.0,99.0,99.0,Asia
+762,Kuwait,KWT,2018,96.0,99.0,100.0,Asia
+763,Kuwait,KWT,2020,96.0,99.0,100.0,Asia
+764,Kyrgyzstan,KGZ,1999,99.0,100.0,100.0,Asia
+765,Kyrgyzstan,KGZ,2009,99.0,100.0,100.0,Asia
+766,Kyrgyzstan,KGZ,2014,,,99.79,Asia
+767,Laos,LAO,1995,60.0,79.0,64.0,Asia
+768,Laos,LAO,2000,70.0,88.0,74.0,Asia
+769,Laos,LAO,2001,69.0,83.0,75.0,Asia
+770,Laos,LAO,2005,73.0,89.0,79.0,Asia
+771,Laos,LAO,2006,,,67.08,Asia
+772,Laos,LAO,2015,85.0,94.0,91.0,Asia
+773,Laos,LAO,2017,,91.20028,84.4665,Asia
+774,Latin America and Caribbean (WB),,1974,78.71795,88.63645,86.80742,
+775,Latin America and Caribbean (WB),,1975,78.73743,88.6294,86.82453,
+776,Latin America and Caribbean (WB),,1976,79.0867,88.74199,87.22708,
+777,Latin America and Caribbean (WB),,1977,79.48948,88.82863,87.67547,
+778,Latin America and Caribbean (WB),,1978,79.92699,88.91357,88.15921,
+779,Latin America and Caribbean (WB),,1979,80.32272,88.90134,88.52984,
+780,Latin America and Caribbean (WB),,1980,80.67739,88.79192,88.78442,
+781,Latin America and Caribbean (WB),,1981,81.07406,88.80603,89.15248,
+782,Latin America and Caribbean (WB),,1982,81.46111,88.80645,89.50078,
+783,Latin America and Caribbean (WB),,1983,81.84256,88.81133,89.84306,
+784,Latin America and Caribbean (WB),,1984,82.21321,88.83096,90.18232,
+785,Latin America and Caribbean (WB),,1985,82.57384,88.86339,90.52011,
+786,Latin America and Caribbean (WB),,1986,82.92527,88.89468,90.81932,
+787,Latin America and Caribbean (WB),,1987,83.21761,89.05892,90.99998,
+788,Latin America and Caribbean (WB),,1988,83.70771,89.28155,91.37462,
+789,Latin America and Caribbean (WB),,1989,84.1495,89.48341,91.8275,
+790,Latin America and Caribbean (WB),,1990,84.46787,89.62017,92.22177,
+791,Latin America and Caribbean (WB),,1991,85.06639,90.36628,92.7117,
+792,Latin America and Caribbean (WB),,1992,85.66554,91.10965,93.19154,
+793,Latin America and Caribbean (WB),,1993,86.25491,91.85488,93.63161,
+794,Latin America and Caribbean (WB),,1994,86.83326,92.59584,94.06351,
+795,Latin America and Caribbean (WB),,1995,87.40622,93.34082,94.48672,
+796,Latin America and Caribbean (WB),,1996,87.77912,93.67079,94.78791,
+797,Latin America and Caribbean (WB),,1997,88.04446,93.85517,94.84745,
+798,Latin America and Caribbean (WB),,1998,88.39903,94.119,95.06855,
+799,Latin America and Caribbean (WB),,1999,88.71655,94.31359,95.3088,
+800,Latin America and Caribbean (WB),,2000,89.01666,94.49998,95.52891,
+801,Latin America and Caribbean (WB),,2001,89.17575,94.66916,95.67047,
+802,Latin America and Caribbean (WB),,2002,89.44306,95.12653,96.00816,
+803,Latin America and Caribbean (WB),,2003,90.0959,95.97106,96.6719,
+804,Latin America and Caribbean (WB),,2004,90.37227,96.02989,96.85742,
+805,Latin America and Caribbean (WB),,2005,90.33941,96.22208,97.04138,
+806,Latin America and Caribbean (WB),,2006,90.54231,96.45865,97.0112,
+807,Latin America and Caribbean (WB),,2007,91.39063,96.67873,97.20545,
+808,Latin America and Caribbean (WB),,2008,91.68934,96.89331,97.37636,
+809,Latin America and Caribbean (WB),,2009,91.86467,97.12293,97.56849,
+810,Latin America and Caribbean (WB),,2010,91.78517,96.99602,97.63176,
+811,Latin America and Caribbean (WB),,2011,92.49057,97.45808,98.0236,
+812,Latin America and Caribbean (WB),,2012,92.79948,97.6563,98.15077,
+813,Latin America and Caribbean (WB),,2013,92.78406,97.62371,98.11869,
+814,Latin America and Caribbean (WB),,2014,93.28205,97.99299,98.40585,
+815,Latin America and Caribbean (WB),,2015,93.42686,98.05344,98.47674,
+816,Latin America and Caribbean (WB),,2016,93.86832,98.18215,98.59893,
+817,Latin America and Caribbean (WB),,2017,93.89947,98.19944,98.55822,
+818,Latin America and Caribbean (WB),,2018,94.08591,98.28612,98.63194,
+819,Latin America and Caribbean (WB),,2019,94.25567,98.33218,98.67044,
+820,Latin America and Caribbean (WB),,2020,94.31331,98.32484,98.66679,
+821,Latin America and Caribbean (WB),,2021,94.49382,98.37138,98.72587,
+822,Latin America and Caribbean (WB),,2022,94.64692,98.43216,98.77126,
+823,Latin America and Caribbean (WB),,2023,94.79001,98.45885,98.80875,
+824,Latin America and the Caribbean (SDG),,1974,78.71851,88.63671,86.8078,
+825,Latin America and the Caribbean (SDG),,1975,78.73799,88.62967,86.82491,
+826,Latin America and the Caribbean (SDG),,1976,79.08725,88.74226,87.22744,
+827,Latin America and the Caribbean (SDG),,1977,79.49001,88.82889,87.67581,
+828,Latin America and the Caribbean (SDG),,1978,79.9275,88.91384,88.15953,
+829,Latin America and the Caribbean (SDG),,1979,80.32321,88.90161,88.53014,
+830,Latin America and the Caribbean (SDG),,1980,80.67787,88.7922,88.78471,
+831,Latin America and the Caribbean (SDG),,1981,81.07452,88.8063,89.15275,
+832,Latin America and the Caribbean (SDG),,1982,81.46156,88.80672,89.50103,
+833,Latin America and the Caribbean (SDG),,1983,81.84299,88.81159,89.84329,
+834,Latin America and the Caribbean (SDG),,1984,82.21363,88.83121,90.18253,
+835,Latin America and the Caribbean (SDG),,1985,82.57424,88.86364,90.52032,
+836,Latin America and the Caribbean (SDG),,1986,82.92566,88.89493,90.81951,
+837,Latin America and the Caribbean (SDG),,1987,83.21799,89.05918,91.00017,
+838,Latin America and the Caribbean (SDG),,1988,83.70807,89.2818,91.3748,
+839,Latin America and the Caribbean (SDG),,1989,84.14984,89.48365,91.82766,
+840,Latin America and the Caribbean (SDG),,1990,84.4682,89.6204,92.22191,
+841,Latin America and the Caribbean (SDG),,1991,85.0667,90.36647,92.71183,
+842,Latin America and the Caribbean (SDG),,1992,85.66582,91.10981,93.19165,
+843,Latin America and the Caribbean (SDG),,1993,86.25516,91.85501,93.63171,
+844,Latin America and the Caribbean (SDG),,1994,86.83348,92.59595,94.06359,
+845,Latin America and the Caribbean (SDG),,1995,87.40642,93.34091,94.48679,
+846,Latin America and the Caribbean (SDG),,1996,87.77931,93.67088,94.78797,
+847,Latin America and the Caribbean (SDG),,1997,88.04464,93.85525,94.84751,
+848,Latin America and the Caribbean (SDG),,1998,88.3992,94.11908,95.06861,
+849,Latin America and the Caribbean (SDG),,1999,88.71671,94.31367,95.30886,
+850,Latin America and the Caribbean (SDG),,2000,89.01682,94.50005,95.52896,
+851,Latin America and the Caribbean (SDG),,2001,89.17591,94.66923,95.67052,
+852,Latin America and the Caribbean (SDG),,2002,89.44321,95.1266,96.00821,
+853,Latin America and the Caribbean (SDG),,2003,90.09602,95.97111,96.67193,
+854,Latin America and the Caribbean (SDG),,2004,90.37239,96.02994,96.85745,
+855,Latin America and the Caribbean (SDG),,2005,90.33953,96.22213,97.04141,
+856,Latin America and the Caribbean (SDG),,2006,90.54242,96.45869,97.01123,
+857,Latin America and the Caribbean (SDG),,2007,91.39071,96.67877,97.20547,
+858,Latin America and the Caribbean (SDG),,2008,91.68941,96.89334,97.37639,
+859,Latin America and the Caribbean (SDG),,2009,91.86474,97.12295,97.56851,
+860,Latin America and the Caribbean (SDG),,2010,91.78525,96.99604,97.63178,
+861,Latin America and the Caribbean (SDG),,2011,92.49063,97.4581,98.02361,
+862,Latin America and the Caribbean (SDG),,2012,92.79953,97.65631,98.15077,
+863,Latin America and the Caribbean (SDG),,2013,92.78411,97.62372,98.11869,
+864,Latin America and the Caribbean (SDG),,2014,93.28208,97.99299,98.40585,
+865,Latin America and the Caribbean (SDG),,2015,93.42689,98.05344,98.47674,
+866,Latin America and the Caribbean (SDG),,2016,93.86834,98.18215,98.59892,
+867,Latin America and the Caribbean (SDG),,2017,93.89949,98.19944,98.55821,
+868,Latin America and the Caribbean (SDG),,2018,94.08592,98.28611,98.63194,
+869,Latin America and the Caribbean (SDG),,2019,94.25568,98.33217,98.67043,
+870,Latin America and the Caribbean (SDG),,2020,94.31331,98.32483,98.66678,
+871,Latin America and the Caribbean (SDG),,2021,94.49382,98.37138,98.72585,
+872,Latin America and the Caribbean (SDG),,2022,94.64692,98.43215,98.77125,
+873,Latin America and the Caribbean (SDG),,2023,94.79,98.45884,98.80874,
+874,Latvia,LVA,1989,99.0,100.0,100.0,Europe
+875,Latvia,LVA,2000,100.0,100.0,100.0,Europe
+876,Latvia,LVA,2011,100.0,100.0,100.0,Europe
+877,Lebanon,LBN,2007,90.0,98.0,99.0,Asia
+878,Lebanon,LBN,2009,91.0,99.0,99.0,Asia
+879,Lebanon,LBN,2018,93.0,98.0,96.0,Asia
+880,Lesotho,LSO,2000,86.0,85.0,97.0,Africa
+881,Lesotho,LSO,2006,66.0,66.0,85.0,Africa
+882,Lesotho,LSO,2009,,82.23,94.25,Africa
+883,Lesotho,LSO,2014,,87.37,96.52,Africa
+884,Lesotho,LSO,2016,97.0,97.0,100.0,Africa
+885,Lesotho,LSO,2018,86.24087,92.35318,98.26914,Africa
+886,Liberia,LBR,1984,32.0,63.0,34.0,Africa
+887,Liberia,LBR,2007,,77.33,51.49,Africa
+888,Liberia,LBR,2013,,83.75,63.2,Africa
+889,Libya,LBY,1984,60.0,98.0,80.0,Africa
+890,Lithuania,LTU,1989,98.0,100.0,100.0,Europe
+891,Lithuania,LTU,2001,100.0,100.0,100.0,Europe
+892,Lithuania,LTU,2011,100.0,100.0,100.0,Europe
+893,Low-income countries,,1988,46.47354,66.71126,48.29523,
+894,Low-income countries,,1989,46.89375,66.95475,48.77668,
+895,Low-income countries,,1990,47.39165,67.07243,49.3418,
+896,Low-income countries,,1991,47.6823,66.51073,49.06629,
+897,Low-income countries,,1992,47.82185,65.81742,48.62732,
+898,Low-income countries,,1993,48.03085,65.46683,48.67551,
+899,Low-income countries,,1994,48.31109,65.2399,48.86828,
+900,Low-income countries,,1995,48.676,65.38342,49.07685,
+901,Low-income countries,,1996,49.04267,65.14389,49.51929,
+902,Low-income countries,,1997,49.73331,65.1523,50.22734,
+903,Low-income countries,,1998,50.43019,65.44507,50.86919,
+904,Low-income countries,,1999,50.97881,65.61281,51.3748,
+905,Low-income countries,,2000,51.39866,65.38389,52.02636,
+906,Low-income countries,,2001,52.04716,65.59562,52.93063,
+907,Low-income countries,,2002,52.7164,69.68612,53.16253,
+908,Low-income countries,,2003,53.11349,69.71195,53.98688,
+909,Low-income countries,,2004,53.58198,70.33244,54.67853,
+910,Low-income countries,,2005,53.99721,70.52606,55.26611,
+911,Low-income countries,,2006,52.1799,69.59228,53.09764,
+912,Low-income countries,,2007,53.41816,70.68146,55.32036,
+913,Low-income countries,,2008,54.31401,71.80143,56.8147,
+914,Low-income countries,,2009,54.82347,72.47431,57.81614,
+915,Low-income countries,,2010,55.31973,72.70415,59.04808,
+916,Low-income countries,,2011,57.35872,74.51943,62.78945,
+917,Low-income countries,,2012,57.80881,75.36368,63.71834,
+918,Low-income countries,,2013,58.65501,76.16065,65.1674,
+919,Low-income countries,,2014,59.07083,76.44838,65.83823,
+920,Low-income countries,,2015,59.74246,76.84152,67.00946,
+921,Low-income countries,,2016,60.4267,77.04158,68.24464,
+922,Low-income countries,,2017,61.48362,77.66572,69.65888,
+923,Low-income countries,,2018,61.45404,77.19465,69.14331,
+924,Low-income countries,,2019,61.52847,77.0154,69.56879,
+925,Low-income countries,,2020,61.69004,77.10644,69.91852,
+926,Low-income countries,,2021,62.18141,77.44955,70.70328,
+927,Low-income countries,,2022,62.63246,77.73687,71.45326,
+928,Low-income countries,,2023,63.03853,77.95494,72.08086,
+929,Lower-middle-income countries,,1975,44.26188,67.62587,44.69813,
+930,Lower-middle-income countries,,1976,44.36313,67.70277,44.85917,
+931,Lower-middle-income countries,,1977,44.89862,68.08382,45.75351,
+932,Lower-middle-income countries,,1978,45.45136,68.39049,46.65274,
+933,Lower-middle-income countries,,1979,46.00061,68.59643,47.51585,
+934,Lower-middle-income countries,,1980,46.53306,68.70098,48.29649,
+935,Lower-middle-income countries,,1981,47.06519,68.80225,49.00895,
+936,Lower-middle-income countries,,1982,47.63435,68.97708,49.84318,
+937,Lower-middle-income countries,,1983,48.12107,69.13491,50.57199,
+938,Lower-middle-income countries,,1984,48.72107,69.30184,51.51703,
+939,Lower-middle-income countries,,1985,49.32205,69.52071,52.47755,
+940,Lower-middle-income countries,,1986,49.83683,69.71321,53.3461,
+941,Lower-middle-income countries,,1987,50.71524,70.18854,54.44793,
+942,Lower-middle-income countries,,1988,51.40592,72.31447,53.26776,
+943,Lower-middle-income countries,,1989,52.1036,72.98763,54.62419,
+944,Lower-middle-income countries,,1990,52.8069,73.60304,55.96173,
+945,Lower-middle-income countries,,1991,53.51564,74.23516,57.30085,
+946,Lower-middle-income countries,,1992,54.40485,75.3428,58.55427,
+947,Lower-middle-income countries,,1993,55.26998,76.36027,59.53925,
+948,Lower-middle-income countries,,1994,56.08274,77.01993,60.99908,
+949,Lower-middle-income countries,,1995,56.85776,77.54648,62.32745,
+950,Lower-middle-income countries,,1996,57.63437,78.18687,63.6672,
+951,Lower-middle-income countries,,1997,58.41293,78.73385,64.86258,
+952,Lower-middle-income countries,,1998,61.84885,81.56189,66.68379,
+953,Lower-middle-income countries,,1999,62.59148,82.18743,68.19439,
+954,Lower-middle-income countries,,2000,62.80231,82.35816,68.52399,
+955,Lower-middle-income countries,,2001,63.52992,82.72581,69.86881,
+956,Lower-middle-income countries,,2002,64.24833,83.10958,71.17077,
+957,Lower-middle-income countries,,2003,65.29472,84.08785,72.1694,
+958,Lower-middle-income countries,,2004,65.99687,84.42356,73.45158,
+959,Lower-middle-income countries,,2005,65.78602,85.40766,73.48987,
+960,Lower-middle-income countries,,2006,65.76852,84.59039,74.40537,
+961,Lower-middle-income countries,,2007,66.29194,84.82232,75.41736,
+962,Lower-middle-income countries,,2008,66.94372,85.33198,76.5123,
+963,Lower-middle-income countries,,2009,67.63524,85.69521,77.57317,
+964,Lower-middle-income countries,,2010,69.50833,86.90514,78.85166,
+965,Lower-middle-income countries,,2011,69.80986,86.92319,79.65332,
+966,Lower-middle-income countries,,2012,70.25576,87.54859,80.83657,
+967,Lower-middle-income countries,,2013,71.1596,88.4973,82.33047,
+968,Lower-middle-income countries,,2014,71.89687,88.8433,83.46157,
+969,Lower-middle-income countries,,2015,72.98467,89.40439,84.5999,
+970,Lower-middle-income countries,,2016,73.734,89.7792,85.41834,
+971,Lower-middle-income countries,,2017,74.26711,90.19085,85.98297,
+972,Lower-middle-income countries,,2018,75.07314,90.54972,86.56847,
+973,Lower-middle-income countries,,2019,75.24551,92.6157,88.42201,
+974,Lower-middle-income countries,,2020,75.8803,92.83811,88.91847,
+975,Lower-middle-income countries,,2021,76.48823,93.04316,89.37158,
+976,Lower-middle-income countries,,2022,77.08264,93.21588,89.82658,
+977,Lower-middle-income countries,,2023,77.63182,93.37012,90.20733,
+978,Macao,MAC,1981,90.0,95.0,94.0,Asia
+979,Macao,MAC,2001,91.0,99.0,100.0,Asia
+980,Macao,MAC,2006,93.0,100.0,100.0,Asia
+981,Macao,MAC,2011,96.0,100.0,100.0,Asia
+982,Macao,MAC,2016,97.0,100.0,100.0,Asia
+983,Madagascar,MDG,2000,71.0,73.0,68.0,Africa
+984,Madagascar,MDG,2005,59.0,59.0,56.0,Africa
+985,Madagascar,MDG,2012,72.0,78.0,75.0,Africa
+986,Madagascar,MDG,2018,77.0,81.0,79.0,Africa
+987,Madagascar,MDG,2021,74.68614,82.52617,82.23735,Africa
+988,Malawi,MWI,1987,49.0,70.0,49.0,Africa
+989,Malawi,MWI,1998,64.0,82.0,71.0,Africa
+990,Malawi,MWI,2006,,,72.23,Africa
+991,Malawi,MWI,2014,,,75.73,Africa
+992,Malawi,MWI,2020,70.15227,81.30133,80.14176,Africa
+993,Malaysia,MYS,1980,70.0,89.0,87.0,Asia
+994,Malaysia,MYS,1991,83.0,96.0,95.0,Asia
+995,Malaysia,MYS,2000,89.0,97.0,97.0,Asia
+996,Malaysia,MYS,2010,93.0,98.0,98.0,Asia
+997,Malaysia,MYS,2016,95.0,97.0,98.0,Asia
+998,Malaysia,MYS,2017,95.0,97.0,97.0,Asia
+999,Malaysia,MYS,2018,95.0,97.0,97.0,Asia
+1000,Malaysia,MYS,2019,95.0,97.0,97.0,Asia
+1001,Malaysia,MYS,2022,96.0,99.0,98.0,Asia
+1002,Maldives,MDV,1977,82.0,84.0,87.0,Asia
+1003,Maldives,MDV,1985,92.0,95.0,96.0,Asia
+1004,Maldives,MDV,1990,96.0,98.0,98.0,Asia
+1005,Maldives,MDV,1995,96.0,98.0,98.0,Asia
+1006,Maldives,MDV,2000,96.0,98.0,98.0,Asia
+1007,Maldives,MDV,2006,98.0,99.0,99.0,Asia
+1008,Maldives,MDV,2014,99.0,99.0,99.0,Asia
+1009,Maldives,MDV,2016,98.0,98.0,99.0,Asia
+1010,Maldives,MDV,2017,94.50551,97.31116,99.67299,Asia
+1011,Maldives,MDV,2019,98.21186,98.62147,98.86908,Asia
+1012,Mali,MLI,1976,9.0,27.0,13.0,Africa
+1013,Mali,MLI,1998,19.0,32.0,17.0,Africa
+1014,Mali,MLI,2003,24.0,,,
+1015,Mali,MLI,2006,26.0,47.0,31.0,Africa
+1016,Mali,MLI,2010,31.0,56.0,34.0,Africa
+1017,Mali,MLI,2011,31.0,56.0,30.0,Africa
+1018,Mali,MLI,2015,33.0,61.0,39.0,Africa
+1019,Mali,MLI,2018,35.0,58.0,43.0,Africa
+1020,Mali,MLI,2020,,44.16,60.92,Africa
+1021,Malta,MLT,1985,87.0,97.0,99.0,Europe
+1022,Malta,MLT,1995,88.0,94.0,98.0,Europe
+1023,Malta,MLT,2005,92.0,97.0,99.0,Europe
+1024,Malta,MLT,2011,93.0,98.0,99.0,Europe
+1025,Marshall Islands,MHL,2011,98.0,98.0,99.0,Oceania
+1026,Martinique,MTQ,1982,93.0,99.0,99.0,North America
+1027,Mauritania,MRT,2000,51.0,68.0,55.0,Africa
+1028,Mauritania,MRT,2007,,,47.94,Africa
+1029,Mauritania,MRT,2011,,,57.65,Africa
+1030,Mauritania,MRT,2013,62.0,74.0,68.0,Africa
+1031,Mauritania,MRT,2015,65.11202,86.73236,75.69968,Africa
+1032,Mauritania,MRT,2020,59.52966,75.25897,66.98027,Africa
+1033,Mauritius,MUS,1990,80.0,91.0,92.0,Africa
+1034,Mauritius,MUS,2000,84.0,94.0,95.0,Africa
+1035,Mauritius,MUS,2011,89.0,98.0,99.0,Africa
+1036,Mauritius,MUS,2012,92.0,,,
+1037,Mauritius,MUS,2013,91.0,,,
+1038,Mauritius,MUS,2014,92.0,,,
+1039,Mauritius,MUS,2015,93.0,,,
+1040,Mauritius,MUS,2016,93.0,,,
+1041,Mexico,MEX,1980,83.0,93.0,91.0,North America
+1042,Mexico,MEX,1990,88.0,96.0,95.0,North America
+1043,Mexico,MEX,2000,91.0,97.2,97.4,North America
+1044,Mexico,MEX,2002,90.0,97.8,97.2,North America
+1045,Mexico,MEX,2004,91.0,97.1,97.5,North America
+1046,Mexico,MEX,2005,92.0,98.0,98.0,North America
+1047,Mexico,MEX,2006,92.0,98.1,97.7,North America
+1048,Mexico,MEX,2007,93.0,98.0,98.0,North America
+1049,Mexico,MEX,2008,93.0,98.2,98.3,North America
+1050,Mexico,MEX,2009,93.0,99.0,98.0,North America
+1051,Mexico,MEX,2010,93.0,98.2,98.6,North America
+1052,Mexico,MEX,2011,94.0,98.0,99.0,North America
+1053,Mexico,MEX,2012,94.0,98.6,98.9,North America
+1054,Mexico,MEX,2013,94.0,99.0,99.0,North America
+1055,Mexico,MEX,2014,95.0,98.4,98.9,North America
+1056,Mexico,MEX,2015,94.0,99.0,99.0,North America
+1057,Mexico,MEX,2016,95.0,98.5,98.7,North America
+1058,Mexico,MEX,2017,95.0,99.0,99.0,North America
+1059,Mexico,MEX,2018,95.0,98.4,98.8,North America
+1060,Mexico,MEX,2020,95.0,98.8,99.1,North America
+1061,Mexico,MEX,2022,,98.7,99.2,North America
+1062,Middle East and North Africa (WB),,1973,,71.80761,45.19602,
+1063,Middle East and North Africa (WB),,1974,43.99972,72.28545,45.98756,
+1064,Middle East and North Africa (WB),,1975,44.49103,72.88749,46.88597,
+1065,Middle East and North Africa (WB),,1976,44.99968,73.51033,47.76801,
+1066,Middle East and North Africa (WB),,1977,45.55852,74.17554,48.96568,
+1067,Middle East and North Africa (WB),,1978,46.21684,74.79698,50.09046,
+1068,Middle East and North Africa (WB),,1979,46.89799,75.29801,51.0531,
+1069,Middle East and North Africa (WB),,1980,47.65434,75.95265,52.32631,
+1070,Middle East and North Africa (WB),,1981,48.41632,76.61027,53.62577,
+1071,Middle East and North Africa (WB),,1982,49.33712,77.30011,54.97385,
+1072,Middle East and North Africa (WB),,1983,50.03418,78.38635,56.12951,
+1073,Middle East and North Africa (WB),,1984,50.99546,79.32956,57.94698,
+1074,Middle East and North Africa (WB),,1985,51.94508,80.26156,59.71946,
+1075,Middle East and North Africa (WB),,1986,52.89566,81.17504,61.40514,
+1076,Middle East and North Africa (WB),,1987,53.82654,81.98535,62.99917,
+1077,Middle East and North Africa (WB),,1988,54.84007,82.77369,64.58158,
+1078,Middle East and North Africa (WB),,1989,55.84551,83.50282,66.1068,
+1079,Middle East and North Africa (WB),,1990,58.23571,85.08913,68.98918,
+1080,Middle East and North Africa (WB),,1991,59.42651,86.2941,70.65865,
+1081,Middle East and North Africa (WB),,1992,60.52205,86.98366,72.12407,
+1082,Middle East and North Africa (WB),,1993,61.38714,87.18237,71.6707,
+1083,Middle East and North Africa (WB),,1994,62.34871,87.6795,72.96099,
+1084,Middle East and North Africa (WB),,1995,63.82514,88.37237,74.85748,
+1085,Middle East and North Africa (WB),,1996,64.96068,88.87634,76.20496,
+1086,Middle East and North Africa (WB),,1997,66.06362,89.3345,77.50701,
+1087,Middle East and North Africa (WB),,1998,67.26733,89.66076,78.6955,
+1088,Middle East and North Africa (WB),,1999,68.36744,90.00801,79.90238,
+1089,Middle East and North Africa (WB),,2000,69.40159,90.32751,80.99898,
+1090,Middle East and North Africa (WB),,2001,70.53242,90.79612,82.14067,
+1091,Middle East and North Africa (WB),,2002,71.56456,91.14309,83.16963,
+1092,Middle East and North Africa (WB),,2003,74.12706,92.80639,83.72966,
+1093,Middle East and North Africa (WB),,2004,74.96323,93.05454,84.65085,
+1094,Middle East and North Africa (WB),,2005,75.57109,93.20441,85.25057,
+1095,Middle East and North Africa (WB),,2006,74.59212,92.64047,86.09961,
+1096,Middle East and North Africa (WB),,2007,75.36998,93.14143,86.97756,
+1097,Middle East and North Africa (WB),,2008,77.08521,93.9046,88.15434,
+1098,Middle East and North Africa (WB),,2009,76.01827,91.90152,85.37437,
+1099,Middle East and North Africa (WB),,2010,76.60938,92.09109,85.75135,
+1100,Middle East and North Africa (WB),,2011,77.32386,92.40269,85.80755,
+1101,Middle East and North Africa (WB),,2012,77.99774,92.95354,86.87201,
+1102,Middle East and North Africa (WB),,2013,78.60817,93.12824,87.79656,
+1103,Middle East and North Africa (WB),,2014,78.98551,93.1035,88.02022,
+1104,Middle East and North Africa (WB),,2015,79.63974,93.10533,88.29764,
+1105,Middle East and North Africa (WB),,2016,78.47635,91.75193,86.80402,
+1106,Middle East and North Africa (WB),,2017,78.92874,91.8816,87.18054,
+1107,Middle East and North Africa (WB),,2018,79.25672,91.98373,87.47592,
+1108,Middle East and North Africa (WB),,2019,79.55386,92.13213,87.80644,
+1109,Middle East and North Africa (WB),,2020,79.89577,92.31631,88.12337,
+1110,Middle East and North Africa (WB),,2021,80.30119,92.55002,88.45477,
+1111,Middle East and North Africa (WB),,2022,80.6111,92.67047,88.69928,
+1112,Middle East and North Africa (WB),,2023,80.94914,92.76265,88.89105,
+1113,Middle-income countries,,1975,58.92093,82.01004,64.32716,
+1114,Middle-income countries,,1976,59.08536,81.9535,64.42027,
+1115,Middle-income countries,,1977,59.42156,82.01001,64.81827,
+1116,Middle-income countries,,1978,60.21147,82.3759,66.03637,
+1117,Middle-income countries,,1979,61.05474,82.83411,67.3713,
+1118,Middle-income countries,,1980,61.83566,83.08366,68.57013,
+1119,Middle-income countries,,1981,62.59563,83.28573,69.6319,
+1120,Middle-income countries,,1982,63.33568,83.47574,70.60695,
+1121,Middle-income countries,,1983,64.0488,83.63856,71.48394,
+1122,Middle-income countries,,1984,64.88833,83.91896,72.54979,
+1123,Middle-income countries,,1985,65.635,84.20709,73.49409,
+1124,Middle-income countries,,1986,66.33725,84.48498,74.37282,
+1125,Middle-income countries,,1987,67.19151,85.09667,75.5204,
+1126,Middle-income countries,,1988,69.37021,86.11868,75.99687,
+1127,Middle-income countries,,1989,70.00896,86.28904,76.53754,
+1128,Middle-income countries,,1990,70.69976,86.49629,77.18838,
+1129,Middle-income countries,,1991,71.22915,86.7337,77.76612,
+1130,Middle-income countries,,1992,71.83592,87.15431,78.27636,
+1131,Middle-income countries,,1993,72.41556,87.55365,78.67757,
+1132,Middle-income countries,,1994,72.96025,87.75785,79.23101,
+1133,Middle-income countries,,1995,73.51708,87.93865,79.80355,
+1134,Middle-income countries,,1996,74.0451,88.12213,80.34395,
+1135,Middle-income countries,,1997,76.71142,88.77795,81.90885,
+1136,Middle-income countries,,1998,78.29854,90.0512,82.65903,
+1137,Middle-income countries,,1999,78.73321,90.28239,83.27791,
+1138,Middle-income countries,,2000,78.97723,90.33717,83.34249,
+1139,Middle-income countries,,2001,79.38092,90.51095,83.98695,
+1140,Middle-income countries,,2002,79.81483,90.74979,84.67358,
+1141,Middle-income countries,,2003,80.44843,91.35642,85.30474,
+1142,Middle-income countries,,2004,80.87951,91.55407,85.99099,
+1143,Middle-income countries,,2005,80.87994,92.06743,86.04476,
+1144,Middle-income countries,,2006,80.98057,91.59686,86.39862,
+1145,Middle-income countries,,2007,81.68252,91.74972,86.94045,
+1146,Middle-income countries,,2008,82.1301,92.10284,87.56419,
+1147,Middle-income countries,,2009,82.41629,92.06343,87.81871,
+1148,Middle-income countries,,2010,83.27524,92.6045,88.37341,
+1149,Middle-income countries,,2011,83.41603,92.54603,88.65865,
+1150,Middle-income countries,,2012,83.67213,92.80064,89.15755,
+1151,Middle-income countries,,2013,84.04509,93.1949,89.80436,
+1152,Middle-income countries,,2014,84.49078,93.34903,90.32415,
+1153,Middle-income countries,,2015,84.97399,93.55546,90.80292,
+1154,Middle-income countries,,2016,85.37055,93.68402,91.14309,
+1155,Middle-income countries,,2017,85.5536,93.79107,91.32096,
+1156,Middle-income countries,,2018,85.94582,93.95203,91.5865,
+1157,Middle-income countries,,2019,86.11558,95.14548,92.6448,
+1158,Middle-income countries,,2020,86.40705,95.25028,92.89353,
+1159,Middle-income countries,,2021,86.65189,95.33419,93.1186,
+1160,Middle-income countries,,2022,86.95844,95.42441,93.37184,
+1161,Middle-income countries,,2023,87.22839,95.49074,93.56737,
+1162,Moldova,MDA,1989,96.0,100.0,100.0,Europe
+1163,Moldova,MDA,2000,97.0,99.0,100.0,Europe
+1164,Moldova,MDA,2005,,99.87,99.95,Europe
+1165,Moldova,MDA,2012,,100.0,99.84,Europe
+1166,Moldova,MDA,2014,99.0,100.0,100.0,Europe
+1167,Mongolia,MNG,2000,98.0,97.0,98.0,Asia
+1168,Mongolia,MNG,2010,98.0,98.0,99.0,Asia
+1169,Mongolia,MNG,2018,96.89635,99.6363,99.42351,Asia
+1170,Mongolia,MNG,2020,99.0,99.0,99.0,Asia
+1171,Mongolia,MNG,2022,98.72622,99.61688,99.77098,Asia
+1172,Montenegro,MNE,1981,90.0,99.0,98.0,Europe
+1173,Montenegro,MNE,1991,93.0,99.0,99.0,Europe
+1174,Montenegro,MNE,2003,98.0,99.0,99.0,Europe
+1175,Montenegro,MNE,2005,,,99.21,Europe
+1176,Montenegro,MNE,2011,98.0,99.0,99.0,Europe
+1177,Montenegro,MNE,2013,,,99.76,Europe
+1178,Montenegro,MNE,2018,98.5344,96.23099,98.95459,Europe
+1179,Morocco,MAR,1982,30.0,58.0,31.0,Africa
+1180,Morocco,MAR,1994,42.0,71.0,46.0,Africa
+1181,Morocco,MAR,2004,52.0,81.0,60.0,Africa
+1182,Morocco,MAR,2008,55.0,86.0,70.0,Africa
+1183,Morocco,MAR,2009,56.0,87.0,72.0,Africa
+1184,Morocco,MAR,2011,67.0,89.0,74.0,Africa
+1185,Morocco,MAR,2012,69.0,94.0,88.0,Africa
+1186,Morocco,MAR,2014,76.0,,,
+1187,Mozambique,MOZ,1980,27.0,64.0,25.0,Africa
+1188,Mozambique,MOZ,1997,39.0,59.0,37.0,Africa
+1189,Mozambique,MOZ,2003,48.0,74.0,50.0,Africa
+1190,Mozambique,MOZ,2008,,,39.45,Africa
+1191,Mozambique,MOZ,2009,51.0,80.0,57.0,Africa
+1192,Mozambique,MOZ,2015,56.0,79.0,63.0,Africa
+1193,Mozambique,MOZ,2017,61.0,77.0,65.0,Africa
+1194,Mozambique,MOZ,2020,60.0,76.0,65.0,Africa
+1195,Myanmar,MMR,1983,79.0,89.0,81.0,Asia
+1196,Myanmar,MMR,2000,90.0,96.0,93.0,Asia
+1197,Myanmar,MMR,2014,90.0,94.0,94.0,Asia
+1198,Myanmar,MMR,2016,,91.15811,89.64611,Asia
+1199,Myanmar,MMR,2019,89.0,95.0,96.0,Asia
+1200,Namibia,NAM,1991,76.0,86.0,90.0,Africa
+1201,Namibia,NAM,2000,,88.26,90.65,Africa
+1202,Namibia,NAM,2001,85.0,91.0,94.0,Africa
+1203,Namibia,NAM,2007,,88.77,93.54,Africa
+1204,Namibia,NAM,2011,88.0,93.0,95.0,Africa
+1205,Namibia,NAM,2013,,92.08,96.09,Africa
+1206,Nauru,NRU,2023,96.58654,,,
+1207,Nepal,NPL,1981,21.0,45.0,15.0,Asia
+1208,Nepal,NPL,1991,33.0,68.0,33.0,Asia
+1209,Nepal,NPL,2001,49.0,81.0,60.0,Asia
+1210,Nepal,NPL,2006,,94.24,75.51,Asia
+1211,Nepal,NPL,2011,60.0,90.0,80.0,Asia
+1212,Nepal,NPL,2016,65.50101,94.43616,84.58498,Asia
+1213,Nepal,NPL,2019,68.7125,96.80686,92.07302,Asia
+1214,Nepal,NPL,2022,,97.16,89.2,Asia
+1215,New Caledonia,NCL,1976,91.0,97.0,98.0,Oceania
+1216,New Caledonia,NCL,1989,93.0,99.0,99.0,Oceania
+1217,New Caledonia,NCL,1996,96.0,99.0,99.0,Oceania
+1218,Nicaragua,NIC,2001,77.0,85.3,89.4,North America
+1219,Nicaragua,NIC,2005,78.0,89.4,92.7,North America
+1220,Nicaragua,NIC,2009,,92.6,94.8,North America
+1221,Nicaragua,NIC,2014,,94.1,96.6,North America
+1222,Niger,NER,2001,14.0,26.0,14.0,Africa
+1223,Niger,NER,2005,29.0,52.0,23.0,Africa
+1224,Niger,NER,2006,,33.02,11.17,Africa
+1225,Niger,NER,2012,31.0,49.0,32.0,Africa
+1226,Niger,NER,2018,33.04745,56.88975,36.36699,Africa
+1227,Niger,NER,2022,35.60971,63.96316,44.7403,Africa
+1228,Nigeria,NGA,1991,55.0,81.0,62.0,Africa
+1229,Nigeria,NGA,2003,55.0,78.0,61.0,Africa
+1230,Nigeria,NGA,2006,70.0,83.0,75.0,Africa
+1231,Nigeria,NGA,2007,,,70.18,Africa
+1232,Nigeria,NGA,2008,,78.5,51.6,Africa
+1233,Nigeria,NGA,2011,,,79.84,Africa
+1234,Nigeria,NGA,2013,,86.17,70.75,Africa
+1235,Nigeria,NGA,2016,58.22134,78.43424,67.12351,Africa
+1236,Nigeria,NGA,2018,,71.80612,60.39587,Africa
+1237,Nigeria,NGA,2021,63.15554,77.77638,69.04957,Africa
+1238,North America (WB),,2003,98.61992,99.62593,99.54726,
+1239,North America (WB),,2004,98.63156,99.62974,99.54986,
+1240,North America (WB),,2005,98.64237,99.63311,99.55087,
+1241,North America (WB),,2006,98.65695,99.63755,99.55211,
+1242,North America (WB),,2007,98.66643,99.63883,99.55438,
+1243,North America (WB),,2008,98.68658,99.6403,99.55452,
+1244,North America (WB),,2017,98.75348,99.6591,99.56526,
+1245,North America (WB),,2018,98.75979,99.66024,99.56524,
+1246,North America (WB),,2019,98.76517,99.66159,99.56584,
+1247,North America (WB),,2020,98.77029,99.66034,99.56623,
+1248,North America (WB),,2021,98.77717,99.66233,99.56689,
+1249,North America (WB),,2022,98.77941,99.66295,99.567,
+1250,North Korea,PRK,2008,100.0,100.0,100.0,Asia
+1251,North Macedonia,MKD,1994,94.0,99.0,99.0,Europe
+1252,North Macedonia,MKD,2002,96.0,99.0,98.0,Europe
+1253,North Macedonia,MKD,2005,,,98.69,Europe
+1254,North Macedonia,MKD,2011,,,99.36,Europe
+1255,North Macedonia,MKD,2018,,,98.74764,Europe
+1256,Northern Africa and Western Asia (SDG),,1976,54.3411,80.1768,58.44754,
+1257,Northern Africa and Western Asia (SDG),,1977,54.78078,80.46183,59.38309,
+1258,Northern Africa and Western Asia (SDG),,1978,55.29722,80.73648,60.23682,
+1259,Northern Africa and Western Asia (SDG),,1979,55.67316,81.42589,60.79308,
+1260,Northern Africa and Western Asia (SDG),,1980,56.26776,81.66279,61.67044,
+1261,Northern Africa and Western Asia (SDG),,1981,56.8871,81.94828,62.55823,
+1262,Northern Africa and Western Asia (SDG),,1982,57.57365,82.24888,63.47431,
+1263,Northern Africa and Western Asia (SDG),,1983,57.84152,82.74415,63.92203,
+1264,Northern Africa and Western Asia (SDG),,1984,59.73399,83.72984,66.18115,
+1265,Northern Africa and Western Asia (SDG),,1985,60.46863,84.23051,67.27975,
+1266,Northern Africa and Western Asia (SDG),,1986,61.20571,84.74233,68.36292,
+1267,Northern Africa and Western Asia (SDG),,1987,61.92454,85.19118,69.39275,
+1268,Northern Africa and Western Asia (SDG),,1988,62.71324,85.65983,70.46206,
+1269,Northern Africa and Western Asia (SDG),,1989,63.37794,86.2774,71.21717,
+1270,Northern Africa and Western Asia (SDG),,1990,64.19637,86.77123,72.29262,
+1271,Northern Africa and Western Asia (SDG),,1991,65.00349,87.62791,73.40488,
+1272,Northern Africa and Western Asia (SDG),,1992,65.77178,88.09057,74.42594,
+1273,Northern Africa and Western Asia (SDG),,1993,66.33577,88.13447,73.79197,
+1274,Northern Africa and Western Asia (SDG),,1994,67.05767,88.44629,74.7156,
+1275,Northern Africa and Western Asia (SDG),,1995,67.79916,88.81908,75.68437,
+1276,Northern Africa and Western Asia (SDG),,1996,68.66977,89.17943,76.75329,
+1277,Northern Africa and Western Asia (SDG),,1997,69.50703,89.49842,77.78434,
+1278,Northern Africa and Western Asia (SDG),,1998,70.41439,89.68784,78.69692,
+1279,Northern Africa and Western Asia (SDG),,1999,71.24101,89.90529,79.65437,
+1280,Northern Africa and Western Asia (SDG),,2000,72.16486,90.36577,80.47546,
+1281,Northern Africa and Western Asia (SDG),,2001,73.03478,90.72356,81.42355,
+1282,Northern Africa and Western Asia (SDG),,2002,73.83571,90.98169,82.30246,
+1283,Northern Africa and Western Asia (SDG),,2003,75.93867,92.36484,82.6261,
+1284,Northern Africa and Western Asia (SDG),,2004,76.60167,92.53676,83.45652,
+1285,Northern Africa and Western Asia (SDG),,2005,77.18137,92.72336,84.12263,
+1286,Northern Africa and Western Asia (SDG),,2006,75.35314,90.81431,83.61319,
+1287,Northern Africa and Western Asia (SDG),,2007,76.0082,91.32681,84.49342,
+1288,Northern Africa and Western Asia (SDG),,2008,76.72649,91.77027,85.2762,
+1289,Northern Africa and Western Asia (SDG),,2009,76.07653,90.00552,83.06166,
+1290,Northern Africa and Western Asia (SDG),,2010,76.8703,90.27802,83.64832,
+1291,Northern Africa and Western Asia (SDG),,2011,78.47644,90.83069,84.23535,
+1292,Northern Africa and Western Asia (SDG),,2012,79.18889,91.40776,85.4149,
+1293,Northern Africa and Western Asia (SDG),,2013,79.80632,91.66172,86.49718,
+1294,Northern Africa and Western Asia (SDG),,2014,80.18829,91.6782,86.83956,
+1295,Northern Africa and Western Asia (SDG),,2015,80.74607,91.68989,87.19533,
+1296,Northern Africa and Western Asia (SDG),,2016,79.70249,90.51795,86.01057,
+1297,Northern Africa and Western Asia (SDG),,2017,80.08974,90.6555,86.46706,
+1298,Northern Africa and Western Asia (SDG),,2018,80.34868,90.74045,86.80387,
+1299,Northern Africa and Western Asia (SDG),,2019,80.59253,90.84184,87.07572,
+1300,Northern Africa and Western Asia (SDG),,2020,80.83071,90.97112,87.32796,
+1301,Northern Africa and Western Asia (SDG),,2021,81.11396,91.14234,87.58399,
+1302,Northern Africa and Western Asia (SDG),,2022,81.32228,91.21332,87.76496,
+1303,Northern Africa and Western Asia (SDG),,2023,81.52536,91.25193,87.87527,
+1304,Oceania (excluding Australia and New Zealand) (SDG),,1994,63.83721,77.99778,69.92531,
+1305,Oceania (excluding Australia and New Zealand) (SDG),,1995,63.73516,77.93086,69.80773,
+1306,Oceania (excluding Australia and New Zealand) (SDG),,1996,64.12549,77.80159,70.52277,
+1307,Oceania (excluding Australia and New Zealand) (SDG),,1997,64.51518,77.57193,71.17595,
+1308,Oceania (excluding Australia and New Zealand) (SDG),,1998,64.89708,77.23113,71.75108,
+1309,Oceania (excluding Australia and New Zealand) (SDG),,1999,65.18096,76.60148,72.01319,
+1310,Oceania (excluding Australia and New Zealand) (SDG),,2000,65.35132,75.68379,71.95756,
+1311,Oceania (excluding Australia and New Zealand) (SDG),,2001,65.67382,75.20317,72.38272,
+1312,Oceania (excluding Australia and New Zealand) (SDG),,2002,65.98396,74.65344,72.7736,
+1313,Oceania (excluding Australia and New Zealand) (SDG),,2003,66.2849,74.06713,73.14567,
+1314,Oceania (excluding Australia and New Zealand) (SDG),,2004,66.58231,73.51779,73.54148,
+1315,Oceania (excluding Australia and New Zealand) (SDG),,2005,66.86126,72.99228,73.94499,
+1316,Oceania (excluding Australia and New Zealand) (SDG),,2006,67.13211,72.42972,74.27674,
+1317,Oceania (excluding Australia and New Zealand) (SDG),,2007,67.3978,71.91764,74.65142,
+1318,Oceania (excluding Australia and New Zealand) (SDG),,2008,67.65311,71.43784,75.06341,
+1319,Oceania (excluding Australia and New Zealand) (SDG),,2009,67.89148,71.16369,75.7507,
+1320,Oceania (excluding Australia and New Zealand) (SDG),,2010,68.12718,71.10046,76.70676,
+1321,Oceania (excluding Australia and New Zealand) (SDG),,2011,68.01376,70.99472,76.65435,
+1322,Oceania (excluding Australia and New Zealand) (SDG),,2012,67.90237,70.90169,76.61355,
+1323,Oceania (excluding Australia and New Zealand) (SDG),,2013,67.79107,70.80942,76.57255,
+1324,Oceania (excluding Australia and New Zealand) (SDG),,2014,,70.69678,76.51877,
+1325,Oceania (excluding Australia and New Zealand) (SDG),,2016,,70.49173,76.40004,
+1326,Oceania (excluding Australia and New Zealand) (SDG),,2017,67.29137,70.40302,76.33891,
+1327,Oceania (excluding Australia and New Zealand) (SDG),,2018,67.18698,70.31829,76.28157,
+1328,Oceania (excluding Australia and New Zealand) (SDG),,2019,67.08638,70.24382,76.2324,
+1329,Oceania (excluding Australia and New Zealand) (SDG),,2020,66.98972,70.17836,76.19174,
+1330,Oceania (excluding Australia and New Zealand) (SDG),,2021,66.96753,70.16173,76.17388,
+1331,Oman,OMN,2003,66.0,66.0,85.0,Asia
+1332,Oman,OMN,2008,87.0,98.0,98.0,Asia
+1333,Oman,OMN,2010,87.0,97.0,98.0,Asia
+1334,Oman,OMN,2015,93.0,99.0,99.0,Asia
+1335,Oman,OMN,2017,96.0,98.0,99.0,Asia
+1336,Oman,OMN,2018,96.0,98.0,99.0,Asia
+1337,Oman,OMN,2020,97.0,100.0,100.0,Asia
+1338,Oman,OMN,2022,97.0,100.0,100.0,Asia
+1339,Pakistan,PAK,1981,26.0,45.0,24.0,Asia
+1340,Pakistan,PAK,1998,43.0,67.0,43.0,Asia
+1341,Pakistan,PAK,2005,50.0,77.0,53.0,Asia
+1342,Pakistan,PAK,2006,54.0,79.0,58.0,Asia
+1343,Pakistan,PAK,2007,52.0,75.0,57.0,Asia
+1344,Pakistan,PAK,2008,56.0,79.0,61.0,Asia
+1345,Pakistan,PAK,2009,55.0,79.0,61.0,Asia
+1346,Pakistan,PAK,2010,55.0,80.0,62.0,Asia
+1347,Pakistan,PAK,2011,55.0,78.0,63.0,Asia
+1348,Pakistan,PAK,2012,57.0,80.0,64.0,Asia
+1349,Pakistan,PAK,2013,56.0,79.0,63.0,Asia
+1350,Pakistan,PAK,2014,57.0,80.0,66.0,Asia
+1351,Pakistan,PAK,2017,59.0,81.0,68.0,Asia
+1352,Pakistan,PAK,2018,57.0,80.0,64.0,Asia
+1353,Pakistan,PAK,2019,58.0,80.0,65.0,Asia
+1354,Pakistan,PAK,2021,58.8561,79.45763,66.52292,Asia
+1355,Palau,PLW,1980,92.0,94.0,94.0,Oceania
+1356,Palau,PLW,2013,100.0,100.0,100.0,Oceania
+1357,Palau,PLW,2015,97.0,98.0,99.0,Oceania
+1358,Palestine,PSE,1997,86.0,97.0,97.0,Asia
+1359,Palestine,PSE,2004,92.0,99.0,99.0,Asia
+1360,Palestine,PSE,2006,93.0,99.0,99.0,Asia
+1361,Palestine,PSE,2007,94.0,99.0,99.0,Asia
+1362,Palestine,PSE,2008,94.0,99.0,99.0,Asia
+1363,Palestine,PSE,2009,94.0,99.0,99.0,Asia
+1364,Palestine,PSE,2010,95.0,99.0,99.0,Asia
+1365,Palestine,PSE,2011,95.0,99.0,99.0,Asia
+1366,Palestine,PSE,2012,96.0,99.0,99.0,Asia
+1367,Palestine,PSE,2013,96.0,99.0,99.0,Asia
+1368,Palestine,PSE,2014,96.0,99.0,99.0,Asia
+1369,Palestine,PSE,2015,96.0,99.0,99.0,Asia
+1370,Palestine,PSE,2016,97.0,99.0,99.0,Asia
+1371,Palestine,PSE,2017,97.0,99.0,99.0,Asia
+1372,Palestine,PSE,2018,97.0,99.0,99.0,Asia
+1373,Palestine,PSE,2019,97.0,99.0,99.0,Asia
+1374,Palestine,PSE,2020,98.0,99.0,99.0,Asia
+1375,Palestine,PSE,2022,98.0,99.0,99.0,Asia
+1376,Panama,PAN,1980,88.0,96.0,96.0,North America
+1377,Panama,PAN,1990,89.0,95.0,95.0,North America
+1378,Panama,PAN,2000,92.0,97.0,96.0,North America
+1379,Panama,PAN,2010,94.0,98.0,97.0,North America
+1380,Panama,PAN,2014,,98.4,97.6,North America
+1381,Panama,PAN,2015,,98.4,98.1,North America
+1382,Panama,PAN,2016,,99.1,98.4,North America
+1383,Panama,PAN,2017,,99.3,98.8,North America
+1384,Panama,PAN,2018,95.0,99.3,98.9,North America
+1385,Panama,PAN,2019,96.0,98.9,98.9,North America
+1386,Panama,PAN,2021,,99.3,99.2,North America
+1387,Panama,PAN,2022,,99.4,99.3,North America
+1388,Panama,PAN,2023,,98.8,98.9,North America
+1389,Papua New Guinea,PNG,2000,57.0,69.0,64.0,Oceania
+1390,Papua New Guinea,PNG,2017,70.06368,87.25939,78.08662,Oceania
+1391,Paraguay,PRY,1982,78.0,90.0,89.0,South America
+1392,Paraguay,PRY,1992,90.0,96.0,95.0,South America
+1393,Paraguay,PRY,2001,,95.7,95.6,South America
+1394,Paraguay,PRY,2002,,97.6,97.3,South America
+1395,Paraguay,PRY,2003,,97.3,97.5,South America
+1396,Paraguay,PRY,2004,,97.3,97.2,South America
+1397,Paraguay,PRY,2005,,97.6,98.1,South America
+1398,Paraguay,PRY,2006,,98.4,97.9,South America
+1399,Paraguay,PRY,2007,95.0,98.6,98.8,South America
+1400,Paraguay,PRY,2008,93.0,97.6,98.2,South America
+1401,Paraguay,PRY,2009,94.0,98.0,99.0,South America
+1402,Paraguay,PRY,2010,94.0,98.5,98.6,South America
+1403,Paraguay,PRY,2011,,98.3,98.7,South America
+1404,Paraguay,PRY,2012,94.0,98.3,98.1,South America
+1405,Paraguay,PRY,2013,95.0,98.6,99.2,South America
+1406,Paraguay,PRY,2014,95.0,99.0,98.5,South America
+1407,Paraguay,PRY,2015,96.0,98.4,99.0,South America
+1408,Paraguay,PRY,2016,95.0,98.2,98.7,South America
+1409,Paraguay,PRY,2017,,97.7,98.9,South America
+1410,Paraguay,PRY,2018,94.0,97.7,98.9,South America
+1411,Paraguay,PRY,2019,93.0,98.0,98.7,South America
+1412,Paraguay,PRY,2020,95.0,98.6,98.7,South America
+1413,Paraguay,PRY,2021,,98.1,99.2,South America
+1414,Paraguay,PRY,2022,,98.5,98.8,South America
+1415,Paraguay,PRY,2023,,98.8,99.0,South America
+1416,Peru,PER,1981,82.0,97.0,90.0,South America
+1417,Peru,PER,1993,87.0,97.0,94.0,South America
+1418,Peru,PER,2000,,99.1,96.1,South America
+1419,Peru,PER,2001,,98.2,96.1,South America
+1420,Peru,PER,2002,,97.6,95.9,South America
+1421,Peru,PER,2003,,97.6,96.0,South America
+1422,Peru,PER,2004,88.0,98.4,96.3,South America
+1423,Peru,PER,2005,88.0,98.1,96.8,South America
+1424,Peru,PER,2006,89.0,98.6,97.3,South America
+1425,Peru,PER,2007,90.0,98.1,97.0,South America
+1426,Peru,PER,2008,,98.2,97.5,South America
+1427,Peru,PER,2009,,98.7,97.9,South America
+1428,Peru,PER,2010,,98.6,98.0,South America
+1429,Peru,PER,2011,,98.6,98.3,South America
+1430,Peru,PER,2012,94.0,98.7,98.7,South America
+1431,Peru,PER,2013,,98.9,98.9,South America
+1432,Peru,PER,2014,94.0,99.2,98.8,South America
+1433,Peru,PER,2015,94.0,99.3,98.8,South America
+1434,Peru,PER,2016,94.0,99.1,98.8,South America
+1435,Peru,PER,2017,94.0,99.3,98.9,South America
+1436,Peru,PER,2018,94.0,99.1,99.0,South America
+1437,Peru,PER,2019,,99.1,99.1,South America
+1438,Peru,PER,2020,94.0,99.6,99.4,South America
+1439,Peru,PER,2021,,99.1,99.2,South America
+1440,Peru,PER,2022,,99.3,99.3,South America
+1441,Peru,PER,2023,,99.3,99.4,South America
+1442,Philippines,PHL,1980,83.0,91.0,92.0,Asia
+1443,Philippines,PHL,1990,94.0,96.0,97.0,Asia
+1444,Philippines,PHL,1994,94.0,96.0,96.0,Asia
+1445,Philippines,PHL,2000,93.0,94.0,96.0,Asia
+1446,Philippines,PHL,2003,93.0,94.0,97.0,Asia
+1447,Philippines,PHL,2008,95.0,97.0,98.0,Asia
+1448,Philippines,PHL,2013,96.0,97.0,99.0,Asia
+1449,Philippines,PHL,2015,98.0,99.0,99.0,Asia
+1450,Philippines,PHL,2017,,100.0,100.0,Asia
+1451,Philippines,PHL,2019,96.0,98.0,99.0,Asia
+1452,Philippines,PHL,2020,98.0,99.0,99.0,Asia
+1453,Philippines,PHL,2022,,100.0,99.51506,Asia
+1454,Poland,POL,1978,99.0,100.0,100.0,Europe
+1455,Portugal,PRT,1981,79.0,98.0,98.0,Europe
+1456,Portugal,PRT,1991,88.0,99.0,99.0,Europe
+1457,Portugal,PRT,2011,94.0,99.0,99.0,Europe
+1458,Puerto Rico,PRI,1980,87.0,93.0,94.0,North America
+1459,Puerto Rico,PRI,1990,90.0,92.0,94.0,North America
+1460,Puerto Rico,PRI,2010,92.0,99.0,99.0,North America
+1461,Puerto Rico,PRI,2017,92.0,92.0,92.0,North America
+1462,Qatar,QAT,1986,76.0,89.0,91.0,Asia
+1463,Qatar,QAT,1997,83.0,94.0,96.0,Asia
+1464,Qatar,QAT,2004,89.0,95.0,98.0,Asia
+1465,Qatar,QAT,2007,93.0,99.0,99.0,Asia
+1466,Qatar,QAT,2008,94.0,95.0,97.0,Asia
+1467,Qatar,QAT,2009,95.0,98.0,98.0,Asia
+1468,Qatar,QAT,2010,96.0,96.0,98.0,Asia
+1469,Qatar,QAT,2011,96.0,98.0,99.0,Asia
+1470,Qatar,QAT,2012,97.0,99.0,100.0,Asia
+1471,Qatar,QAT,2013,97.0,99.0,99.0,Asia
+1472,Qatar,QAT,2014,98.0,98.0,100.0,Asia
+1473,Reunion,REU,1982,79.0,94.0,98.0,Africa
+1474,Romania,ROU,1992,97.0,99.0,99.0,Europe
+1475,Romania,ROU,2002,97.0,98.0,98.0,Europe
+1476,Romania,ROU,2011,99.0,99.0,99.0,Europe
+1477,Romania,ROU,2021,99.0,100.0,100.0,Europe
+1478,Russia,RUS,1989,98.0,100.0,100.0,Europe
+1479,Russia,RUS,2002,99.0,100.0,100.0,Europe
+1480,Russia,RUS,2010,100.0,100.0,100.0,Europe
+1481,Russia,RUS,2021,100.0,100.0,100.0,Europe
+1482,Rwanda,RWA,1978,38.0,60.0,45.0,Africa
+1483,Rwanda,RWA,1991,58.0,,,
+1484,Rwanda,RWA,2000,65.0,79.0,77.0,Africa
+1485,Rwanda,RWA,2005,,72.72,68.21,Africa
+1486,Rwanda,RWA,2010,,80.31,80.06,Africa
+1487,Rwanda,RWA,2012,68.0,81.0,83.0,Africa
+1488,Rwanda,RWA,2014,71.0,84.0,86.0,Africa
+1489,Rwanda,RWA,2015,,87.92002,89.17011,Africa
+1490,Rwanda,RWA,2018,73.0,84.0,89.0,Africa
+1491,Rwanda,RWA,2020,80.05086,90.36046,92.69652,Africa
+1492,Rwanda,RWA,2022,79.0,88.0,92.0,Africa
+1493,Saint Helena,SHN,1998,97.0,99.0,100.0,Africa
+1494,Saint Lucia,LCA,2012,,100.0,99.96,North America
+1495,Saint Pierre and Miquelon,SPM,1982,99.0,99.0,99.0,North America
+1496,Saint Vincent and the Grenadines,VCT,1970,96.0,98.0,98.0,North America
+1497,Samoa,WSM,1991,98.0,99.0,99.0,Oceania
+1498,Samoa,WSM,2011,99.0,99.0,99.0,Oceania
+1499,Samoa,WSM,2016,99.0,100.0,100.0,Oceania
+1500,Samoa,WSM,2019,97.99026,98.54096,99.55731,Oceania
+1501,San Marino,SMR,2022,100.0,100.0,100.0,Europe
+1502,Sao Tome and Principe,STP,1981,57.0,91.0,74.0,Africa
+1503,Sao Tome and Principe,STP,1991,73.0,96.0,92.0,Africa
+1504,Sao Tome and Principe,STP,2001,85.0,96.0,95.0,Africa
+1505,Sao Tome and Principe,STP,2012,90.0,97.0,96.0,Africa
+1506,Sao Tome and Principe,STP,2014,,,100.0,Africa
+1507,Sao Tome and Principe,STP,2019,87.43846,95.85022,95.07206,Africa
+1508,Saudi Arabia,SAU,1992,71.0,94.0,81.0,Asia
+1509,Saudi Arabia,SAU,2000,79.0,98.0,94.0,Asia
+1510,Saudi Arabia,SAU,2004,83.0,97.0,95.0,Asia
+1511,Saudi Arabia,SAU,2013,94.0,99.0,99.0,Asia
+1512,Saudi Arabia,SAU,2017,95.0,99.0,99.0,Asia
+1513,Saudi Arabia,SAU,2020,98.0,100.0,99.0,Asia
+1514,Senegal,SEN,1988,27.0,49.0,28.0,Africa
+1515,Senegal,SEN,2002,39.0,58.0,41.0,Africa
+1516,Senegal,SEN,2005,,57.43,34.01,Africa
+1517,Senegal,SEN,2006,42.0,58.0,45.0,Africa
+1518,Senegal,SEN,2009,48.0,72.0,55.0,Africa
+1519,Senegal,SEN,2011,52.0,74.0,59.0,Africa
+1520,Senegal,SEN,2013,44.0,63.0,51.0,Africa
+1521,Senegal,SEN,2014,,63.45,51.06,Africa
+1522,Senegal,SEN,2015,43.59273,65.78748,56.87536,Africa
+1523,Senegal,SEN,2016,46.09964,69.407,59.88586,Africa
+1524,Senegal,SEN,2017,52.0,76.0,64.0,Africa
+1525,Senegal,SEN,2018,46.60591,66.22319,65.68582,Africa
+1526,Senegal,SEN,2019,46.83367,68.82227,64.02553,Africa
+1527,Senegal,SEN,2023,50.35582,69.2685,65.59709,Africa
+1528,Serbia,SRB,2003,96.0,99.0,99.0,Europe
+1529,Serbia,SRB,2005,,,99.63,Europe
+1530,Serbia,SRB,2011,98.0,99.0,99.0,Europe
+1531,Serbia,SRB,2014,,,99.83,Europe
+1532,Serbia,SRB,2016,99.0,100.0,100.0,Europe
+1533,Serbia,SRB,2019,99.0,100.0,100.0,Europe
+1534,Seychelles,SYC,1987,84.0,97.0,98.0,Africa
+1535,Seychelles,SYC,1994,88.0,98.0,99.0,Africa
+1536,Seychelles,SYC,2002,92.0,99.0,99.0,Africa
+1537,Seychelles,SYC,2010,94.0,99.0,99.0,Africa
+1538,Sierra Leone,SLE,2004,35.0,60.0,37.0,Africa
+1539,Sierra Leone,SLE,2005,,,37.15,Africa
+1540,Sierra Leone,SLE,2008,,73.58,41.3,Africa
+1541,Sierra Leone,SLE,2010,,,49.46,Africa
+1542,Sierra Leone,SLE,2013,,79.69,57.34,Africa
+1543,Sierra Leone,SLE,2017,44.83318,78.74271,68.66314,Africa
+1544,Sierra Leone,SLE,2019,43.57778,78.1976,67.86192,Africa
+1545,Singapore,SGP,1980,83.0,96.0,96.0,Asia
+1546,Singapore,SGP,1990,89.0,99.0,99.0,Asia
+1547,Singapore,SGP,2000,93.0,99.0,100.0,Asia
+1548,Singapore,SGP,2010,96.0,100.0,100.0,Asia
+1549,Singapore,SGP,2011,96.0,100.0,100.0,Asia
+1550,Singapore,SGP,2012,96.0,100.0,100.0,Asia
+1551,Singapore,SGP,2013,97.0,100.0,100.0,Asia
+1552,Singapore,SGP,2014,97.0,100.0,100.0,Asia
+1553,Singapore,SGP,2015,97.0,100.0,100.0,Asia
+1554,Singapore,SGP,2016,97.0,100.0,100.0,Asia
+1555,Singapore,SGP,2017,97.0,100.0,100.0,Asia
+1556,Singapore,SGP,2018,97.0,100.0,100.0,Asia
+1557,Singapore,SGP,2019,97.0,100.0,100.0,Asia
+1558,Singapore,SGP,2020,97.0,100.0,100.0,Asia
+1559,Singapore,SGP,2021,98.0,100.0,100.0,Asia
+1560,Slovenia,SVN,1991,100.0,100.0,100.0,Europe
+1561,Solomon Islands,SLB,1999,77.0,,,
+1562,Somalia,SOM,2006,,,23.79,Africa
+1563,Somalia,SOM,2022,54.0,76.0,65.0,Africa
+1564,South Africa,ZAF,1980,76.0,85.0,85.0,Africa
+1565,South Africa,ZAF,1996,82.0,93.0,94.0,Africa
+1566,South Africa,ZAF,2007,89.0,97.0,98.0,Africa
+1567,South Africa,ZAF,2009,93.0,98.0,99.0,Africa
+1568,South Africa,ZAF,2010,93.0,98.0,99.0,Africa
+1569,South Africa,ZAF,2011,93.0,98.0,99.0,Africa
+1570,South Africa,ZAF,2012,94.0,98.0,99.0,Africa
+1571,South Africa,ZAF,2014,94.0,99.0,99.0,Africa
+1572,South Africa,ZAF,2015,94.0,99.0,99.0,Africa
+1573,South Africa,ZAF,2016,91.73724,95.83106,97.71958,Africa
+1574,South Africa,ZAF,2017,87.0,94.0,97.0,Africa
+1575,South Africa,ZAF,2019,95.0,98.0,99.0,Africa
+1576,South Africa,ZAF,2021,90.0,96.0,97.0,Africa
+1577,South Asia (WB),,1975,36.03934,61.23359,32.74992,
+1578,South Asia (WB),,1976,36.04425,61.21412,32.72811,
+1579,South Asia (WB),,1977,36.69573,61.64887,33.80736,
+1580,South Asia (WB),,1978,37.34392,61.9847,34.88634,
+1581,South Asia (WB),,1979,37.98554,62.23472,35.96832,
+1582,South Asia (WB),,1980,38.5959,62.3737,36.94905,
+1583,South Asia (WB),,1981,39.17633,62.3914,37.82758,
+1584,South Asia (WB),,1982,39.82555,62.57432,38.92459,
+1585,South Asia (WB),,1983,40.47922,62.71156,40.01843,
+1586,South Asia (WB),,1984,41.1337,62.81609,41.12846,
+1587,South Asia (WB),,1985,41.78567,62.97352,42.23746,
+1588,South Asia (WB),,1986,42.44037,63.16405,43.34882,
+1589,South Asia (WB),,1987,43.09805,63.43552,44.40838,
+1590,South Asia (WB),,1988,43.84537,66.51168,42.31399,
+1591,South Asia (WB),,1989,44.61243,67.4087,44.00039,
+1592,South Asia (WB),,1990,45.35921,68.20921,45.63503,
+1593,South Asia (WB),,1991,46.08564,68.92892,47.24611,
+1594,South Asia (WB),,1992,47.08633,70.42248,48.73938,
+1595,South Asia (WB),,1993,48.08146,71.8677,50.23563,
+1596,South Asia (WB),,1994,48.84938,72.58117,51.90192,
+1597,South Asia (WB),,1995,49.64049,73.29805,53.54513,
+1598,South Asia (WB),,1996,50.4492,74.01736,55.14931,
+1599,South Asia (WB),,1997,51.26017,74.6834,56.55587,
+1600,South Asia (WB),,1998,56.07956,78.93805,59.33065,
+1601,South Asia (WB),,1999,56.87631,79.58144,61.19646,
+1602,South Asia (WB),,2000,57.65058,80.11587,62.95541,
+1603,South Asia (WB),,2001,58.41306,80.55457,64.61875,
+1604,South Asia (WB),,2002,59.20313,81.07521,66.302,
+1605,South Asia (WB),,2003,60.09578,82.17898,67.5551,
+1606,South Asia (WB),,2004,60.87617,82.60598,69.19014,
+1607,South Asia (WB),,2005,60.67367,84.34488,69.3995,
+1608,South Asia (WB),,2006,60.84876,83.2914,70.5399,
+1609,South Asia (WB),,2007,61.68392,83.58977,72.24752,
+1610,South Asia (WB),,2008,62.5963,84.51249,73.95381,
+1611,South Asia (WB),,2009,63.45801,85.06028,75.67667,
+1612,South Asia (WB),,2010,66.02896,86.65498,77.2101,
+1613,South Asia (WB),,2011,66.62986,86.86274,78.52292,
+1614,South Asia (WB),,2012,66.67659,87.20437,79.44468,
+1615,South Asia (WB),,2013,67.70576,88.39692,81.3398,
+1616,South Asia (WB),,2014,68.45516,88.77747,82.62181,
+1617,South Asia (WB),,2015,69.78215,89.4431,84.15232,
+1618,South Asia (WB),,2016,71.10578,90.26568,85.64712,
+1619,South Asia (WB),,2017,71.66783,90.72693,86.29461,
+1620,South Asia (WB),,2018,72.19206,90.6786,86.08996,
+1621,South Asia (WB),,2019,71.96603,93.54365,88.6587,
+1622,South Asia (WB),,2020,72.68319,93.79383,89.36649,
+1623,South Asia (WB),,2021,73.47901,94.11137,90.07337,
+1624,South Asia (WB),,2022,74.26527,94.38901,90.81525,
+1625,South Asia (WB),,2023,75.00885,94.64723,91.47357,
+1626,South Korea,KOR,2008,98.0,100.0,100.0,Asia
+1627,South Sudan,SSD,2008,27.0,44.0,30.0,Africa
+1628,South Sudan,SSD,2010,,,24.87,Africa
+1629,Spain,ESP,1981,93.0,99.0,99.0,Europe
+1630,Spain,ESP,1991,96.0,100.0,100.0,Europe
+1631,Spain,ESP,2004,97.0,100.0,100.0,Europe
+1632,Spain,ESP,2005,98.0,100.0,100.0,Europe
+1633,Spain,ESP,2006,98.0,100.0,99.0,Europe
+1634,Spain,ESP,2007,98.0,100.0,100.0,Europe
+1635,Spain,ESP,2008,98.0,100.0,100.0,Europe
+1636,Spain,ESP,2009,98.0,100.0,100.0,Europe
+1637,Spain,ESP,2010,98.0,100.0,100.0,Europe
+1638,Spain,ESP,2011,98.0,100.0,100.0,Europe
+1639,Spain,ESP,2012,98.0,100.0,100.0,Europe
+1640,Spain,ESP,2013,98.0,100.0,100.0,Europe
+1641,Spain,ESP,2014,98.0,100.0,100.0,Europe
+1642,Spain,ESP,2015,98.0,100.0,100.0,Europe
+1643,Spain,ESP,2016,98.0,100.0,100.0,Europe
+1644,Spain,ESP,2018,98.0,100.0,100.0,Europe
+1645,Spain,ESP,2020,99.0,99.0,100.0,Europe
+1646,Spain,ESP,2021,100.0,100.0,100.0,Europe
+1647,Sri Lanka,LKA,1981,87.0,92.0,90.0,Asia
+1648,Sri Lanka,LKA,2001,91.0,95.0,96.0,Asia
+1649,Sri Lanka,LKA,2006,91.0,97.0,98.0,Asia
+1650,Sri Lanka,LKA,2008,91.0,97.0,99.0,Asia
+1651,Sri Lanka,LKA,2010,91.0,98.0,99.0,Asia
+1652,Sri Lanka,LKA,2016,92.0,98.0,99.0,Asia
+1653,Sri Lanka,LKA,2017,92.0,99.0,99.0,Asia
+1654,Sri Lanka,LKA,2018,92.0,99.0,99.0,Asia
+1655,Sri Lanka,LKA,2019,92.0,99.0,99.0,Asia
+1656,Sri Lanka,LKA,2020,92.0,99.0,99.0,Asia
+1657,Sri Lanka,LKA,2021,92.0,99.0,99.0,Asia
+1658,Sri Lanka,LKA,2022,92.0,98.0,99.0,Asia
+1659,Sri Lanka,LKA,2023,93.0,99.0,99.0,Asia
+1660,Sub-Saharan Africa (SDG),,1984,49.00235,70.43321,53.65901,
+1661,Sub-Saharan Africa (SDG),,1985,49.37137,70.81741,54.50004,
+1662,Sub-Saharan Africa (SDG),,1986,49.70577,71.08217,55.20773,
+1663,Sub-Saharan Africa (SDG),,1987,50.36095,71.60052,56.15547,
+1664,Sub-Saharan Africa (SDG),,1988,50.89607,71.72021,56.74593,
+1665,Sub-Saharan Africa (SDG),,1989,51.45966,72.03917,57.48826,
+1666,Sub-Saharan Africa (SDG),,1990,52.11274,72.29014,58.32958,
+1667,Sub-Saharan Africa (SDG),,1991,52.47592,72.2987,58.80754,
+1668,Sub-Saharan Africa (SDG),,1992,52.97165,72.05907,58.99608,
+1669,Sub-Saharan Africa (SDG),,1993,53.5766,72.08115,59.63437,
+1670,Sub-Saharan Africa (SDG),,1994,54.20362,72.18253,60.30622,
+1671,Sub-Saharan Africa (SDG),,1995,54.63169,71.97712,60.54249,
+1672,Sub-Saharan Africa (SDG),,1996,55.26828,71.98382,61.27053,
+1673,Sub-Saharan Africa (SDG),,1997,56.09558,72.15557,62.15856,
+1674,Sub-Saharan Africa (SDG),,1998,56.75086,72.20642,62.15919,
+1675,Sub-Saharan Africa (SDG),,1999,57.59484,72.93401,62.95219,
+1676,Sub-Saharan Africa (SDG),,2000,56.3906,71.98056,60.39209,
+1677,Sub-Saharan Africa (SDG),,2001,57.14965,72.22311,61.33031,
+1678,Sub-Saharan Africa (SDG),,2002,57.85295,74.55391,61.69737,
+1679,Sub-Saharan Africa (SDG),,2003,58.36514,74.41884,62.31926,
+1680,Sub-Saharan Africa (SDG),,2004,59.04088,74.9079,63.03124,
+1681,Sub-Saharan Africa (SDG),,2005,58.71344,74.3745,62.67028,
+1682,Sub-Saharan Africa (SDG),,2006,58.41726,74.48927,62.25977,
+1683,Sub-Saharan Africa (SDG),,2007,58.17579,74.51744,62.46845,
+1684,Sub-Saharan Africa (SDG),,2008,58.48229,74.663,62.84819,
+1685,Sub-Saharan Africa (SDG),,2009,58.94138,75.04334,63.27447,
+1686,Sub-Saharan Africa (SDG),,2010,59.61513,75.64068,64.61997,
+1687,Sub-Saharan Africa (SDG),,2011,61.13006,76.85467,67.16404,
+1688,Sub-Saharan Africa (SDG),,2012,62.3788,78.12264,68.71044,
+1689,Sub-Saharan Africa (SDG),,2013,63.23391,78.90765,69.77118,
+1690,Sub-Saharan Africa (SDG),,2014,63.92325,79.18538,70.63868,
+1691,Sub-Saharan Africa (SDG),,2015,64.52015,79.54214,71.49852,
+1692,Sub-Saharan Africa (SDG),,2016,65.10612,79.74457,72.37485,
+1693,Sub-Saharan Africa (SDG),,2017,65.44503,80.03684,73.19637,
+1694,Sub-Saharan Africa (SDG),,2018,67.06734,80.90309,74.63522,
+1695,Sub-Saharan Africa (SDG),,2019,67.71821,80.98639,74.99446,
+1696,Sub-Saharan Africa (SDG),,2020,67.9072,81.04912,75.18506,
+1697,Sub-Saharan Africa (SDG),,2021,67.89861,81.16229,75.56274,
+1698,Sub-Saharan Africa (SDG),,2022,68.2313,81.32142,75.94742,
+1699,Sub-Saharan Africa (SDG),,2023,68.5022,81.43321,76.2435,
+1700,Sub-Saharan Africa (WB),,1985,49.67415,71.36318,54.93128,
+1701,Sub-Saharan Africa (WB),,1986,49.99505,71.60516,55.59864,
+1702,Sub-Saharan Africa (WB),,1987,50.62446,72.09146,56.50027,
+1703,Sub-Saharan Africa (WB),,1988,51.13833,72.19366,57.05974,
+1704,Sub-Saharan Africa (WB),,1989,51.67959,72.48472,57.76546,
+1705,Sub-Saharan Africa (WB),,1990,52.30686,72.71775,58.56817,
+1706,Sub-Saharan Africa (WB),,1991,52.65164,72.7188,59.02214,
+1707,Sub-Saharan Africa (WB),,1992,53.12544,72.48352,59.19959,
+1708,Sub-Saharan Africa (WB),,1993,53.7068,72.50194,59.81377,
+1709,Sub-Saharan Africa (WB),,1994,54.30921,72.60356,60.45989,
+1710,Sub-Saharan Africa (WB),,1995,54.72155,72.41475,60.68785,
+1711,Sub-Saharan Africa (WB),,1996,55.37812,72.45479,61.44891,
+1712,Sub-Saharan Africa (WB),,1997,56.21824,72.65162,62.3643,
+1713,Sub-Saharan Africa (WB),,1998,56.89161,72.72885,62.42521,
+1714,Sub-Saharan Africa (WB),,1999,57.74526,73.44743,63.24683,
+1715,Sub-Saharan Africa (WB),,2000,56.62755,72.55322,60.84378,
+1716,Sub-Saharan Africa (WB),,2001,57.40014,72.80689,61.80151,
+1717,Sub-Saharan Africa (WB),,2002,58.11591,75.05337,62.20535,
+1718,Sub-Saharan Africa (WB),,2003,58.6459,74.9335,62.84995,
+1719,Sub-Saharan Africa (WB),,2004,59.33332,75.41172,63.58071,
+1720,Sub-Saharan Africa (WB),,2005,59.05679,74.91303,63.28228,
+1721,Sub-Saharan Africa (WB),,2006,58.16811,74.18462,62.1581,
+1722,Sub-Saharan Africa (WB),,2007,57.96338,74.22833,62.4056,
+1723,Sub-Saharan Africa (WB),,2008,58.28565,74.385,62.81743,
+1724,Sub-Saharan Africa (WB),,2009,58.75711,74.77022,63.27435,
+1725,Sub-Saharan Africa (WB),,2010,59.43254,75.36194,64.61118,
+1726,Sub-Saharan Africa (WB),,2011,60.91714,76.54916,67.10008,
+1727,Sub-Saharan Africa (WB),,2012,62.14601,77.78892,68.62974,
+1728,Sub-Saharan Africa (WB),,2013,62.99641,78.56353,69.69256,
+1729,Sub-Saharan Africa (WB),,2014,63.68724,78.85027,70.56996,
+1730,Sub-Saharan Africa (WB),,2015,64.28751,79.20958,71.43871,
+1731,Sub-Saharan Africa (WB),,2016,64.87826,79.42151,72.32338,
+1732,Sub-Saharan Africa (WB),,2017,65.2303,79.71815,73.15344,
+1733,Sub-Saharan Africa (WB),,2018,66.81657,80.56685,74.57623,
+1734,Sub-Saharan Africa (WB),,2019,67.44165,80.64873,74.9221,
+1735,Sub-Saharan Africa (WB),,2020,67.62379,80.71279,75.10625,
+1736,Sub-Saharan Africa (WB),,2021,67.61568,80.82516,75.47069,
+1737,Sub-Saharan Africa (WB),,2022,67.93573,80.98119,75.84205,
+1738,Sub-Saharan Africa (WB),,2023,68.19624,81.09069,76.12796,
+1739,Sudan,SDN,2000,61.0,86.0,72.0,Africa
+1740,Sudan,SDN,2008,54.0,69.0,63.0,Africa
+1741,Sudan,SDN,2010,,,64.81,Africa
+1742,Sudan,SDN,2014,,,100.0,Africa
+1743,Suriname,SUR,2004,90.0,96.0,94.0,South America
+1744,Suriname,SUR,2006,,,94.92,South America
+1745,Suriname,SUR,2008,95.0,99.0,99.0,South America
+1746,Suriname,SUR,2010,95.0,98.0,99.0,South America
+1747,Suriname,SUR,2012,93.0,98.0,97.0,South America
+1748,Suriname,SUR,2018,,97.44166,97.9577,South America
+1749,Syria,SYR,1981,56.0,89.0,59.0,Asia
+1750,Syria,SYR,2002,83.0,97.0,93.0,Asia
+1751,Syria,SYR,2004,81.0,95.0,90.0,Asia
+1752,Syria,SYR,2006,,,89.05,Asia
+1753,Syria,SYR,2021,94.0,98.0,98.0,Asia
+1754,Tajikistan,TJK,1989,98.0,100.0,100.0,Asia
+1755,Tajikistan,TJK,2000,99.0,100.0,100.0,Asia
+1756,Tajikistan,TJK,2012,,,100.0,Asia
+1757,Tajikistan,TJK,2017,,100.0,96.42241,Asia
+1758,Tanzania,TZA,1988,59.0,86.0,78.0,Africa
+1759,Tanzania,TZA,2002,69.0,81.0,76.0,Africa
+1760,Tanzania,TZA,2012,78.0,87.0,85.0,Africa
+1761,Tanzania,TZA,2015,78.0,87.0,85.0,Africa
+1762,Tanzania,TZA,2022,,88.81121,85.12921,Africa
+1763,Thailand,THA,1980,88.0,98.0,96.0,Asia
+1764,Thailand,THA,2000,93.0,98.0,98.0,Asia
+1765,Thailand,THA,2005,94.0,98.0,98.0,Asia
+1766,Thailand,THA,2010,96.0,97.0,97.0,Asia
+1767,Thailand,THA,2013,94.0,98.0,99.0,Asia
+1768,Thailand,THA,2015,93.0,98.0,98.0,Asia
+1769,Thailand,THA,2016,91.9814,97.36126,97.63726,Asia
+1770,Thailand,THA,2018,94.0,98.0,99.0,Asia
+1771,Thailand,THA,2019,91.26915,98.46694,98.57724,Asia
+1772,Thailand,THA,2022,91.09987,97.94499,98.42796,Asia
+1773,Togo,TGO,2000,53.0,84.0,64.0,Africa
+1774,Togo,TGO,2006,57.0,85.0,68.0,Africa
+1775,Togo,TGO,2009,57.0,88.0,75.0,Africa
+1776,Togo,TGO,2010,,,51.42,Africa
+1777,Togo,TGO,2011,60.0,87.0,73.0,Africa
+1778,Togo,TGO,2014,,88.61,67.68,Africa
+1779,Togo,TGO,2015,64.0,90.0,78.0,Africa
+1780,Togo,TGO,2017,,89.43568,74.7365,Africa
+1781,Togo,TGO,2019,67.0,92.0,84.0,Africa
+1782,Togo,TGO,2022,72.59589,93.32553,87.65002,Africa
+1783,Tonga,TON,1976,100.0,100.0,100.0,Oceania
+1784,Tonga,TON,1996,99.0,99.0,99.0,Oceania
+1785,Tonga,TON,2006,99.0,99.0,100.0,Oceania
+1786,Tonga,TON,2011,99.0,99.0,100.0,Oceania
+1787,Tonga,TON,2016,97.0,98.0,98.0,Oceania
+1788,Tonga,TON,2019,91.05162,99.91556,99.87335,Oceania
+1789,Trinidad and Tobago,TTO,1980,95.0,99.0,99.0,North America
+1790,Trinidad and Tobago,TTO,1990,97.0,99.0,99.0,North America
+1791,Trinidad and Tobago,TTO,2006,,,99.18,North America
+1792,Trinidad and Tobago,TTO,2022,,89.05,99.7281,North America
+1793,Tunisia,TUN,1984,48.0,86.0,63.0,Africa
+1794,Tunisia,TUN,2004,74.0,96.0,92.0,Africa
+1795,Tunisia,TUN,2007,77.0,98.0,95.0,Africa
+1796,Tunisia,TUN,2008,78.0,98.0,95.0,Africa
+1797,Tunisia,TUN,2010,79.0,98.0,96.0,Africa
+1798,Tunisia,TUN,2011,80.0,98.0,96.0,Africa
+1799,Tunisia,TUN,2012,80.0,98.0,96.0,Africa
+1800,Tunisia,TUN,2014,79.0,97.0,96.0,Africa
+1801,Tunisia,TUN,2018,79.47511,98.38471,97.53666,Africa
+1802,Tunisia,TUN,2019,81.0,97.0,97.0,Africa
+1803,Tunisia,TUN,2021,83.68263,98.83691,99.05225,Africa
+1804,Tunisia,TUN,2023,86.24682,98.1943,98.12705,Africa
+1805,Turkey,TUR,1975,62.0,91.0,68.0,Asia
+1806,Turkey,TUR,1980,66.0,94.0,75.0,Asia
+1807,Turkey,TUR,1985,76.0,96.0,86.0,Asia
+1808,Turkey,TUR,1990,79.0,97.0,88.0,Asia
+1809,Turkey,TUR,2004,87.0,98.0,93.0,Asia
+1810,Turkey,TUR,2005,88.0,98.0,94.0,Asia
+1811,Turkey,TUR,2006,88.0,98.0,94.0,Asia
+1812,Turkey,TUR,2007,89.0,99.0,94.0,Asia
+1813,Turkey,TUR,2009,91.0,99.0,97.0,Asia
+1814,Turkey,TUR,2010,93.0,99.0,97.0,Asia
+1815,Turkey,TUR,2011,94.0,99.0,98.0,Asia
+1816,Turkey,TUR,2012,95.0,100.0,98.0,Asia
+1817,Turkey,TUR,2013,95.0,100.0,99.0,Asia
+1818,Turkey,TUR,2014,95.0,100.0,99.0,Asia
+1819,Turkey,TUR,2015,96.0,100.0,99.0,Asia
+1820,Turkey,TUR,2016,96.0,100.0,99.0,Asia
+1821,Turkey,TUR,2017,96.0,100.0,100.0,Asia
+1822,Turkey,TUR,2018,,100.0,98.8,Asia
+1823,Turkey,TUR,2019,97.0,100.0,100.0,Asia
+1824,Turkey,TUR,2021,97.0,100.0,100.0,Asia
+1825,Turkey,TUR,2022,,92.57,91.87,Asia
+1826,Turkmenistan,TKM,1995,99.0,100.0,100.0,Asia
+1827,Turkmenistan,TKM,2015,,,99.83259,Asia
+1828,Turkmenistan,TKM,2019,,,99.98405,Asia
+1829,Turks and Caicos Islands,TCA,2020,,99.88,100.0,North America
+1830,Tuvalu,TUV,2019,,99.09656,98.50764,Oceania
+1831,Uganda,UGA,1991,56.0,77.0,63.0,Africa
+1832,Uganda,UGA,2002,68.0,86.0,76.0,Africa
+1833,Uganda,UGA,2006,71.0,87.0,81.0,Africa
+1834,Uganda,UGA,2010,73.0,90.0,85.0,Africa
+1835,Uganda,UGA,2012,70.0,86.0,82.0,Africa
+1836,Uganda,UGA,2016,69.10132,81.41776,78.18981,Africa
+1837,Ukraine,UKR,2001,99.0,100.0,100.0,Europe
+1838,Ukraine,UKR,2005,,,100.0,Europe
+1839,United Arab Emirates,ARE,1975,54.0,66.0,56.0,Asia
+1840,United Arab Emirates,ARE,1985,71.0,81.0,85.0,Asia
+1841,United Arab Emirates,ARE,2005,90.0,94.0,97.0,Asia
+1842,United Arab Emirates,ARE,2019,98.0,98.0,99.0,Asia
+1843,United Arab Emirates,ARE,2021,98.0,100.0,100.0,Asia
+1844,United Arab Emirates,ARE,2022,98.0,100.0,100.0,Asia
+1845,United Arab Emirates,ARE,2023,98.0,100.0,100.0,Asia
+1846,Upper-middle-income countries,,1976,66.26719,91.12792,75.8102,
+1847,Upper-middle-income countries,,1977,66.49083,91.19227,76.23382,
+1848,Upper-middle-income countries,,1978,67.51543,91.68901,77.93932,
+1849,Upper-middle-income countries,,1979,68.63815,92.23839,79.64136,
+1850,Upper-middle-income countries,,1980,69.66099,92.60793,81.30511,
+1851,Upper-middle-income countries,,1981,70.64652,92.93683,82.77965,
+1852,Upper-middle-income countries,,1982,71.57013,93.15796,83.96197,
+1853,Upper-middle-income countries,,1983,72.50382,93.4401,85.15379,
+1854,Upper-middle-income countries,,1984,73.58393,93.75968,86.28322,
+1855,Upper-middle-income countries,,1985,74.485,93.99423,87.09505,
+1856,Upper-middle-income countries,,1986,75.36734,94.21991,87.842,
+1857,Upper-middle-income countries,,1987,76.26551,94.85824,88.94913,
+1858,Upper-middle-income countries,,1988,79.67043,95.26347,90.77799,
+1859,Upper-middle-income countries,,1989,80.31058,95.32923,91.18136,
+1860,Upper-middle-income countries,,1990,81.04114,95.47237,91.73029,
+1861,Upper-middle-income countries,,1991,81.58651,95.69874,92.20113,
+1862,Upper-middle-income countries,,1992,82.15758,95.88485,92.61763,
+1863,Upper-middle-income countries,,1993,82.6979,96.0724,93.00922,
+1864,Upper-middle-income countries,,1994,83.23142,96.25916,93.42463,
+1865,Upper-middle-income countries,,1995,83.80124,96.46448,93.88871,
+1866,Upper-middle-income countries,,1996,84.31269,96.55877,94.25958,
+1867,Upper-middle-income countries,,1997,88.7168,97.60968,96.68306,
+1868,Upper-middle-income countries,,1998,89.1177,97.6549,96.80286,
+1869,Upper-middle-income countries,,1999,89.47645,97.70646,96.97013,
+1870,Upper-middle-income countries,,2000,89.87667,97.79391,97.0581,
+1871,Upper-middle-income countries,,2001,90.19642,97.85461,97.19832,
+1872,Upper-middle-income countries,,2002,90.54139,97.99065,97.38526,
+1873,Upper-middle-income countries,,2003,90.98183,98.2334,97.6757,
+1874,Upper-middle-income countries,,2004,91.3237,98.30662,97.84007,
+1875,Upper-middle-income countries,,2005,91.58416,98.38385,97.96663,
+1876,Upper-middle-income countries,,2006,91.86817,98.24177,97.81661,
+1877,Upper-middle-income countries,,2007,92.87729,98.41625,98.09707,
+1878,Upper-middle-income countries,,2008,93.30886,98.77105,98.53875,
+1879,Upper-middle-income countries,,2009,93.40503,98.41689,98.16295,
+1880,Upper-middle-income countries,,2010,93.60919,98.39964,98.20577,
+1881,Upper-middle-income countries,,2011,93.75011,98.40447,98.20221,
+1882,Upper-middle-income countries,,2012,93.99739,98.44543,98.25984,
+1883,Upper-middle-income countries,,2013,94.06516,98.41508,98.26575,
+1884,Upper-middle-income countries,,2014,94.41684,98.53498,98.37738,
+1885,Upper-middle-income countries,,2015,94.53935,98.51003,98.35668,
+1886,Upper-middle-income countries,,2016,94.76116,98.51744,98.38106,
+1887,Upper-middle-income countries,,2017,94.77168,98.37493,98.27023,
+1888,Upper-middle-income countries,,2018,94.92602,98.38033,98.28093,
+1889,Upper-middle-income countries,,2019,95.21391,98.49624,98.39383,
+1890,Upper-middle-income countries,,2020,95.32048,98.49807,98.40296,
+1891,Upper-middle-income countries,,2021,95.35308,98.46274,98.39409,
+1892,Upper-middle-income countries,,2022,95.49537,98.46457,98.40409,
+1893,Upper-middle-income countries,,2023,95.61952,98.43889,98.39037,
+1894,Uruguay,URY,1975,94.0,98.0,99.0,South America
+1895,Uruguay,URY,1985,95.0,98.0,99.0,South America
+1896,Uruguay,URY,1996,97.0,98.0,99.0,South America
+1897,Uruguay,URY,2006,98.0,98.0,99.0,South America
+1898,Uruguay,URY,2007,98.0,98.0,99.0,South America
+1899,Uruguay,URY,2008,98.0,98.6,99.2,South America
+1900,Uruguay,URY,2009,98.0,98.6,99.3,South America
+1901,Uruguay,URY,2010,98.0,98.4,99.2,South America
+1902,Uruguay,URY,2011,98.0,98.6,99.1,South America
+1903,Uruguay,URY,2012,98.0,98.6,99.3,South America
+1904,Uruguay,URY,2013,98.0,98.6,99.3,South America
+1905,Uruguay,URY,2014,98.0,98.3,99.4,South America
+1906,Uruguay,URY,2015,99.0,98.6,99.2,South America
+1907,Uruguay,URY,2016,99.0,98.9,99.4,South America
+1908,Uruguay,URY,2017,99.0,98.6,99.3,South America
+1909,Uruguay,URY,2018,99.0,98.6,99.2,South America
+1910,Uruguay,URY,2019,99.0,98.7,99.3,South America
+1911,Uruguay,URY,2021,,99.1,99.2,South America
+1912,Uruguay,URY,2022,99.0,98.9,99.4,South America
+1913,Uruguay,URY,2023,,98.7,99.4,South America
+1914,Uzbekistan,UZB,2000,99.0,100.0,100.0,Asia
+1915,Uzbekistan,UZB,2006,,,100.0,Asia
+1916,Uzbekistan,UZB,2013,100.0,100.0,100.0,Asia
+1917,Uzbekistan,UZB,2014,100.0,100.0,100.0,Asia
+1918,Uzbekistan,UZB,2015,100.0,100.0,100.0,Asia
+1919,Uzbekistan,UZB,2016,100.0,100.0,100.0,Asia
+1920,Uzbekistan,UZB,2018,100.0,100.0,100.0,Asia
+1921,Uzbekistan,UZB,2019,100.0,100.0,100.0,Asia
+1922,Uzbekistan,UZB,2021,100.0,100.0,100.0,Asia
+1923,Uzbekistan,UZB,2022,100.0,100.0,100.0,Asia
+1924,Vanuatu,VUT,1979,53.0,76.0,68.0,Oceania
+1925,Vanuatu,VUT,1999,74.0,,,
+1926,Vanuatu,VUT,2023,87.96032,93.36447,94.51224,Oceania
+1927,Venezuela,VEN,1981,85.0,92.0,94.0,South America
+1928,Venezuela,VEN,1990,90.0,95.0,96.0,South America
+1929,Venezuela,VEN,2000,,96.9,98.2,South America
+1930,Venezuela,VEN,2001,93.0,97.0,98.3,South America
+1931,Venezuela,VEN,2002,,97.2,98.4,South America
+1932,Venezuela,VEN,2003,,97.2,98.5,South America
+1933,Venezuela,VEN,2004,,97.7,98.6,South America
+1934,Venezuela,VEN,2005,,97.6,98.5,South America
+1935,Venezuela,VEN,2006,,97.8,98.8,South America
+1936,Venezuela,VEN,2007,95.0,98.0,98.8,South America
+1937,Venezuela,VEN,2008,,98.1,98.9,South America
+1938,Venezuela,VEN,2009,96.0,98.3,98.8,South America
+1939,Venezuela,VEN,2010,,98.1,98.8,South America
+1940,Venezuela,VEN,2011,95.0,98.3,99.0,South America
+1941,Venezuela,VEN,2012,,98.6,99.1,South America
+1942,Venezuela,VEN,2013,,98.5,98.9,South America
+1943,Venezuela,VEN,2014,,98.6,99.2,South America
+1944,Venezuela,VEN,2015,97.0,99.0,99.0,South America
+1945,Venezuela,VEN,2016,97.0,98.0,99.0,South America
+1946,Vietnam,VNM,1979,84.0,96.0,94.0,Asia
+1947,Vietnam,VNM,1989,88.0,94.0,93.0,Asia
+1948,Vietnam,VNM,1999,90.0,95.0,94.0,Asia
+1949,Vietnam,VNM,2000,90.0,96.0,94.0,Asia
+1950,Vietnam,VNM,2006,,,100.0,Asia
+1951,Vietnam,VNM,2009,94.0,97.0,97.0,Asia
+1952,Vietnam,VNM,2014,,,98.81,Asia
+1953,Vietnam,VNM,2019,96.0,99.0,99.0,Asia
+1954,Vietnam,VNM,2020,,97.48152,98.96916,Asia
+1955,Vietnam,VNM,2022,96.0,99.0,99.0,Asia
+1956,World,OWID_WRL,1975,,84.20595,69.73282,
+1957,World,OWID_WRL,1976,65.65894,84.17135,69.79862,
+1958,World,OWID_WRL,1977,65.94926,84.20283,70.07248,
+1959,World,OWID_WRL,1978,66.57221,84.46616,70.94979,
+1960,World,OWID_WRL,1979,67.2339,84.77585,71.87965,
+1961,World,OWID_WRL,1980,67.8477,84.9404,72.73877,
+1962,World,OWID_WRL,1981,68.45067,85.0829,73.51524,
+1963,World,OWID_WRL,1982,69.04228,85.20493,74.21412,
+1964,World,OWID_WRL,1983,69.61146,85.2977,74.83505,
+1965,World,OWID_WRL,1984,70.2725,85.46811,75.57709,
+1966,World,OWID_WRL,1985,70.86449,85.64762,76.22743,
+1967,World,OWID_WRL,1986,71.41617,85.81324,76.82139,
+1968,World,OWID_WRL,1987,72.10954,86.27433,77.6648,
+1969,World,OWID_WRL,1988,73.82419,87.0731,78.00692,
+1970,World,OWID_WRL,1989,74.34693,87.18682,78.39028,
+1971,World,OWID_WRL,1990,74.90702,87.31748,78.86351,
+1972,World,OWID_WRL,1991,75.28651,87.43884,79.24219,
+1973,World,OWID_WRL,1992,75.69432,87.67215,79.55118,
+1974,World,OWID_WRL,1993,76.10245,87.92209,79.79938,
+1975,World,OWID_WRL,1994,76.50147,88.03336,80.19295,
+1976,World,OWID_WRL,1995,76.91185,88.14821,80.59619,
+1977,World,OWID_WRL,1996,77.29632,88.23841,80.9904,
+1978,World,OWID_WRL,1997,79.28844,88.7176,82.21442,
+1979,World,OWID_WRL,1998,80.4687,89.70054,82.80887,
+1980,World,OWID_WRL,1999,80.806,89.85753,83.27845,
+1981,World,OWID_WRL,2000,80.97923,89.84021,83.30813,
+1982,World,OWID_WRL,2001,81.28601,89.94985,83.82793,
+1983,World,OWID_WRL,2002,81.64019,90.38558,84.33525,
+1984,World,OWID_WRL,2003,82.11429,90.82547,84.83368,
+1985,World,OWID_WRL,2004,82.44728,90.99728,85.37423,
+1986,World,OWID_WRL,2005,82.45476,91.38889,85.40587,
+1987,World,OWID_WRL,2006,82.42529,90.91807,85.46435,
+1988,World,OWID_WRL,2007,83.01185,91.08644,86.00191,
+1989,World,OWID_WRL,2008,83.38555,91.41756,86.55271,
+1990,World,OWID_WRL,2009,83.60871,91.40515,86.77014,
+1991,World,OWID_WRL,2010,84.2272,91.80122,87.23128,
+1992,World,OWID_WRL,2011,84.41082,91.86451,87.70053,
+1993,World,OWID_WRL,2012,84.60142,92.09037,88.10454,
+1994,World,OWID_WRL,2013,84.90313,92.42617,88.67801,
+1995,World,OWID_WRL,2014,85.28642,92.55024,89.10535,
+1996,World,OWID_WRL,2015,85.67891,92.69437,89.52198,
+1997,World,OWID_WRL,2016,86.00014,92.76739,89.83617,
+1998,World,OWID_WRL,2017,86.17703,92.85626,90.04203,
+1999,World,OWID_WRL,2018,86.43751,92.88166,90.12206,
+2000,World,OWID_WRL,2019,86.54794,93.74094,90.9163,
+2001,World,OWID_WRL,2020,86.74748,93.77812,91.07546,
+2002,World,OWID_WRL,2021,86.92754,93.83333,91.26919,
+2003,World,OWID_WRL,2022,87.15536,93.8974,91.50098,
+2004,World,OWID_WRL,2023,87.35603,93.93184,91.67273,
+2005,Yemen,YEM,1994,37.0,83.0,35.0,Asia
+2006,Yemen,YEM,2006,,,65.66,Asia
+2007,Yemen,YEM,2013,,,64.08,Asia
+2008,Yemen,YEM,2023,,61.76,76.91698,Asia
+2009,Zambia,ZMB,1990,65.0,67.0,66.0,Africa
+2010,Zambia,ZMB,1999,68.0,73.0,66.0,Africa
+2011,Zambia,ZMB,2002,69.0,78.0,66.0,Africa
+2012,Zambia,ZMB,2010,83.0,91.0,87.0,Africa
+2013,Zambia,ZMB,2018,71.1323,82.44786,72.90992,Africa
+2014,Zimbabwe,ZWE,1982,78.0,94.0,85.0,Africa
+2015,Zimbabwe,ZWE,1992,84.0,97.0,94.0,Africa
+2016,Zimbabwe,ZWE,2009,,,95.65,Africa
+2017,Zimbabwe,ZWE,2014,,,96.31,Africa
+2018,Zimbabwe,ZWE,2019,93.22755,90.77383,94.2159,Africa

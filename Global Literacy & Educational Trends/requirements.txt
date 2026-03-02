@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+mysql-connector-python
+sqlalchemy
+pymysql
+powerbi
+scikit-learn
+jupyter
+
+statsmodels
+openpyxl
+python-dotenv
