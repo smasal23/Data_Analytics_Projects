@@ -1,0 +1,121 @@
+regression_models:
+  linear_regression:
+    enabled: true
+    family: linear
+    estimator_class: sklearn.linear_model.LinearRegression
+    category: baseline
+    supports_scaling: true
+    supports_feature_importance: false
+    notes: "Simple baseline regression model"
+
+  ridge:
+    enabled: true
+    family: linear
+    estimator_class: sklearn.linear_model.Ridge
+    category: baseline
+    supports_scaling: true
+    supports_feature_importance: false
+    notes: "Regularized linear regression with L2 penalty"
+
+  lasso:
+    enabled: true
+    family: linear
+    estimator_class: sklearn.linear_model.Lasso
+    category: baseline
+    supports_scaling: true
+    supports_feature_importance: false
+    notes: "Regularized linear regression with L1 penalty"
+
+  random_forest:
+    enabled: true
+    family: tree_ensemble
+    estimator_class: sklearn.ensemble.RandomForestRegressor
+    category: strong_baseline
+    supports_scaling: false
+    supports_feature_importance: true
+    notes: "Robust ensemble regressor"
+
+  gradient_boosting:
+    enabled: true
+    family: boosting
+    estimator_class: sklearn.ensemble.GradientBoostingRegressor
+    category: advanced
+    supports_scaling: false
+    supports_feature_importance: true
+    notes: "Boosted regression trees"
+
+  extra_trees:
+    enabled: true
+    family: tree_ensemble
+    estimator_class: sklearn.ensemble.ExtraTreesRegressor
+    category: strong_baseline
+    supports_scaling: false
+    supports_feature_importance: true
+    notes: "Extremely randomized trees regressor"
+
+  xgboost:
+    enabled: true
+    family: boosting
+    estimator_class: xgboost.XGBRegressor
+    category: advanced
+    supports_scaling: false
+    supports_feature_importance: true
+    notes: "Gradient boosting with XGBoost"
+
+  lightgbm:
+    enabled: true
+    family: boosting
+    estimator_class: lightgbm.LGBMRegressor
+    category: advanced
+    supports_scaling: false
+    supports_feature_importance: true
+    notes: "Fast gradient boosting with LightGBM"
+
+clustering_models:
+  kmeans:
+    enabled: true
+    family: centroid_based
+    estimator_class: sklearn.cluster.KMeans
+    category: baseline
+    requires_scaling: true
+    notes: "Primary segmentation candidate"
+
+  agglomerative:
+    enabled: true
+    family: hierarchical
+    estimator_class: sklearn.cluster.AgglomerativeClustering
+    category: comparison
+    requires_scaling: true
+    notes: "Hierarchical clustering comparison model"
+
+active_model_groups:
+  baseline_regression:
+    - linear_regression
+    - ridge
+    - lasso
+    - random_forest
+    - extra_trees
+
+  advanced_regression:
+    - gradient_boosting
+    - xgboost
+    - lightgbm
+
+  clustering:
+    - kmeans
+    - agglomerative
+
+final_candidate_priority:
+  regression:
+    - extra_trees
+    - random_forest
+    - xgboost
+    - lightgbm
+    - gradient_boosting
+    - ridge
+    - lasso
+    - linear_regression
+
+  clustering:
+    - kmeans
+    - agglomerative

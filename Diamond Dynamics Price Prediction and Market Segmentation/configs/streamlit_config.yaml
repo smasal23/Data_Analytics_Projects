@@ -1,0 +1,123 @@
+streamlit:
+  app_title: "Diamond Price Prediction and Market Segmentation"
+  page_icon: "💎"
+  layout: wide
+  initial_sidebar_state: expanded
+
+branding:
+  header_title: "Diamond Price Predictor"
+  header_subtitle: "Estimate price and explore market segment insights"
+  show_footer: true
+  footer_text: "Built by Shubham Masal"
+
+prediction:
+  enabled: true
+  model_artifact: artifacts/models/best_regression_model.joblib
+  pipeline_artifact: artifacts/pipelines/best_regression_pipeline.joblib
+  show_prediction_currency: USD
+  show_inr_conversion: true
+  usd_inr_reference_file: data/external/usd_inr_reference.csv
+  round_prediction_to: 2
+
+segmentation:
+  enabled: true
+  cluster_model_artifact: artifacts/cluster_outputs/final_cluster_model.joblib
+  show_cluster_assignment: true
+  show_cluster_profile_summary: true
+
+input_form:
+  numeric_inputs:
+    carat:
+      min: 0.2
+      max: 5.5
+      default: 1.0
+      step: 0.01
+
+    depth:
+      min: 40.0
+      max: 80.0
+      default: 61.5
+      step: 0.1
+
+    table:
+      min: 40.0
+      max: 80.0
+      default: 57.0
+      step: 0.1
+
+    x:
+      min: 0.0
+      max: 11.0
+      default: 5.7
+      step: 0.01
+
+    y:
+      min: 0.0
+      max: 60.0
+      default: 5.7
+      step: 0.01
+
+    z:
+      min: 0.0
+      max: 35.0
+      default: 3.5
+      step: 0.01
+
+  categorical_inputs:
+    cut:
+      options:
+        - Fair
+        - Good
+        - Very Good
+        - Premium
+        - Ideal
+      default: Ideal
+
+    color:
+      options:
+        - D
+        - E
+        - F
+        - G
+        - H
+        - I
+        - J
+      default: G
+
+    clarity:
+      options:
+        - I1
+        - SI2
+        - SI1
+        - VS2
+        - VS1
+        - VVS2
+        - VVS1
+        - IF
+      default: VS2
+
+display:
+  show_input_preview: true
+  show_engineered_feature_preview: false
+  show_model_confidence_message: true
+  show_prediction_band: true
+  show_cluster_explanation: true
+  show_feature_help: true
+
+messages:
+  prediction_success: "Prediction generated successfully."
+  invalid_input_warning: "Please review the inputs. Some values may be outside expected ranges."
+  model_not_found_error: "Model artifact not found. Train and save the model first."
+  cluster_model_not_found_error: "Cluster model artifact not found. Train and save the clustering model first."
+
+ui_sections:
+  sidebar:
+    show_project_summary: true
+    show_feature_guide: true
+    show_model_info: true
+
+  main:
+    show_prediction_card: true
+    show_segmentation_card: true
+    show_input_summary_table: true
+    show_notes_section: true

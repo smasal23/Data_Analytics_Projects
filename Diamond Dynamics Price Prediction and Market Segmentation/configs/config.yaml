@@ -1,0 +1,73 @@
+project:
+  name: diamond-price-prediction-market-segmentation
+  display_name: "Diamond Price Prediction and Market Segmentation"
+  version: "0.1.0"
+  author: "Shubham Masal"
+  description: >
+    End-to-end machine learning project for diamond price prediction
+    using regression models and market segmentation using clustering.
+  problem_type_primary: regression
+  problem_type_secondary: clustering
+  target_column: price
+  id_column: null
+  random_state: 42
+  seed: 42
+
+execution:
+  environment: development
+  verbose: true
+  save_intermediate_outputs: true
+  overwrite_outputs: true
+  run_data_validation: true
+  run_feature_engineering: true
+  run_regression_pipeline: true
+  run_clustering_pipeline: true
+  run_streamlit_precheck: true
+
+data:
+  raw_filename: diamonds.csv
+  external_reference_filename: usd_inr_reference.csv
+  file_format: csv
+  encoding: utf-8
+  delimiter: ","
+  target_column: price
+  drop_columns: []
+  index_column: null
+
+split:
+  train_size: 0.8
+  test_size: 0.2
+  validation_size_from_train: null
+  random_state: 42
+  shuffle: true
+
+cross_validation:
+  enabled: true
+  strategy: kfold
+  n_splits: 5
+  shuffle: true
+  random_state: 42
+
+logging:
+  level: INFO
+  log_to_file: true
+  log_filename: project.log
+  log_format: "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+
+currency:
+  base_currency: USD
+  display_currency: INR
+  enable_currency_reference: true
+  exchange_rate_source_file: data/external/usd_inr_reference.csv
+
+reporting:
+  save_figures: true
+  save_tables: true
+  generate_markdown_reports: true
+  figure_dpi: 120
+  figure_format: png
+
+reproducibility:
+  numpy_seed: 42
+  python_hash_seed: 42
+  enforce_random_state: true

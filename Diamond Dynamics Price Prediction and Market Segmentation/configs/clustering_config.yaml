@@ -1,0 +1,99 @@
+clustering:
+  enabled: true
+  purpose: market_segmentation
+
+  feature_source: selected_numeric_plus_encoded_quality
+  include_price_in_clustering: true
+  include_engineered_features: true
+
+  input_features:
+    numeric:
+      - carat
+      - depth
+      - table
+      - x
+      - y
+      - z
+      - price
+      - volume_proxy
+      - length_width_ratio
+      - depth_pct_from_dimensions
+    ordinal_encoded:
+      - cut
+      - color
+      - clarity
+
+preprocessing:
+  numeric_imputation: median
+  categorical_imputation: most_frequent
+  scaling: standard
+  encoding: ordinal
+  outlier_handling: clip
+  normalize_before_clustering: false
+
+model_selection:
+  primary_model: kmeans
+  comparison_models:
+    - kmeans
+    - agglomerative
+
+  cluster_range:
+    min_k: 2
+    max_k: 10
+    step: 1
+
+  selection_criteria:
+    primary_metric: silhouette_score
+    secondary_metrics:
+      - davies_bouldin_score
+      - inertia
+    prefer_interpretable_solution: true
+
+kmeans:
+  n_init: 20
+  init: k-means++
+  max_iter: 500
+  random_state: 42
+
+agglomerative:
+  linkage_options:
+    - ward
+    - complete
+    - average
+  distance_metrics:
+    - euclidean
+
+evaluation:
+  compute_silhouette_score: true
+  compute_davies_bouldin_score: true
+  compute_calinski_harabasz_score: true
+  generate_elbow_curve: true
+  generate_cluster_profile_table: true
+  generate_segment_summary_report: true
+
+interpretation:
+  create_cluster_labels: true
+  cluster_label_style: descriptive
+  profile_aggregations:
+    numeric:
+      - mean
+      - median
+      - min
+      - max
+    categorical:
+      - mode
+      - distribution
+
+artifacts:
+  save_cluster_model: true
+  save_cluster_assignments: true
+  save_cluster_profiles: true
+  save_cluster_plots: true
+
+  cluster_model_file: artifacts/cluster_outputs/final_cluster_model.joblib
+  cluster_assignments_file: artifacts/cluster_outputs/cluster_assignments.csv
+  cluster_profiles_file: artifacts/cluster_outputs/cluster_profiles.csv
+  cluster_metrics_file: artifacts/cluster_outputs/clustering_metrics.yaml
+  elbow_plot_file: artifacts/reports/figures/elbow_curve.png
+  silhouette_plot_file: artifacts/reports/figures/silhouette_analysis.png
+  segment_report_file: artifacts/reports/cluster_segment_report.md

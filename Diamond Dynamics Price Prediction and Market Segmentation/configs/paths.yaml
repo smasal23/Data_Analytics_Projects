@@ -1,0 +1,77 @@
+project_root: .
+
+data:
+  root: data
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  external_dir: data/external
+
+  raw_data_file: data/raw/diamonds.csv
+  external_reference_file: data/external/usd_inr_reference.csv
+
+docs:
+  root: docs
+  project_overview: docs/project_overview.md.md
+  problem_statement: docs/problem_statement.md
+  dataset_description: docs/dataset_description.md
+  project_workflow: docs/project_workflow.md
+  feature_dictionary: docs/feature_dictionary.md
+
+notebooks:
+  root: notebooks
+  phase_01: notebooks/01_project_setup_and_data_loading.ipynb
+  phase_02: notebooks/02_data_validation_and_quality_checks.ipynb
+  phase_03: notebooks/03_data_cleaning_and_preprocessing_plan.ipynb
+  phase_04: notebooks/04_exploratory_data_analysis.ipynb
+  phase_05: notebooks/05_feature_engineering.ipynb
+  phase_06: notebooks/06_baseline_regression_modeling.ipynb
+  phase_07: notebooks/07_model_tuning_and_final_selection.ipynb
+  phase_08: notebooks/08_market_segmentation_and_final_packaging.ipynb
+
+src:
+  root: src
+  data_dir: src/data
+  features_dir: src/features
+  modeling_dir: src/modeling
+  visualization_dir: src/visualization
+  utils_dir: src/utils
+
+artifacts:
+  root: artifacts
+  models_dir: artifacts/models
+  metrics_dir: artifacts/metrics
+  reports_dir: artifacts/reports
+  figures_dir: artifacts/reports/figures
+  tables_dir: artifacts/reports/tables
+  processed_data_dir: artifacts/processed_data
+  clustering_dir: artifacts/cluster_outputs
+  logs_dir: artifacts/logs
+  pipelines_dir: artifacts/pipelines
+
+  best_model_file: artifacts/models/best_model.joblib
+  final_regression_pipeline_file: artifacts/pipelines/final_regression_pipeline.joblib
+  cluster_model_file: artifacts/cluster_outputs/final_cluster_model.joblib
+  train_metrics_file: artifacts/metrics/train_metrics.yaml
+  test_metrics_file: artifacts/metrics/test_metrics.yaml
+  regression_results_file: artifacts/metrics/regression_model_results.csv
+  clustering_results_file: artifacts/cluster_outputs/clustering_results.csv
+  processed_dataset_file: artifacts/processed_data/diamonds_processed.csv
+
+app:
+  root: app
+  streamlit_app: app/streamlit_app.py
+  ui_components: app/ui_components.py
+
+tests:
+  root: tests
+
+configs:
+  root: configs
+  main_config: configs/config.yaml
+  paths_config: configs/paths.yaml
+  features_config: configs/features.yaml
+  model_registry: configs/model_registry.yaml
+  regression_config: configs/regression_config.yaml
+  clustering_config: configs/clustering_config.yaml
+  streamlit_config: configs/streamlit_config.yaml

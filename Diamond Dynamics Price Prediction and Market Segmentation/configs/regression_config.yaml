@@ -1,0 +1,134 @@
+regression:
+  enabled: true
+  target_column: price
+  problem_type: regression
+
+  use_log_target: true
+  inverse_transform_predictions_for_reporting: true
+
+  features_source: raw_plus_engineered
+  include_engineered_features: true
+
+  baseline_models:
+    - linear_regression
+    - ridge
+    - lasso
+    - random_forest
+    - extra_trees
+    - gradient_boosting
+
+  advanced_models:
+    - xgboost
+    - lightgbm
+
+  final_model_selection_pool:
+    - extra_trees
+    - random_forest
+    - xgboost
+    - lightgbm
+    - gradient_boosting
+
+evaluation:
+  primary_metric: rmse
+  secondary_metrics:
+    - mae
+    - r2
+    - mape
+  cross_validation_scoring:
+    - neg_root_mean_squared_error
+    - neg_mean_absolute_error
+    - r2
+  compare_on: cv_rmse_mean
+  lower_is_better_metrics:
+    - rmse
+    - mae
+    - mape
+
+preprocessing:
+  numeric_imputation: median
+  categorical_imputation: most_frequent
+  scaling_for_linear_models: true
+  scaling_for_tree_models: false
+  categorical_encoding: onehot
+  handle_unknown_categories: ignore
+  drop_first: false
+
+feature_selection:
+  enabled: false
+  method: none
+  variance_threshold: null
+  correlation_threshold: 0.95
+
+training:
+  test_size: 0.2
+  random_state: 42
+  shuffle: true
+  cv_folds: 5
+  n_jobs: -1
+  return_train_score: true
+
+hyperparameter_tuning:
+  enabled: true
+  search_method: randomized_search
+  n_iter: 20
+  cv_folds: 3
+  scoring: neg_root_mean_squared_error
+  refit: true
+  n_jobs: -1
+  verbose: 2
+
+parameter_grids:
+  ridge:
+    model__alpha: [0.1, 1.0, 10.0, 50.0, 100.0]
+
+  lasso:
+    model__alpha: [0.0001, 0.001, 0.01, 0.1, 1.0]
+
+  random_forest:
+    model__n_estimators: [200, 300, 500]
+    model__max_depth: [null, 10, 20, 30]
+    model__min_samples_split: [2, 5, 10]
+    model__min_samples_leaf: [1, 2, 4]
+    model__max_features: [sqrt, log2]
+
+  extra_trees:
+    model__n_estimators: [200, 300, 500]
+    model__max_depth: [null, 10, 20, 30]
+    model__min_samples_split: [2, 5, 10]
+    model__min_samples_leaf: [1, 2, 4]
+    model__max_features: [sqrt, log2]
+
+  gradient_boosting:
+    model__n_estimators: [100, 200, 300]
+    model__learning_rate: [0.01, 0.05, 0.1]
+    model__max_depth: [2, 3, 4]
+    model__subsample: [0.8, 1.0]
+
+  xgboost:
+    model__n_estimators: [200, 400, 600]
+    model__learning_rate: [0.01, 0.05, 0.1]
+    model__max_depth: [3, 5, 7]
+    model__subsample: [0.8, 1.0]
+    model__colsample_bytree: [0.8, 1.0]
+
+  lightgbm:
+    model__n_estimators: [200, 400, 600]
+    model__learning_rate: [0.01, 0.05, 0.1]
+    model__num_leaves: [31, 63, 127]
+    model__max_depth: [-1, 10, 20]
+    model__subsample: [0.8, 1.0]
+
+artifacts:
+  save_model: true
+  save_pipeline: true
+  save_cv_results: true
+  save_feature_importance: true
+  save_predictions: true
+  save_residual_analysis: true
+
+  best_model_file: artifacts/models/best_regression_model.joblib
+  best_pipeline_file: artifacts/pipelines/best_regression_pipeline.joblib
+  cv_results_file: artifacts/metrics/regression_cv_results.csv
+  test_predictions_file: artifacts/metrics/regression_test_predictions.csv
+  feature_importance_file: artifacts/metrics/regression_feature_importance.csv
+  residual_report_file: artifacts/reports/regression_residual_report.md

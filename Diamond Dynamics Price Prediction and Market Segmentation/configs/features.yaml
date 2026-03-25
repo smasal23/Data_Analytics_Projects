@@ -1,0 +1,197 @@
+schema:
+  target: price
+
+  numeric_features:
+    - carat
+    - depth
+    - table
+    - x
+    - y
+    - z
+
+  categorical_features:
+    - cut
+    - color
+    - clarity
+
+  all_expected_features:
+    - carat
+    - cut
+    - color
+    - clarity
+    - depth
+    - table
+    - price
+    - x
+    - y
+    - z
+
+  required_columns:
+    - carat
+    - cut
+    - color
+    - clarity
+    - depth
+    - table
+    - price
+    - x
+    - y
+    - z
+
+feature_roles:
+  target:
+    - price
+
+  predictors_raw:
+    - carat
+    - cut
+    - color
+    - clarity
+    - depth
+    - table
+    - x
+    - y
+    - z
+
+  predictors_modeling:
+    - carat
+    - cut
+    - color
+    - clarity
+    - depth
+    - table
+    - x
+    - y
+    - z
+
+feature_engineering:
+  enabled: true
+
+  create_dimension_product: true
+  create_length_width_ratio: true
+  create_depth_pct_from_dimensions: true
+  create_table_depth_interaction: true
+  create_carat_squared: true
+  create_volume_proxy: true
+  create_price_per_carat_for_eda_only: true
+
+  engineered_feature_names:
+    - volume_proxy
+    - length_width_ratio
+    - depth_pct_from_dimensions
+    - table_depth_interaction
+    - carat_squared
+
+eda_only_features:
+  - price_per_carat
+
+preprocessing:
+  missing_value_strategy:
+    numeric: median
+    categorical: most_frequent
+
+  outlier_handling:
+    enabled: true
+    strategy: iqr_clip
+    columns:
+      - carat
+      - depth
+      - table
+      - x
+      - y
+      - z
+      - price
+
+  skewness_handling:
+    enabled: true
+    threshold: 1.0
+    candidate_columns:
+      - carat
+      - price
+      - volume_proxy
+    transformation: log1p
+
+  scaling:
+    regression_numeric_scaler: standard
+    clustering_numeric_scaler: standard
+
+  encoding:
+    nominal_strategy: onehot
+    ordinal_strategy: ordinal_if_defined
+    handle_unknown: ignore
+
+ordinal_mappings:
+  cut:
+    Fair: 1
+    Good: 2
+    Very Good: 3
+    Premium: 4
+    Ideal: 5
+
+  color:
+    J: 1
+    I: 2
+    H: 3
+    G: 4
+    F: 5
+    E: 6
+    D: 7
+
+  clarity:
+    I1: 1
+    SI2: 2
+    SI1: 3
+    VS2: 4
+    VS1: 5
+    VVS2: 6
+    VVS1: 7
+    IF: 8
+
+validation_rules:
+  non_negative_columns:
+    - carat
+    - depth
+    - table
+    - price
+    - x
+    - y
+    - z
+
+  strictly_positive_columns:
+    - carat
+    - price
+
+  dimension_columns:
+    - x
+    - y
+    - z
+
+  suspicious_zero_check_columns:
+    - x
+    - y
+    - z
+
+  allowed_categories:
+    cut:
+      - Fair
+      - Good
+      - Very Good
+      - Premium
+      - Ideal
+    color:
+      - D
+      - E
+      - F
+      - G
+      - H
+      - I
+      - J
+    clarity:
+      - I1
+      - SI2
+      - SI1
+      - VS2
+      - VS1
+      - VVS2
+      - VVS1
+      - IF

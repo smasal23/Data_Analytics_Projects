@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "diamond-price-prediction-market-segmentation"
+version = "0.1.0"
+description = "Diamond price prediction and market segmentation project"
+authors = [
+    {name = "Shubham Masal"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
