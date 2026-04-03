@@ -1,0 +1,21 @@
+dataset:
+  expected_splits:
+    - train
+    - valid
+    - test
+
+  expected_classes:
+    - bird
+    - drone
+
+  expected_extension: ".jpg"
+  allowed_extensions:
+    - ".jpg"
+
+audit:
+  sample_images_per_class: 8
+  random_seed: 42
+
+visualization:
+  figure_size: [16, 10]
+  dpi: 150

@@ -1,0 +1,58 @@
+
+---
+
+## `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+*.ipynb_checkpoints
+.env
+.colab/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Models / checkpoints
+models/
+checkpoints/
+runs/
+
+# Figures / reports (optional: keep if you want generated artifacts in repo)
+# figures/
+# reports/
+
+# Streamlit
+.streamlit/
+
+# Misc
+*.tmp
+*.bak

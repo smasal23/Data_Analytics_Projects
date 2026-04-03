@@ -1,0 +1,9 @@
+app:
+  title: "Aerial Object Classification & Detection"
+  layout: "wide"
+  sidebar_state: "expanded"
+
+paths:
+  reports_dir: "reports"
+  figures_dir: "figures"
+  models_dir: "models"

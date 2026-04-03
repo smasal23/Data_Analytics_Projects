@@ -1,0 +1,26 @@
+dataset:
+  expected_splits:
+    - train
+    - valid
+    - test
+
+  image_dir_name: "images"
+  label_dir_name: "labels"
+
+  allowed_image_extensions:
+    - ".jpg"
+
+  allowed_label_extensions:
+    - ".txt"
+
+  yolo_num_values_per_line: 5
+  class_id_min: 0
+  class_id_max: 99
+
+audit:
+  overlay_sample_count: 6
+  random_seed: 42
+
+visualization:
+  figure_size: [16, 10]
+  dpi: 150

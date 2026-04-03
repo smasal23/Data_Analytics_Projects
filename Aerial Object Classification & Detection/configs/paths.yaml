@@ -1,0 +1,45 @@
+project:
+  name: "Aerial_Object_Classification_Detection"
+
+drive:
+  mount_point: "/content/drive"
+  workspace_root: "/content/drive/MyDrive"
+  project_dir_name: "Aerial_Object_Classification_Detection"
+
+paths:
+  project_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection"
+
+  data_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data"
+  raw_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/raw"
+  interim_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/interim"
+  processed_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/processed"
+
+  classification_dataset: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/raw/classification_dataset/data/raw/"
+  object_detection_dataset: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/raw/object_detection_dataset"
+
+  dataset_audit_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/interim/dataset_audit"
+  previews_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/interim/previews"
+  label_checks_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/data/interim/label_checks"
+
+  notebooks_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/notebooks"
+  src_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/src"
+  configs_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/configs"
+  docs_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/docs"
+  reports_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/reports"
+  figures_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures"
+  figures_dataset_audit_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures/dataset_audit"
+  app_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/app"
+
+  models_root: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/models"
+  classification_models_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/models/classification"
+  detection_models_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/models/detection"
+
+  tests_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/tests"
+  logs_dir: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/logs"
+
+files:
+  dataset_audit_report: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/reports/dataset_audit_report.md"
+  class_distribution_figure: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures/dataset_audit/class_distribution.png"
+  bird_samples_figure: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures/dataset_audit/bird_samples.png"
+  drone_samples_figure: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures/dataset_audit/drone_samples.png"
+  detection_samples_figure: "/content/drive/MyDrive/Aerial_Object_Classification_Detection/figures/dataset_audit/detection_samples.png"
